@@ -1,3 +1,13 @@
 # lufuhao.github.io
 
-## nihao
+## Descriptions
+
+This is my blog sites
+
+## Author:
+
+> Fu-Hao Lu
+
+> Scientific Researcher
+
+> Fu-Hao.Lu@jic.ac.uk
