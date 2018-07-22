@@ -597,7 +597,7 @@ base_blog_url: https://lufuhao.wordpress.com
 * 2009-11-20 03:02:26: [博士进高校的经验 [转]](https://lufuhao.wordpress.com/2009/11/20/%e5%8d%9a%e5%a3%ab%e8%bf%9b%e9%ab%98%e6%a0%a1%e7%9a%84%e7%bb%8f%e9%aa%8c-%e8%bd%ac/)
 * 2009-11-19 00:26:19: [中国佛学66句震撼世界的禅语](https://lufuhao.wordpress.com/2009/11/19/%e4%b8%ad%e5%9b%bd%e4%bd%9b%e5%ad%a666%e5%8f%a5%e9%9c%87%e6%92%bc%e4%b8%96%e7%95%8c%e7%9a%84%e7%a6%85%e8%af%ad/)
 * 2009-11-18 05:27:46: [感谢上苍我娶了个农村媳妇（转）](https://lufuhao.wordpress.com/2009/11/18/%e6%84%9f%e8%b0%a2%e4%b8%8a%e8%8b%8d%e6%88%91%e5%a8%b6%e4%ba%86%e4%b8%aa%e5%86%9c%e6%9d%91%e5%aa%b3%e5%a6%87%ef%bc%88%e8%bd%ac%ef%bc%89/)
-* 2009-02-21 04:47:57: [教你10指带戒指真正含义](_posts/20090221-044757.md)
+* 2009-02-21 04:47:57: [教你10指带戒指真正含义]({{siteurl}}/_posts/20090221-044757.md)
 * 2009-02-20 04:28:05: [世界优秀大学的硕士与博士论文集](https://lufuhao.wordpress.com/2009/02/20/%e4%b8%96%e7%95%8c%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%9a%84%e7%a1%95%e5%a3%ab%e4%b8%8e%e5%8d%9a%e5%a3%ab%e8%ae%ba%e6%96%87%e9%9b%86/)
 * 2009-02-20 04:04:00: [亲爱的老婆老公的来信](https://lufuhao.wordpress.com/2009/02/20/%e4%ba%b2%e7%88%b1%e7%9a%84%e8%80%81%e5%a9%86%e8%80%81%e5%85%ac%e7%9a%84%e6%9d%a5%e4%bf%a1/)
 * 2009-02-17 09:55:34: [有时候会很喜欢发一些无聊的短信](https://lufuhao.wordpress.com/2009/02/17/%e6%9c%89%e6%97%b6%e5%80%99%e4%bc%9a%e5%be%88%e5%96%9c%e6%ac%a2%e5%8f%91%e4%b8%80%e4%ba%9b%e6%97%a0%e8%81%8a%e7%9a%84%e7%9f%ad%e4%bf%a1/)
