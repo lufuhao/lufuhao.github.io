@@ -1,11 +1,8 @@
 title: 天涯海角
+
 description: My Web Home
-author_display_name: lufuhao
-author_login: lufuhao
-author_email: lufuhao@hotmail.com
-base_site_url: http://wordpress.com/
+
 base_blog_url: https://lufuhao.wordpress.com
-export_date: 2018/07/22 00:06:17
 
 # 天涯海角
 
