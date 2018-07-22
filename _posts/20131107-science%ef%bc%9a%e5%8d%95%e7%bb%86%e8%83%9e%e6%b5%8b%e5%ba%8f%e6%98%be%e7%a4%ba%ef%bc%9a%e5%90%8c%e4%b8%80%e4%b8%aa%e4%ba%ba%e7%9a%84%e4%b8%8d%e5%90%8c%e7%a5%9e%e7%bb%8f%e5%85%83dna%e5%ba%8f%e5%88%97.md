@@ -1,0 +1,43 @@
+title: Science：单细胞测序显示：同一个人的不同神经元DNA序列不一样
+link: https://lufuhao.wordpress.com/2013/11/07/science%ef%bc%9a%e5%8d%95%e7%bb%86%e8%83%9e%e6%b5%8b%e5%ba%8f%e6%98%be%e7%a4%ba%ef%bc%9a%e5%90%8c%e4%b8%80%e4%b8%aa%e4%ba%ba%e7%9a%84%e4%b8%8d%e5%90%8c%e7%a5%9e%e7%bb%8f%e5%85%83dna%e5%ba%8f%e5%88%97/
+author: lufuhao
+description: 
+post_id: 1243
+created: 2013/11/07 02:59:43
+created_gmt: 2013/11/06 17:59:43
+comment_status: open
+post_name: science%ef%bc%9a%e5%8d%95%e7%bb%86%e8%83%9e%e6%b5%8b%e5%ba%8f%e6%98%be%e7%a4%ba%ef%bc%9a%e5%90%8c%e4%b8%80%e4%b8%aa%e4%ba%ba%e7%9a%84%e4%b8%8d%e5%90%8c%e7%a5%9e%e7%bb%8f%e5%85%83dna%e5%ba%8f%e5%88%97
+status: publish
+post_type: post
+
+# Science：单细胞测序显示：同一个人的不同神经元DNA序列不一样
+
+之前大家一直认为一个人体内的每个细胞都有相同的遗传信息，基因组的特殊表达模式使得不同细胞的功能各异。然而最近发表在_Science_杂志上的文章推翻了该观点。 
+
+确定一个人的不同神经元的基因组只能采用单细胞基因组测序的方法。索尔克研究所的科学家采用单细胞基因组测序的方法发现同一个人中不同的神经元基因组存在多样性。 
+
+该文章的通讯作者Fred Gage博士称，与我们之前的想法不同，不同神经元的遗传标记并不相同，神经元基因组是由不同的DNA片段拼接起来的。 
+
+科学家从三位死者体内分离了一百个神经元，采用单细胞测序技术，科学家试图寻找DNA拷贝数的变异性（copy number variations，CNVs）。结果显示41%的神经元拥有独特的CNV，这表明这些神经元并不是来自于同一个亲本。 
+
+Gage博士称，我们发现一个人的不同神经元DNA序列不一样，该结果让我们非常惊异，我们必须要设计对照试验表明该现象不是试验操作造成的假象。 
+
+于是科学家采用测序诱导多能干细胞（induced pluripotent stem cells ，iPSCs）分化的神经元的方法进行研究，理论上来自于相同表皮细胞的iPSCs基因组是相同的。 
+
+Gage博士称，该实验证明了我们之前的发现，从同一iPSC品系中分化而来的神经元的基因组也有各异的缺失，扩增等现象。 
+
+有趣的是表皮细胞本身也是有遗传差异的，但是没有神经元这么显著。McConnell博士称，神经元比表皮细胞基因组有更大的多样性是说得通的。因为神经元要彼此沟通，形成庞大复杂的网络。 
+
+细胞的基因组不同很可能导致产生的RNA和蛋白质不同，McConnell博士称，如果我们能对一个细胞既进行基因组分析也进行转录组分析，我们对细胞功能分化认识会更深入。 
+
+ 
+
+**Mosaic Copy Number Variation in Human Neurons**
+
+McConnell MJ, Lindberg MR, Brennand KJ, Piper JC, Voet T, Cowing-Zitron C, Shumilina S, Lasken RS, Vermeesch JR, Hall IM, Gage FH. 
+
+We used single-cell genomic approaches to map DNA copy number variation (CNV) in neurons obtained from human induced pluripotent stem cell (hiPSC) lines and postmortem human brains. We identified aneuploid neurons, as well as numerous subchromosomal CNVs in euploid neurons. Neurotypic hiPSC-derived neurons had larger CNVs than fibroblasts, and several large deletions were found in hiPSC-derived neurons but not in matched neural progenitor cells. Single-cell sequencing of endogenous human frontal cortex neurons revealed that 13 to 41% of neurons have at least one megabase-scale de novo CNV, that deletions are twice as common as duplications, and that a subset of neurons have highly aberrant genomes marked by multiple alterations. Our results show that mosaic CNV is abundant in human neurons. 
+
+[doi: 10.1126/science.1243472](http://www.sciencemag.org/content/342/6158/632)
+
+[原文链接](http://www.bioon.com/biology/postgenomics/585454.shtml)

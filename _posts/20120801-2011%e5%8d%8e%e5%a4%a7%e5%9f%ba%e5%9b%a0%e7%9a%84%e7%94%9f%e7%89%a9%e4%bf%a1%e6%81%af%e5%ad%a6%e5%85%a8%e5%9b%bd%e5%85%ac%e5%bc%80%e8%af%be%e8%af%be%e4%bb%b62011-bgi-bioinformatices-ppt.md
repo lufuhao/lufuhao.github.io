@@ -1,0 +1,44 @@
+title: [2011华大基因的生物信息学全国公开课课件]2011 BGI Bioinformatices PPT
+link: https://lufuhao.wordpress.com/2012/08/01/2011%e5%8d%8e%e5%a4%a7%e5%9f%ba%e5%9b%a0%e7%9a%84%e7%94%9f%e7%89%a9%e4%bf%a1%e6%81%af%e5%ad%a6%e5%85%a8%e5%9b%bd%e5%85%ac%e5%bc%80%e8%af%be%e8%af%be%e4%bb%b62011-bgi-bioinformatices-ppt/
+author: lufuhao
+description: 
+post_id: 1212
+created: 2012/08/01 10:52:33
+created_gmt: 2012/07/31 16:52:33
+comment_status: open
+post_name: 2011%e5%8d%8e%e5%a4%a7%e5%9f%ba%e5%9b%a0%e7%9a%84%e7%94%9f%e7%89%a9%e4%bf%a1%e6%81%af%e5%ad%a6%e5%85%a8%e5%9b%bd%e5%85%ac%e5%bc%80%e8%af%be%e8%af%be%e4%bb%b62011-bgi-bioinformatices-ppt
+status: publish
+post_type: post
+
+# [2011华大基因的生物信息学全国公开课课件]2011 BGI Bioinformatices PPT
+
+2011年华大基因的生物信息学全国公开课课件
+
+  
+
+
+1\. [高通量癌症研究_0620.pdf](http://bs.baidu.com/p-59c9636845cc059937db28345f43c76a/8d278c04ea7d25217003eab46011c439?sign=MBOT:gNQ17x3aoMs8:IlB58ooAhkuegmY0Y%2Bm2t%2FMIbVo%3D&time=1343827176&response-content-disposition=attachment; filename=%E9%AB%98%E9%80%9A%E9%87%8F%E7%99%8C%E7%97%87%E7%A0%94%E7%A9%B6_0620.pdf&response-cache-control=private)
+
+Title: 基于高通量测序技术的癌症研究
+
+  
+
+
+2. [如何学习生物信息学_2011-06-23.pdf](http://bs.baidu.com/p-59c9636845cc059937db28345f43c76a/95e8c702dd47ed6750e7d81618c88e65?sign=MBOT:gNQ17x3aoMs8:lPKxU9SZ25%2FLpzAH1YBH5JponGE%3D&time=1343828253&response-content-disposition=attachment; filename=%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6_2011-06-23.pdf&response-cache-control=private)
+
+Title: 如何学习生物信息学
+
+Content: Bio-Linux installation and analysis workflow for DNA and protein
+
+  
+3. [生物信息学导论_2011-06-23.pdf](http://bs.baidu.com/p-59c9636845cc059937db28345f43c76a/74c395543b6d497d4de7891e732be358?sign=MBOT:gNQ17x3aoMs8:8AO8MdxahT9iLya7cnQwMfObrlk%3D&time=1343828530&response-content-disposition=attachment; filename=%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%AF%BC%E8%AE%BA_2011-06-23.pdf&response-cache-control=private)
+
+Title: Development history of bioinformatics  
+
+
+  
+
+
+4. [RNA基础.pdf](http://bs.baidu.com/p-59c9636845cc059937db28345f43c76a/a0e5284aba6157dc27d583ba13893bc6?sign=MBOT:gNQ17x3aoMs8:a7V0KDplQnR0uAWURgImNJUyNaM%3D&time=1343828898&response-content-disposition=attachment; filename=RNA%E5%9F%BA%E7%A1%80.pdf&response-cache-control=private)
+
+Title: miRNA introduction, bioinfo analysis and usage; mRNA analysis

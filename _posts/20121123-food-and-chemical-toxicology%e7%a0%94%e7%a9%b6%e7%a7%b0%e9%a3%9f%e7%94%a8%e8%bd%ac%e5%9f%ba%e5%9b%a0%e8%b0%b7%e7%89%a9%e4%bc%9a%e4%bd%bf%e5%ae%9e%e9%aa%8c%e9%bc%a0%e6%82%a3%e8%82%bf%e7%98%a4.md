@@ -1,0 +1,49 @@
+title: Food and Chemical Toxicology:研究称食用转基因谷物会使实验鼠患肿瘤
+link: https://lufuhao.wordpress.com/2012/11/23/food-and-chemical-toxicology%e7%a0%94%e7%a9%b6%e7%a7%b0%e9%a3%9f%e7%94%a8%e8%bd%ac%e5%9f%ba%e5%9b%a0%e8%b0%b7%e7%89%a9%e4%bc%9a%e4%bd%bf%e5%ae%9e%e9%aa%8c%e9%bc%a0%e6%82%a3%e8%82%bf%e7%98%a4/
+author: lufuhao
+description: 
+post_id: 1223
+created: 2012/11/23 04:10:04
+created_gmt: 2012/11/22 19:10:04
+comment_status: open
+post_name: food-and-chemical-toxicology%e7%a0%94%e7%a9%b6%e7%a7%b0%e9%a3%9f%e7%94%a8%e8%bd%ac%e5%9f%ba%e5%9b%a0%e8%b0%b7%e7%89%a9%e4%bc%9a%e4%bd%bf%e5%ae%9e%e9%aa%8c%e9%bc%a0%e6%82%a3%e8%82%bf%e7%98%a4
+status: publish
+post_type: post
+
+# Food and Chemical Toxicology:研究称食用转基因谷物会使实验鼠患肿瘤
+
+法国研究机构近日公布一项研究成果称，食用常见转基因谷物会使实验鼠患上肿瘤和多种器官损伤。法国农业部长勒弗尔、环境部长黛尔菲那巴多，以及社会事务部部长玛利索尔图雷纳均表示，已要求法国健康安全局对这项研究成果进行调查。法国健康安全局认为，法国政府将敦促欧盟采取一切必要措施，保护人类和动物健康。 
+
+实验两年得出研究成果 
+
+不久前，法国凯恩大学科学家公布的研究结果称，用转基因玉米NK603喂养的实验鼠患上了肿瘤。是美国孟山都公司研制的一种转基因玉米，通过转基因技术，这种玉米对孟山都公司生产的草甘膦除草剂“Round?up”具有抗药性。因此种植这种转基因玉米的农民可以放心使用“Roundup”，既不会对作物造成影响，又能节省费用。但凯恩大学研究团队发现，用NK603和被“Roundup”污染的饲料喂养的实验鼠，罹患肿瘤和其他内脏损伤比例非常高。 
+
+这一研究成果已刊发在《食品化学毒物学》杂志上（相关论文），研究强调，这是首次在长达两年以上只吃转基因谷物的实验鼠身上得出的研究成果，而通常在白鼠身上进行的实验往往只持续90天。 
+
+雌性实验鼠伤害更严重 
+
+在实验中，200只雄性和雌性实验鼠各自被分成十组，每组十只。其中一组被作为“对比组”，喂食含有33%转基因谷物的普通饲料和白水，另外三组被喂食含有较大剂量草甘膦除草剂的饲料和水，目的是反映除草剂对食物链的影响。而另外六组则被喂食含有不同比例NK603的饲料。 
+
+经过长达两年的观察，研究人员发现NK603和草甘膦除草剂对实验鼠的健康造成了相似的危害，尤其在雌性实验鼠中，幼鼠夭折和患病的比例特别高。在实验进行到第14个月时，对照组的实验鼠没有一例发现患癌，而在被喂食含有NK603和草甘膦除草剂饲料的组别中，有10%到30%的实验鼠患上了肿瘤。 
+
+实验进行到24个月，在所有喂食含有NK603和草甘膦除草剂饲料的组别中，50%到80%的实验鼠长了肿瘤，而且平均每只长的肿瘤多达3个，而在对照组中，只有30%患病。而在接受实验的雄性实验鼠中，出现的主要健康问题包括肝脏受损、肾脏和皮肤肿瘤，以及消化系统疾病。 
+
+欧盟或禁止进口转基因谷物 
+
+研究结果公布后，孟山都公司法国总部称：“我们还需要请专家对研究结果评估，现在做出评论为时过早。此前所做的超过300多次实验都证明是安全的。” 
+
+长期以来，欧洲一些环保团体认为，转基因作物可能对人类健康和环境造成危害，但一直没有长期的大规模研究成果作为依据。在欧洲，并不种植NK603，只会进口这种转基因玉米作为饲料，这一研究报告可能导致欧盟禁止进口这种转基因谷物。只有孟山都公司研发的MON810型转基因玉米在欧洲获得了种植许可。然而在澳大利亚、保加利亚、法国、希腊、匈牙利、卢森堡和罗马尼亚，已经禁止了种植MON810型转基因玉米。
+
+ 
+
+**Long term toxicity of a Roundup herbicide and a Roundup-tolerant genetically modified maize**
+
+Gilles-Eric Séralinia, Emilie Claira, Robin Mesnagea, Steeve Gressa, Nicolas Defargea, Manuela Malatestab, Didier Hennequinc, Joel Spiroux de Vendomoisa 
+
+The health effects of a Roundup-tolerant genetically modified maize (from 11% in the diet), cultivated with or without Roundup, and Roundup alone (from 0.1 ppb in water), were studied 2 years in rats. In females, all treated groups died 2–3 times more than controls, and more rapidly. This difference was visible in 3 male groups fed GMOs. All results were hormone and sex dependent, and the pathological profiles were comparable. Females developed large mammary tumors almost always more often than and before controls, the pituitary was the second most disabled organ; the sex hormonal balance was modified by GMO and Roundup treatments. In treated males, liver congestions and necrosis were 2.5–5.5 times higher. This pathology was confirmed by optic and transmission electron microscopy. Marked and severe kidney nephropathies were also generally 1.3–2.3 greater. Males presented 4 times more large palpable tumors than controls which occurred up to 600 days earlier. Biochemistry data confirmed very significant kidney chronic deficiencies; for all treatments and both sexes, 76% of the altered parameters were kidney related. These results can be explained by the non linear endocrine-disrupting effects of Roundup, but also by the overexpression of the transgene in the GMO and its metabolic consequences. 
+
+[doi：10.1016/j.fct.2012.08.](http://www.sciencedirect.com/science/article/pii/S0278691512005637)
+
+ 
+
+[原文链接](http://www.bioon.com/biology/Class18/530137.shtml)

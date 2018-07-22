@@ -1,0 +1,35 @@
+title: 转录组测序概述及实验分析流程Transcriptome sequencing and main workflow
+link: https://lufuhao.wordpress.com/2012/07/01/%e8%bd%ac%e5%bd%95%e7%bb%84%e6%b5%8b%e5%ba%8f%e6%a6%82%e8%bf%b0%e5%8f%8a%e5%ae%9e%e9%aa%8c%e5%88%86%e6%9e%90%e6%b5%81%e7%a8%8btranscriptome-sequencing-and-main-workflow/
+author: lufuhao
+description: 
+post_id: 1138
+created: 2012/07/01 15:07:49
+created_gmt: 2012/06/30 21:07:49
+comment_status: open
+post_name: %e8%bd%ac%e5%bd%95%e7%bb%84%e6%b5%8b%e5%ba%8f%e6%a6%82%e8%bf%b0%e5%8f%8a%e5%ae%9e%e9%aa%8c%e5%88%86%e6%9e%90%e6%b5%81%e7%a8%8btranscriptome-sequencing-and-main-workflow
+status: publish
+post_type: post
+
+# 转录组测序概述及实验分析流程Transcriptome sequencing and main workflow
+
+**一、 转录组测序概述**
+
+转录组是特定物种、组织或细胞类型转录的所有RNA（转录本）的集合，包括mRNA和非编码RNA(Non-coding RNA， 非编码RNA又包括：tRNA，rRNA，snoRNA，microRNA，piRNA，lncRNA等。通过比较转录组或基因表达谱的研究以揭示生物学现象或疾病发生的分子机制是高通量组学研究的一个常用策略。利用高通量测序技术研究转录组在全面快速得到基因表达谱变化的同时，还可以通过测定的序列信息精确地分析转录本的cSNP（编码序列单核苷酸多态性）、可变剪接等序列及结构变异，另外对于检测低丰度转录本和发现新转录本具有其独特的优势。
+
+**二、 转录组测序技术优势**
+
+1\. 直接得到核酸序列信息，除了得到基因表达量的差异，更可以检测RNA的结构和结构变异。
+
+2\. 开放性的转录组分析：无需参考基因组信息，无需设计探针，不但能检测已知基因还能够发现新的转录本。
+
+3\. 在测序覆盖率足够大时能够检测到细胞中的低丰度转录本。
+
+4\. 随着测序深度的增加可以获得更广的动态检测范围，能够同时鉴定和定量高丰度转录本和低丰度转录本。
+
+**三、 转录组测序实验技术路线**
+
+**![](http://lufuhao.files.wordpress.com/2012/07/rnaseq-workflow.jpg)**
+
+****四、 转录组测序数据分析技术路线****
+
+****![](http://lufuhao.files.wordpress.com/2012/07/rnaseq-analysis.jpg)****

@@ -1,0 +1,35 @@
+title: PNAS：新RNA转录变体可简化生物线路
+link: https://lufuhao.wordpress.com/2011/06/02/pnas%ef%bc%9a%e6%96%b0rna%e8%bd%ac%e5%bd%95%e5%8f%98%e4%bd%93%e5%8f%af%e7%ae%80%e5%8c%96%e7%94%9f%e7%89%a9%e7%ba%bf%e8%b7%af/
+author: lufuhao
+description: 
+post_id: 613
+created: 2011/06/02 22:46:56
+created_gmt: 2011/06/02 13:46:56
+comment_status: open
+post_name: pnas%ef%bc%9a%e6%96%b0rna%e8%bd%ac%e5%bd%95%e5%8f%98%e4%bd%93%e5%8f%af%e7%ae%80%e5%8c%96%e7%94%9f%e7%89%a9%e7%ba%bf%e8%b7%af
+status: publish
+post_type: post
+
+# PNAS：新RNA转录变体可简化生物线路
+
+近年来，合成生物学发展迅速，研究人员给微生物设计的功能也越来越复杂，但在细胞行为的可预测性、安全性和高效性方面仍有很多难以解决的问题。据每日科学网站5月30日（北京时间）报道，美国能源部劳伦斯伯克利国家实验室生物学家创造出一种能放大RNA（核糖核酸）转录信号的变体，可大大简化控制细胞行为的生物线路，并将改变未来基因网络的设计与构建，使控制细胞行为在安全高效性上更进一步。研究论文发表在最近出版的美国《国家科学院院刊》（PNAS）上。 
+
+合成生物学有两个基本目标，一是给标准化的基因制造相似的亲属家族，二是编程控制细胞行为，提高细胞行为的可预测性。细胞行为通常由多个不同的基因通过RNA机制来共同调控，合成生物学家正是利用RNA调控机制来编写细胞的基因网络程序，以达到某种特殊目的。但迄今为止，各种编程都需要增加蛋白质以放大RNA的调控信号，这些蛋白质增加了生物路线的复杂性。早期开发的大部分技术也因此在实验中效率很低且出现大量失误。 
+
+研究人员亚当·阿金和同事不用增加蛋白质，直接放大了RNA分子的调控信号。他们利用金黄色葡萄球菌细胞质粒pT181中的一种基本元素，制造出了一种衰减子的变体。该变体能在同一个细胞中独立调控多靶点的转录行为，但其功能与RNA媒介转录衰减机制相反，并通过RNA间的相互作用来执行调控基因活性和转录的功能。研究人员随后在最普通的埃希氏菌属大肠杆菌（Escherichia coli）中验证了其功能。 
+
+阿金说：“这种变体只是对天然RNA转录衰减子的结构做了微小的正交改变而成，但其独立控制转录过程就比基因网络所需遵循的构建规则更简单。”之前的其他RNA调控机制，需要一个网络协同合作多条线路，每个基因只能执行整个控制功能中的部分任务，而他们制造的衰减子变体简化了路线，能一次完成整个控制功能。 
+
+阿金还指出，这种利用自然界RNA系统构造正交变体的策略也能用于其他基因调控机制，为RNA转录调控提供了多种功能的新设计。他们利用RNA调控系统开发出一个完整且能升级的生物工程系统，最终制造出一种整合了主体线路设计与部署实施的革新型工具。 
+
+**推荐原文出处：**
+
+_Proceedings of the National Academy of Sciences_     DOI： 10.1073/pnas.1015741108 
+
+**Versatile RNA-sensing transcriptional regulators for engineering genetic networks**
+
+_Lucks, Julius B.; Qi, Lei; Mutalik, Vivek K.; Wang, Denise; Arkin, Adam P._
+
+The widespread natural ability of RNA to sense small molecules and regulate genes has become an important tool for syntheticbiology in applications as diverse as environmental sensing and metabolic engineering. Previous work in RNA synthetic biologyhas engineered RNA mechanisms that independently regulate multiple targets and integrate regulatory signals. However, intracellularregulatory networks built with these systems have required proteins to propagate regulatory signals. In this work, we removethis requirement and expand the RNA synthetic biology toolkit by engineering three unique features of the plasmid pT181 antisense-RNA-mediatedtranscription attenuation mechanism. First, because the antisense RNA mechanism relies on RNA-RNA interactions, we show howthe specificity of the natural system can be engineered to create variants that independently regulate multiple targets inthe same cell. Second, because the pT181 mechanism controls transcription, we show how independently acting variants can beconfigured in tandem to integrate regulatory signals and perform genetic logic. Finally, because both the input and outputof the attenuator is RNA, we show how these variants can be configured to directly propagate RNA regulatory signals by constructingan RNA-meditated transcriptional cascade. The combination of these three features within a single RNA-based regulatory mechanismhas the potential to simplify the design and construction of genetic networks by directly propagating signals as RNA molecules. 
+
+<http://www.bioon.com/biology/Class18/486319.shtml>

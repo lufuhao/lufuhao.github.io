@@ -1,0 +1,72 @@
+title: Diffinity RapidTip_快速纯化PCR产物
+link: https://lufuhao.wordpress.com/2011/09/07/diffinity-rapidtip_%e5%bf%ab%e9%80%9f%e7%ba%af%e5%8c%96pcr%e4%ba%a7%e7%89%a9/
+author: lufuhao
+description: 
+post_id: 720
+created: 2011/09/07 10:44:53
+created_gmt: 2011/09/07 01:44:53
+comment_status: open
+post_name: diffinity-rapidtip_%e5%bf%ab%e9%80%9f%e7%ba%af%e5%8c%96pcr%e4%ba%a7%e7%89%a9
+status: publish
+post_type: post
+
+# Diffinity RapidTip_快速纯化PCR产物
+
+**Diffinity RapidTip™ — it’s all in the tip!**
+
+  * One minute PCR purification in a single step! 
+  * No bind-wash-elute, enzymes, or use of magnetic beads!
+
+The Diffinity RapidTip functional pipette tip contains everything you need for PCR purification. The tip is filled with our proprietary adsorption technology that has a differential affinity for PCR reaction components. The impurities (e.g., single-stranded primers and nucleotides used in the PCR process) are removed from the solution as it enters the pipette tip. Dispensing the solution yields purified, high quality DNA ready to use in your next application. You don’t need to use any capital equipment, reagents or buffers, or enzymes — all you need is a pipettor! 
+
+[RapidTip Demonstration Video](http://www.diffinitygenomics.com/product_videos.asp)  
+[Diffinity RapidTip Brochure - (PDF)](http://www.diffinitygenomics.com/content/docs/DiffinityTwo-sidedSellsheet_20110830.pdf)
+
+**How It Works**
+
+The functional pipette tip will fit on most conventional single or multiple, manual or automated laboratory pipettors.  Samples containing DNA and impurities are aspirated into the tip where the impurities are adsorbed onto proprietary surfaces within the tip by mixing for approximately one minute.  Expelling the solution yields purified DNA, the desired product. 
+
+![How RapidTip Works](http://www.diffinitygenomics.com/content/images/RapidTip%20Diagram%20for%20WebPage.png)
+
+**Features and Benefits  
+**
+
+**Excellent Yield**  
+Recovers up to 90% of high quality dsDNA ready to use in subsequent applications.  
+**One Minute, One Step **  
+Extremely fast and efficient process to rapidly recover clean DNA.  
+**Cost Effective **  
+No capital equipment (e.g., centrifuge, magnetic extractor, vacuum manifold), extra plasticware, or liquids are required. Less labor time required due to simple protocol.  
+**Robot Compatible  
+**Easily integrated on automated equipment for high throughput processing and increased productivity. Same purification process, eliminates additional process validation.  
+**No Bind-Wash-Elute Steps**  
+Eliminates use of large amounts of reagents and time-consuming, tedious protocols.
+**Effective Purification**  
+Removes up to 90% of primers, ssDNA, and primer dimers.  
+**Large Range of Fragment Length**  
+Returns pure DNA fragments of 100bp to 10Kb.  
+**Easy to Use  
+**Single step protocol requires little to no training of lab personnel. Simple protocol requires no complex operator techniques or interactions with equipment, buffers, or reagents.  
+**Environmentally Friendly**  
+Waste is limited to the functional tip. No extra materials, tips, columns, buffers, or reagents required to purify PCR product.  
+**  
+Seamless Workflow**  
+Uses standard pipettor so no changes are needed to your current lab workflows.
+
+**** 
+
+**Catalog Number**
+**Product**
+
+RT025-008*
+Diffinity RapidTip Sample (8) for PCR Purification
+
+RT025-048
+Diffinity RapidTip (48) for PCR Purification (1 Box of 48 tips)
+
+RT025-096**
+Diffinity RapidTip (96) for PCR Purification (1 Box of 96 tips)
+
+* subject to availability  
+** quantity discounts available.    
+Customer Service: +1-877-362-1812.

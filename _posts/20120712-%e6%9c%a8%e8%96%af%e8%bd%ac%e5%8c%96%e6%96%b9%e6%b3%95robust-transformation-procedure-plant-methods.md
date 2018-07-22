@@ -1,0 +1,35 @@
+title: 木薯转化方法Robust transformation procedure —Plant Methods
+link: https://lufuhao.wordpress.com/2012/07/12/%e6%9c%a8%e8%96%af%e8%bd%ac%e5%8c%96%e6%96%b9%e6%b3%95robust-transformation-procedure-plant-methods/
+author: lufuhao
+description: 
+post_id: 1152
+created: 2012/07/12 16:46:57
+created_gmt: 2012/07/12 07:46:57
+comment_status: open
+post_name: %e6%9c%a8%e8%96%af%e8%bd%ac%e5%8c%96%e6%96%b9%e6%b3%95robust-transformation-procedure-plant-methods
+status: publish
+post_type: post
+
+# 木薯转化方法Robust transformation procedure —Plant Methods
+
+### Robust transformation procedure for the production of transgenic farmer-preferred cassava cultivars
+
+**Ima Zainuddin**, **Kim Schlegel**, **Wilhelm Gruissem** and **Herve Vanderschuren**
+
+_Plant Methods_ 2012, **8**:24. doi: [10.1186/1746-4811-8-24](http://dx.doi.org/10.1186/1746-4811-8-24) [PDF](http://bs.baidu.com/p-59c9636845cc059937db28345f43c76a/a51785fe52c97f5008bba81a89303e21?sign=MBOT:gNQ17x3aoMs8:8yncU2Gh8B38PH%2BoY6dvuxBSxwc%3D&time=1342122349&response-content-disposition=attachment;%20filename=Cassava.transformation.pdf&response-cache-control=private)
+
+##### _Abstract_
+
+Recent progress in cassava transformation has allowed the robust production of transgenic cassava even under suboptimal plant tissue culture conditions. The transformation protocol has so far been used mostly for the cassava model cultivar 60444 because of its good regeneration capacity of embryogenic tissues. However, for deployment and adoption of transgenic cassava in the field it is important to develop robust transformation methods for farmer- and industry-preferred landraces and cultivars. Because dynamics of multiplication and regeneration of embryogenic tissues differ between cassava genotypes, it was necessary to adapt the efficient cv. 60444 transformation protocol to genotypes that are more recalcitrant to transformation. Here we demonstrate that an improved cassava transformation protocol for cv. 60444 could be successfully modified for production of transgenic farmerpreferred cassava landraces. The modified transformation method reports on procedures for optimization and is likely transferable to other cassava genotypes reportedly recalcitrant to transformation provided production of high quality friable embryogenic callus (FEC). Because the three farmer-preferred cassava landraces selected in this study have been identified as resistant or tolerant to cassava mosaic disease (CMD), the adapted protocol will be essential to mobilize improved traits into cassava genotypes suitable for regions where CMD limits production.
+
+![image](http://lufuhao.files.wordpress.com/2012/07/image_thumb.png)
+
+**Figure 1** Primary somatic embryos of cassava genotypes: A. cv. 60444, B. 2ndAgric, C. Oko-iyawo, D. Abbey-ife
+
+![image](http://lufuhao.files.wordpress.com/2012/07/image_thumb1.png)
+
+**Figure 2** Proliferating FEC from cassava genotypes: (A) cv. 60444, (B) 2ndAgric, (C) Oko-iyawo, (D) Abbey-ife
+
+![image](http://lufuhao.files.wordpress.com/2012/07/image_thumb2.png)
+
+**Figure 5** GUS staining of transformed cassava landraces: (A) cv. 60444, (B) 2ndAgric, (C) Oko-iyawo, (D) Abbey-ife

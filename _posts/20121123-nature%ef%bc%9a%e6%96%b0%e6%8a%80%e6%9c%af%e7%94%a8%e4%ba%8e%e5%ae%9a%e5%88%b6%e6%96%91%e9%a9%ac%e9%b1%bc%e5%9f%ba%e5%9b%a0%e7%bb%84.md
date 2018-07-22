@@ -1,0 +1,33 @@
+title: Nature：新技术用于定制斑马鱼基因组
+link: https://lufuhao.wordpress.com/2012/11/23/nature%ef%bc%9a%e6%96%b0%e6%8a%80%e6%9c%af%e7%94%a8%e4%ba%8e%e5%ae%9a%e5%88%b6%e6%96%91%e9%a9%ac%e9%b1%bc%e5%9f%ba%e5%9b%a0%e7%bb%84/
+author: lufuhao
+description: 
+post_id: 1233
+created: 2012/11/23 04:22:38
+created_gmt: 2012/11/22 19:22:38
+comment_status: open
+post_name: nature%ef%bc%9a%e6%96%b0%e6%8a%80%e6%9c%af%e7%94%a8%e4%ba%8e%e5%ae%9a%e5%88%b6%e6%96%91%e9%a9%ac%e9%b1%bc%e5%9f%ba%e5%9b%a0%e7%bb%84
+status: publish
+post_type: post
+
+# Nature：新技术用于定制斑马鱼基因组
+
+近日，梅奥诊所研究人员和一个国际研究小组科学家开发出一种高效的技术方法来“编辑”斑马鱼基因组，这大大消除了阻碍生物医学科学家使用斑马鱼作为人类疾病研究模型的瓶颈，相关研究论文发表今天的_Nature_杂志上。
+
+![2012092410555089](http://lufuhao.files.wordpress.com/2012/11/2012092410555089_thumb.jpg)
+
+对于许多研究人员来说，斑马鱼正在成为开展基因研究的首选模式动物。然而，无法有效地针对特定基因进行修饰却大大阻碍了斑马鱼的运用。 
+
+梅奥研究所团队使用一个改进型转录激活因子样效应物核酸酶（transcription activator-like effector nucleases，TALENs）使斑马鱼基因组发生变化如小只有几个核苷酸的变化或添加一个特定的序列。Stephen Ekker博士说：这是第一次有技术能对斑马鱼基因组进行自定义更改。 
+
+Ekker博士说，这个新技术通过引入点突变、调控基因的等位基因设计为一系列人类疾病模型以及经典实验中运用斑马鱼为动物模型打开了方便之门。这种新方法还能影响其他模型系统包括小鼠、大鼠、果蝇和蠕虫，并可能用于干细胞研究中。 
+
+**In vivo genome editing using a high-efficiency TALEN system**
+
+Victoria M. Bedell,Ying Wang,Jarryd M. Campbell,Tanya L. Poshusta,et al. 
+
+The zebrafish (Danio rerio) is increasingly being used to study basic vertebrate biology and human disease with a rich array of in vivo genetic and molecular tools. However, the inability to readily modify the genome in a targeted fashion has been a bottleneck in the field. Here we show that improvements in artificial transcription activator-like effector nucleases (TALENs) provide a powerful new approach for targeted zebrafish genome editing and functional genomic applications. Using the GoldyTALEN modified scaffold and zebrafish delivery system, we show that this enhanced TALEN toolkit has a high efficiency in inducing locus-specific DNA breaks in somatic and germline tissues. At some loci, this efficacy approaches 100%, including biallelic conversion in somatic tissues that mimics phenotypes seen using morpholino-based targeted gene knockdowns6. With this updated TALEN system, we successfully used single-stranded DNA oligonucleotides to precisely modify sequences at predefined locations in the zebrafish genome through homology-directed repair, including the introduction of a custom-designed EcoRV site and a modified loxP (mloxP) sequence into somatic tissue in vivo. We further show successful germline transmission of both EcoRV and mloxP engineered chromosomes. This combined approach offers the potential to model genetic variation as well as to generate targeted conditional alleles. 
+
+[doi:10.1038/nature1153](http://dx.doi.org/10.1038/nature11537)
+
+[OringinalText](http://www.bioon.com/biology/ShowArticle.asp?ArticleID=530188)

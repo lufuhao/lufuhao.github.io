@@ -1,0 +1,27 @@
+title: An AFLP-based genome-wide mapping strategy
+link: https://lufuhao.wordpress.com/2010/08/17/an-aflp-based-genome-wide-mapping-strategy/
+author: lufuhao
+description: 
+post_id: 51
+created: 2010/08/17 12:38:11
+created_gmt: 2010/08/17 12:38:11
+comment_status: open
+post_name: an-aflp-based-genome-wide-mapping-strategy
+status: publish
+post_type: post
+
+# An AFLP-based genome-wide mapping strategy
+
+**An AFLP-based genome-wide mapping strategy**
+
+To efficiently determine the chromosomal location of phenotypic mutants, we designed a genome-wide mapping strategy that can be used in any crop for which a dense AFLP (Amplified Fragment Length Polymorphism) map is available or can be made. The AFLP technique is particularly suitable to initiate map-based cloning projects because it detects many markers per reaction. 
+
+First a standard set of AFLP primer combinations that results in a framework of AFLP markers well dispersed over the genome is selected. These primer combinations are applied to a limited number of mutant individuals from a segregating population to register linkage and non-linkage of the AFLP markers to the gene-of-interest. 
+
+Further delineation of the area of interest is accomplished by analyzing the remaining recombinants and additional mutant individuals with AFLP markers that lie within the identified region. We illustrate the usefulness of the method by mapping three _rotunda_ (_ ron_) leaf-form mutant loci of _Arabidopsis thaliana_ and show that in the initial phase of map-based cloning projects a 400-600 kb interval can be identified for the average mutant locus within a few weeks. 
+
+Once such an area is identified and before initiating the more time-consuming fine-mapping procedure, it is essential to examine publicly available databases for candidate genes and known mutants in the identified region. The 390-kb interval on chromosome 4 that harbors the _ron2_ mutation, also carries a known flower mutant, _leunig_ (_lug_); upon crossing, the two mutants appeared to be allelic. 
+
+When no such candidates are found, the mapping procedure should be continued. We present a strategy to efficiently select recombinants that can be used for fine mapping. 
+
+From: Peters JL, et al. An AFLP-based genome-wide mapping strategy. Theor Appl Genet, 2004, 108 (2): 321-7.

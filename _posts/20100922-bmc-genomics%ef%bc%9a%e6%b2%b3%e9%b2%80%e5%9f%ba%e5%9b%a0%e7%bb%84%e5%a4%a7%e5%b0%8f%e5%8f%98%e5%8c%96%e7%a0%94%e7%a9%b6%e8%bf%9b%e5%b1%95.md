@@ -1,0 +1,35 @@
+title: BMC Genomics：河鲀基因组大小变化研究进展
+link: https://lufuhao.wordpress.com/2010/09/22/bmc-genomics%ef%bc%9a%e6%b2%b3%e9%b2%80%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%a4%a7%e5%b0%8f%e5%8f%98%e5%8c%96%e7%a0%94%e7%a9%b6%e8%bf%9b%e5%b1%95/
+author: lufuhao
+description: 
+post_id: 13
+created: 2010/09/22 05:57:00
+created_gmt: 2010/09/22 05:57:00
+comment_status: open
+post_name: bmc-genomics%ef%bc%9a%e6%b2%b3%e9%b2%80%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%a4%a7%e5%b0%8f%e5%8f%98%e5%8c%96%e7%a0%94%e7%a9%b6%e8%bf%9b%e5%b1%95
+status: publish
+post_type: post
+
+# BMC Genomics：河鲀基因组大小变化研究进展
+
+基因组大小，是指一个基因组中所拥有的DNA含量，是生物进化中最基本的、同时也是最复杂的遗传特征之一。例如，生物的复杂度并不与基因组大小有显著相关，即C值悖论。作为模式物种的红旗东方鲀和斑点绿河鲀是目前已知的具有最小基因组大小的脊椎动物（<400Mb，仅相当于人基因组大小的八分之一），对它们的全基因组测序分析发现，它们却具有与人相近的基因数目。正因为如此，河鲀基因组大小变化的研究引起关注。
+
+在中国科学院水生生物研究所何舜平研究员的指导下，博士研究生郭宝成等通过构建刺河鲀（基因组大小为780Mb）的BAC文库和随机挑取克隆测序，在基因组水平对河鲀基因组大小变化进行了研究。对10个BAC克隆、长度776 kb的刺河鲀基因组测序分析发现，河鲀基因组大小变化同时表现为基因组同源区域和非同源区域长度的变化；基因组注释结果表明，内含子长度与河鲀基因组大小变化呈正相关，刺河鲀的内含子长度为566bp，统计上显著大于红旗东方鲀和斑点绿河鲀的内含子长度（435bp）；转座子序列的含量和家族在不同河鲀基 因组表现出明显的不同，并且转座子序列在不同河鲀基因组内的非等速积累是造成河鲀基因组大小变化的主要机制。
+
+这一结果被国际同行评价为是对在河鲀基因组大小变化传统研究的重要补充和证明。
+
+**生物谷推荐原文出处：**
+
+_BMC Genomics_ doi:10.1186/1471-2164-11-396
+
+**Genome size evolution in pufferfish: an insight from BAC clone-based Diodon holocanthus genome sequencing**  
+Baocheng Guo , Ming Zou , Xiaoni Gan  and Shunping He 
+
+Background  
+Variations in genome size within and between species have been observed since the 1950s in diverse taxonomic groups. Serving as model organisms, smooth pufferfish possess the smallest vertebrate genomes. Interestingly, spiny pufferfish from its sister family have genome twice as large as smooth pufferfish. Therefore, comparative genomic analysis between smooth pufferfish and spiny pufferfish is useful for our understanding of genome size evolution in pufferfish.
+
+Results  
+Ten BAC clones of a spiny pufferfish Diodon holocanthus were randomly selected and shotgun sequenced. In total, 776 kb of non-redundant sequences without gap representing 0.1% of the D. holocanthus genome were identified, and 77 distinct genes were predicted. In the sequenced D. holocanthus genome, 364 kb is homologous with 265 kb of the Takifugu rubripes genome, and 223 kb is homologous with 148 kb of the Tetraodon nigroviridis genome. The repetitive DNA accounts for 8% of the sequenced D. holocanthus genome, which is higher than that in the T. rubripes genome (6.89%) and that in the Te. nigroviridis genome (4.66%). In the repetitive DNA, 76% is retroelements which account for 6% of the sequenced D. holocanthus genome and belong to known families of transposable elements. More than half of retroelements were distributed within genes. In the non-homologous regions, repeat element proportion in D. holocanthus genome increased to 10.6% compared with T. rubripes and increased to 9.19% compared with Te. nigroviridis. A comparison of 10 well-defined orthologous genes showed that the average intron size (566 bp) in D. holocanthus genome is significantly longer than that in the smooth pufferfish genome (435 bp).
+
+Conclusion  
+Compared with the smooth pufferfish, D. holocanthus has a low gene density and repeat elements rich genome. Genome size variation between D. holocanthus and the smooth pufferfish exhibits as length variation between homologous region and different accumulation of non-homologous sequences. The length difference of intron is consistent with the genome size variation between D. holocanthus and the smooth pufferfish. Different transposable element accumulation is responsible for genome size variation between D. holocanthus and the smooth pufferfish.

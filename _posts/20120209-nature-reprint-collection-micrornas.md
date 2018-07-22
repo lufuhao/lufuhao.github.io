@@ -1,0 +1,41 @@
+title: NATURE REPRINT COLLECTION microRNAs
+link: https://lufuhao.wordpress.com/2012/02/09/nature-reprint-collection-micrornas/
+author: lufuhao
+description: 
+post_id: 980
+created: 2012/02/09 16:45:04
+created_gmt: 2012/02/09 07:45:04
+comment_status: open
+post_name: nature-reprint-collection-micrornas
+status: publish
+post_type: post
+
+# NATURE REPRINT COLLECTION microRNAs
+
+Sponsor foreword
+
+In this collection we highlight key publications that have advanced the understanding of microRNA biology and effects on gene regulation. Importantly, as the field has matured and the first microRNA-based drug achieved human proof-of-concept, these papers further link microRNA dysregulation to disease pathogenesis and provide strong validation of microRNAs as promising targets for therapeutics. 
+
+    Several microRNAs clearly have a role in metabolic pathways. For example, miR-33a/b inhibition in non-human primates raises plasma HDL cholesterol, the ‘good’ cholesterol, and lowers triglycerides (Rayner et al. 2011, p2). Additionally, miR-103/107 can regulate insulin sensitivity and may represent a new target for the treatment of diabetes and obesity (Trajkovski et al. 2011, p11). 
+
+    Other microRNAs have been linked to developmental processes such as vascular development and bone formation. As an example, miR-132 can facilitate angiogenesis (Anand et al. 2010, p21) and the hemizygous germline deletion of the miR-17-92 cluster causes skeletal and growth defects in humans (Pontual et al. 2011, p16).  
+    Targeting oncogenic microRNAs has emerged as a promising strategy for cancer therapy. For example, tumors can become addicted to oncogenic microRNAs, termed oncomiRs, as shown in an in vivo model of microRNA-21 induced B-cell lymphoma (Medina et al. 2010, p6). Inhibition of miR-182, a microRNA frequently overexpressed in several cancer types, repressed metastasis in a mouse model of melanoma liver metastasis (Huynh et al. 2011, p41), and inhibition of miR-10b inhibits metastasis in a mouse breast cancer model (Ma et al. 2010, p27). Furthermore, miR-380-5p represses the tumor suppressor p53 and was associated with poor outcomes in neuroblastoma (Swarbrick et al. 2010, p34). 
+
+    We are pleased to bring you this collection highlighting the exciting developments around the potential for creating powerful first-in-class medicines targeting microRNAs.  
+Kleanthis G. Xanthopoulos, Ph.D.  
+Regulus Therapeutics President and CEO
+
+ 
+
+**Content: **
+
+  * **2** Inhibition of miR-33a/b in non-human primates raises plasma HDL and lowers VLDL triglycerides. Rayner, K. J. et al. Nature 478, 404–407 (2011) 
+  * **6** OncomiR addiction in an in vivo model of microRNA-21-induced pre-B-cell lymphoma. Medina, P. P., Nolde, M. & Slack, F. J. Nature 467, 86–90 (2010) 
+  * **11** MicroRNAs 103 and 107 regulate insulin sensitivity. Trajkovski, M. et al. Nature 474, 649–653 (2011) 
+  * **16** Germline deletion of the miR-17~92 cluster causes skeletal and growth defects in humans. de Pontual, L. et al. Nature Genet. 43, 1026–1030 (2011) 
+  * **21** MicroRNA-132-mediated loss of p120RasGAP activates the endothelium to facilitate pathological angiogenesis. Anand, S. et al. Nature Med. 16, 909–914 (2010) 
+  * **27** Therapeutic silencing of miR-10b inhibits metastasis in a mouse mammary tumor model. Ma, L. et al. Nature Biotechnol. 28, 341–347 (2010) 
+  * **34** miR-380-5p represses p53 to control cellular survival and is associated with poor outcome in MYCN-amplified neuroblastoma. Swarbrick, A. et al. Nature Med. 16, 1134–1140 (2010) 
+  * **41** Efficient in vivo microRNA targeting of liver metastasis. Huynh, C. et al. Oncogene 30, 1481–1488 (2011)
+
+[nature-miRNA.pdf](http://lufuhao.files.wordpress.com/2012/02/nature-mirna.pdf)

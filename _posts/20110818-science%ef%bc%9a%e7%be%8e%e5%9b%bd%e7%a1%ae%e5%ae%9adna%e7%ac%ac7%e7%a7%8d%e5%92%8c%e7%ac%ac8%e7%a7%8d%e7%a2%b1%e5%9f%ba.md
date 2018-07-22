@@ -1,0 +1,35 @@
+title: Science：美国确定DNA第7种和第8种碱基
+link: https://lufuhao.wordpress.com/2011/08/18/science%ef%bc%9a%e7%be%8e%e5%9b%bd%e7%a1%ae%e5%ae%9adna%e7%ac%ac7%e7%a7%8d%e5%92%8c%e7%ac%ac8%e7%a7%8d%e7%a2%b1%e5%9f%ba/
+author: lufuhao
+description: 
+post_id: 678
+created: 2011/08/18 23:37:35
+created_gmt: 2011/08/18 14:37:35
+comment_status: open
+post_name: science%ef%bc%9a%e7%be%8e%e5%9b%bd%e7%a1%ae%e5%ae%9adna%e7%ac%ac7%e7%a7%8d%e5%92%8c%e7%ac%ac8%e7%a7%8d%e7%a2%b1%e5%9f%ba
+status: publish
+post_type: post
+
+# Science：美国确定DNA第7种和第8种碱基
+
+据美国每日科学网站7月22日（北京时间）报道，美国科学家在7月21日出版的《科学》杂志上撰文指出，他们找到了DNA的第7种、第8种碱基，并在人体胚胎干细胞和实验老鼠器官染色体组的DNA中发现了这两个碱基的踪迹。科学家们指出，最新发现对干细胞和癌症研究非常重要。 
+
+几十年来，科学家们一直认为DNA中只包含有4种碱基：腺嘌呤、鸟嘌呤、胸腺嘧啶和胞嘧啶，这4种碱基已成为我们对基因代码如何形成生命的认识的基础。然而不久前，科学家们将碱基的数量扩展到了6种（第5种碱基：5-胞嘧啶甲基，第6种碱基：5-胞嘧啶甲基羟基）。 
+
+现在，北卡罗来纳大学医学院生物化学和生物物理学教授张毅（音译）领导的研究团队则表示，他们已经发现了DNA的第7种碱基5-胞嘧啶甲酰（5-formylcytosine）和第8种碱基5-胞嘧啶羧基（5-carboxylcytosine）。科学家指出，最新的这两种碱基实际上都是胞嘧啶经由Tet蛋白修改后得到的“变身”。Tet蛋白是一种分子实体，其在DNA脱甲基过程和干细胞重新编程方面起关键作用。 
+
+此前，科学家们已对第5种碱基有所了解——当一个化学标签或甲基被固定到一个胞嘧啶上时，第5种碱基就会出现。这个甲基化作用同基因沉默有关，因为它会导致DNA的双螺旋折叠得更加紧密。 
+
+去年，张毅团队报告称，在一个4步反应的第一步，Tet蛋白能将第5种碱基转变为第6种碱基，但他们没有再接再厉，继续进行该实验，导致他们与第7种、第8种碱基“失之交臂”。 
+
+研究团队最终发现，问题不在于Tet没有参与第二步和第三步，而是他们的实验工具的敏感度不足以探测到两种新碱基的存在。因此，他们重新设计了实验并探测到了最新的两种DNA碱基，并在人体胚胎干细胞和实验老鼠器官染色体组的DNA中发现了它们的踪迹。 
+
+张毅表示：“新碱基代表了DNA脱甲基过程中的一个中间状态。通过去甲基化或重新激活DNA甲基化所沉默的肿瘤抑制基因，它们可能为干细胞重新编程和癌症研究提供非常重要的信息。” 
+
+![2011072511062379](http://lufuhao.files.wordpress.com/2011/08/2011072511062379_thumb.jpg)
+
+Tet Proteins Can Convert 5-Methylcytosine to 5-Formylcytosine and 5-Carboxylcytosine 
+
+5-methylcytosine (5mC) in DNA plays an important role in gene expression, genomic imprinting, and suppression of transposable elements. 5mC can be converted to 5-hydroxymethylcytosine (5hmC) by the Tet proteins. Here, we show that, in addition to 5hmC, the Tet proteins can generate 5-formylcytosine (5fC) and 5-carboxylcytosine (5caC) from 5mC in an enzymatic activity–dependent manner. Furthermore, we reveal the presence of 5fC and 5caC in genomic DNA of mouse ES cells and mouse organs. The genomic content of 5hmC, 5fC, and 5caC can be increased or reduced through overexpression or depletion of Tet proteins. Thus, we identify two previously unknown cytosine derivatives in genomic DNA as the products of Tet proteins. Our study raises the possibility that DNA demethylation may occur through Tet-catalyzed oxidation followed by decarboxylation.  
+
+[原文链接](http://www.bioon.com/biology/Class18/496918.shtml)

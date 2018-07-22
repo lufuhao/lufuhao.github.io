@@ -1,0 +1,27 @@
+title: A novel pathway of small guide RNA maturation
+link: https://lufuhao.wordpress.com/2011/04/29/a-novel-pathway-of-small-guide-rna-maturation/
+author: lufuhao
+description: 
+post_id: 559
+created: 2011/04/29 10:22:02
+created_gmt: 2011/04/29 01:22:02
+comment_status: open
+post_name: a-novel-pathway-of-small-guide-rna-maturation
+status: publish
+post_type: post
+
+# A novel pathway of small guide RNA maturation
+
+###  
+
+![](http://academic.pgcc.edu/%7Ekroberts/web/colony/spyo.gif)
+
+An international team led by investigators at Umeå University in Sweden describes a “novel pathway of small guide RNA maturation and the first example of a host factor — RNase III — required for bacterial RNA-mediated immunity against invaders.” Using RNA-seq on _Streptococcus __pyrogenes_, the team identified a “_trans_-encoded small RNA with 24-nucleotide complementarity to the repeat regions of crRNA precursor transcripts” — a tracrRNA — which the team says guides the maturation of crRNAs via RNase III and the CRISPR-associated Csn1 protein.
+
+CRISPR/Cas systems constitute a widespread class of immunity systems that protect bacteria and archaea against phages and plasmids, and commonly use repeat/spacer-derived short crRNAs to silence foreign nucleic acids in a sequence-specific manner. Although the maturation of crRNAs represents a key event in CRISPR activation, the responsible endoribonucleases (CasE, Cas6, Csy4) are missing in many CRISPR/Cas subtypes. 
+
+Here, differential RNA sequencing of the human pathogen Streptococcus pyogenes uncovered tracrRNA, a trans-encoded small RNA with 24-nucleotide complementarity to the repeat regions of crRNA precursor transcripts. The authors show that tracrRNA directs the maturation of crRNAs by the activities of the widely conserved endogenous RNase III and the CRISPR-associated Csn1 protein; all these components are essential to protect S. pyogenes against prophage-derived DNA. 
+
+This study reveals a novel pathway of small guide RNA maturation and the first example of a host factor (RNase III) required for bacterial RNA-mediated immunity against invaders. 
+
+  * Deltcheva E, Chylinski K, Sharma CM, Gonzales K, Chao Y, Pirzada ZA, Eckert MR, Vogel J, Charpentier E. (2011) **CRISPR RNA maturation by trans-encoded small RNA and host factor RNase III**. _Nature_ 471(7340), 602-07. [[abstract](http://www.nature.com/nature/journal/v471/n7340/full/nature09886.html)]

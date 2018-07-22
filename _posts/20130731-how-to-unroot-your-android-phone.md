@@ -1,0 +1,109 @@
+title: How to Unroot Your Android Phone
+link: https://lufuhao.wordpress.com/2013/07/31/how-to-unroot-your-android-phone/
+author: lufuhao
+description: 
+post_id: 1239
+created: 2013/07/31 21:49:58
+created_gmt: 2013/07/31 12:49:58
+comment_status: open
+post_name: how-to-unroot-your-android-phone
+status: publish
+post_type: post
+
+# How to Unroot Your Android Phone
+
+![8036586_f520](http://lufuhao.files.wordpress.com/2013/07/8036586_f520_thumb.jpg)
+
+#### Rooting isn't Permanent
+
+Rooting an android phone provides the user with a phone that is highly customizable and has unlimited possibilities. 
+
+Most people out there are afraid to root their phone cause of three basic reasons: 
+
+**1\. It Voids your Warranty :** i.e once you have rooted your phone, nearly every company has declared it in their Terms and Conditions, that rooting your Android Phone will void or make your warranty null. 
+
+**2\. Getting your Android Phone Bricked :** Sometimes whilst rooting, there is a possibility of your phone getting bricked, i.e your phone being completely dead. Till date this has never happened to me nor has it happened to anyone i know personally, though if you do a Google search, you will find out that there are methods to un-brick your android phone. 
+
+**3\. Unable to Unroot an Android Phone :** This is absolutely **false.** Rooting an android phone is most definitely not permanent. Your** android phone** can be**unrooted** as easily as it can be rooted. 
+
+So as you can see, there is absolutely no need to worry about rooting your Android phone. Rooting your phone will provide you with features and possibilities beyond your imagination. 
+
+**Unrooting Your Android Phone :** Now for those of you who have rooted your Android Phones and need to unroot it cause of warranty issues or any other reason that you may have, well given below are two of the simplest methods to do so. 
+
+#### Before You Begin :
+
+There are three simple but very**important things that you need to perform** before you start or begin to unroot your android phone are : 
+
+**1\. Backup your Data :** Backup all your data onto your SD (Memory) card or if your using just your phones internal memory, then backup all your data onto your PC. 
+
+Backup whatever data you feel is important to you such as Messages, Contacts (though these are usually synced with your Google account), Apps, Photos, Videos, etc. 
+
+Apps to help you backup your data are easily available for free on Google Play. 
+
+Or you could click [here](http://androidroothacks.blogspot.in/p/blog-page_9900.html) to see a collection of these apps. 
+
+**2\. Charge Your Phone :** One of the most important things you need to do is charge your android phone to a min of 75% at least. You don't want you phone going off during the unrooting process.. 
+
+**3\. Download the unroot File :** Just like how you downloaded the root file when you rooted your phone, similarly you now have to download the unroot file and most importantly **place it in your memory card**. 
+
+You can perform a Google search by typing the model of your phone followed by unroot file. 
+
+In case you are not able to find the file, then there's no need to worry as you can use the alternate method of unrooting your android phone as given below : 
+
+ 
+
+#### How to Unroot Your Android Phone :
+
+**Method 1 :**
+
+**1.** Switch/ Turn off your Android Phone. 
+
+**2.** Now Boot your phone in Recovery Mode. 
+
+  * You can do this by pressing and holding the HOME and POWER button down together simultaneously . 
+  * Keep it pressed and don't let go till after the Android boot logo comes up on the screen and the Recovery mode opens. You can now let go.
+  * In the Recovery mode you gotta use the volume buttons to scroll up and down cause as a safety mechanism your touch screen won't work.
+
+**3.** Now, scroll down to the second option, i.e " Apply update from sdcard " and select it by pressing the HOME button. 
+
+**4.** This should open up your memory card displaying all your files. Now, scroll down and select the " unroot " file that you had placed in your SD card earlier. (In case you have saved it in a folder, then scroll to that folder, open it and select the file using the VOLUME buttons for scrolling and HOME button for selecting.) 
+
+**5.** It'll now ask you to confirm the installation, say yes. 
+
+**6.** Once the installation has been successfully completed, go back to the main screen and select the " Reboot System " option. 
+
+**7.** Once your phone has rebooted, open up the app drawer and look for the Superuser icon. 
+
+If you don't see it, then your android phone has been successfully unrooted. 
+
+See, it ain't all that difficult to unroot your android phone.. 
+
+**Method 2 :**
+
+If the above method doesn't work for you or in case you are not able to find an unroot file for your android phone, then don't worry cause there is another method. 
+
+**1.** Download and install the app " ES File Explorer ", it's freely available on Google Play. It's a file explorer used by people with rooted phones as it lets you access, modify and delete the system files that a normal explorer won't. You may use any other file explorers for rooted android phones as well if you are more familiar with them. 
+
+**2.** Now, open the file explorer, select the options button on your phone, go to the section "root settings" and select " Root explorer " and " Mount File System ". 
+
+**3.** Go back to the main screen of the app and select favorites in the left top corner of the screen and select the "/" symbol. 
+
+**4.** Now open the " system " folder and then the " app " folder and delete the " Superuser.apk " file. 
+
+**Important:** Do not delete any other file! 
+
+**5.** Now go back to the system folder and open the " xbin " folder and delete the following files : 
+
+1\. busybox  
+2\. sh  
+3\. sqlite3  
+4\. su  
+5\. su-v1  
+6\. su-v2  
+7\. su-v3 
+
+**Important:** I repeat again " Do not delete any other file! " 
+
+**7.** Restart/ Reboot your phone and it should be unrooted once again. 
+
+Your Android Phone has now been successfully unrooted.

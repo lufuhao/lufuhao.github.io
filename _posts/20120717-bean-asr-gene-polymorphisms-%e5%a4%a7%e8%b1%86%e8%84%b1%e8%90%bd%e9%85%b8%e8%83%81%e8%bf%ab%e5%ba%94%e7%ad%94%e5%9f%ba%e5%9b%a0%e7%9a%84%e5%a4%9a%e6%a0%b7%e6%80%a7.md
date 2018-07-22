@@ -1,0 +1,56 @@
+title: Bean Asr gene polymorphisms [大豆脱落酸胁迫应答基因的多样性]
+link: https://lufuhao.wordpress.com/2012/07/17/bean-asr-gene-polymorphisms-%e5%a4%a7%e8%b1%86%e8%84%b1%e8%90%bd%e9%85%b8%e8%83%81%e8%bf%ab%e5%ba%94%e7%ad%94%e5%9f%ba%e5%9b%a0%e7%9a%84%e5%a4%9a%e6%a0%b7%e6%80%a7/
+author: lufuhao
+description: 
+post_id: 1188
+created: 2012/07/17 15:56:15
+created_gmt: 2012/07/16 21:56:15
+comment_status: open
+post_name: bean-asr-gene-polymorphisms-%e5%a4%a7%e8%b1%86%e8%84%b1%e8%90%bd%e9%85%b8%e8%83%81%e8%bf%ab%e5%ba%94%e7%ad%94%e5%9f%ba%e5%9b%a0%e7%9a%84%e5%a4%9a%e6%a0%b7%e6%80%a7
+status: publish
+post_type: post
+
+# Bean Asr gene polymorphisms [大豆脱落酸胁迫应答基因的多样性]
+
+# Molecular ecology and selection in the drought-related Asr gene polymorphisms
+
+#  in wild and cultivated common bean (Phaseolus vulgaris L.)
+
+  
+
+
+**Andrés J Cortés**, **Carolina M Chavarro**, **Santiago Madriñán**, **Dominique This** and **Matthew W Blair**
+
+  
+
+
+_BMC Genetics_ 2012, **13**:58 doi:[10.1186/1471-2156-13-58](http://dx.doi.org/10.1186/1471-2156-13-58)  [PDF](http://www.biomedcentral.com/content/pdf/1471-2156-13-58.pdf)
+
+Published: 16 July 2012
+
+  
+
+
+### Abstract (provisional)
+
+#### Background
+
+The abscisic acid (ABA) pathway plays an important role in the plants' reaction to drought stress and ABA-stress response (Asr) genes are important in controlling this process. In this sense, we accessed nucleotide diversity at two candidate genes for drought tolerance (Asr1 and Asr2), involved in an ABA signaling pathway, in the reference collection of cultivated common bean (Phaseolus vulgaris L.) and a core collection of wild common bean accessions.
+
+#### Results
+
+Our wild population samples covered a range of mesic (semi-arid) to very dry (desert) habitats, while our cultivated samples presented a wide spectrum of drought tolerance. Both genes showed very different patterns of nucleotide variation. Asr1 exhibited very low nucleotide diversity relative to the neutral reference loci that were previously surveyed in these populations. This suggests that strong purifying selection has been acting on this gene. In contrast, Asr2 exhibited higher levels of nucleotide diversity, which is indicative of adaptive selection. These patterns were more notable in wild beans than in cultivated common beans indicting that natural selection has played a role over long time periods compared to farmer selection since domestication.
+
+#### Conclusions
+
+Together these results suggested the importance of Asr1 in the context of drought tolerance, and constitute the first steps towards an association study between genetic polymorphism of this gene family and variation in drought tolerance traits. Furthermore, one of our major successes was to find that wild common bean is a reservoir of genetic variation and selection signatures at Asr genes, which may be useful for breeding drought tolerance in cultivated common bean.
+
+  
+
+
+  
+
+
+![](http://lufuhao.files.wordpress.com/2012/07/03.png)
+
+**Figure 1. Genetic regions considered for the diversity analysis of Asr1 and Asr2.** Genetic regions considered for the diversity analysis of a. Asr1 and b. Asr2 in the wild and cultivated collections. Silver boxes are introns. Gray markers are transitions and pink markers are transversions

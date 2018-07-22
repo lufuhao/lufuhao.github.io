@@ -1,0 +1,30 @@
+title: [强大的进化树编辑软件] Powerful on-line phylogenetic tree editor
+link: https://lufuhao.wordpress.com/2012/07/30/%e5%bc%ba%e5%a4%a7%e7%9a%84%e8%bf%9b%e5%8c%96%e6%a0%91%e7%bc%96%e8%be%91%e8%bd%af%e4%bb%b6-powerful-on-line-phylogenetic-tree-editor/
+author: lufuhao
+description: 
+post_id: 1193
+created: 2012/07/30 16:43:38
+created_gmt: 2012/07/30 07:43:38
+comment_status: open
+post_name: %e5%bc%ba%e5%a4%a7%e7%9a%84%e8%bf%9b%e5%8c%96%e6%a0%91%e7%bc%96%e8%be%91%e8%bd%af%e4%bb%b6-powerful-on-line-phylogenetic-tree-editor
+status: publish
+post_type: post
+
+# [强大的进化树编辑软件] Powerful on-line phylogenetic tree editor
+
+_Zhang et al_ (2012)开发了一款很强大的进化树编辑、管理的在线服务程序，**EvolView**。EvolView是一个进化树可视化的软件，同时可以做各种编辑和处理，同时还支持额外增加一些数据上去，譬如把进化树和其他的表格数据关联起来等。最喜欢的另外一点，他是我目前用到的可视化编辑软件中，画出来的图形最漂亮的。EvolView支持一些列的数据格式例如，Newick, Nexus, Nhx and PhyloXML。图片可以导出高质量的PNG,JPEG,SVG等图片。
+
+EvolView在线网站地址：<http://www.evolgenius.info/evolview.html>![F1](http://lufuhao.files.wordpress.com/2012/07/f1_thumb.jpg)](http://www.evolgenius.info/evolview.html)
+
+**** 
+
+> **EvolView, an online tool for visualizing, annotating and managing phylogenetic trees**  
+Huangkai Zhang, Shenghan Gao, Martin J. Lercher, Songnian Hu1, and Wei-Hua Chen
+> 
+> EvolView is a web application for visualizing, annotating and managing phylogenetic trees. First, EvolView is a phylogenetic tree viewer and customization tool; it visualizes trees in various formats, customizes them through built-in functions that can link information from external datasets, and exports the customized results to publication-ready figures. Second, EvolView is a tree and dataset management tool: users can easily organize related trees into distinct projects, add new datasets to trees and edit and manage existing trees and datasets. To make EvolView easy to use, it is equipped with an intuitive user interface. With a free account, users can save data and manipulations on the EvolView server. EvolView is freely available at: <http://www.evolgenius.info/evolview.html>.
+> 
+> Nucleic Acids Research 40, W569-W572.
+> 
+> doi: [10.1093/nar/gks576](http://dx.doi.org/10.1093/nar/gks576)
+
+Original TexT from **[PLoB**](http://www.plob.org/2012/07/26/2840.html)

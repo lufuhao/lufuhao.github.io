@@ -1,0 +1,41 @@
+title: J General Physiol：揭示尼古丁促进机体成瘾的分子机制
+link: https://lufuhao.wordpress.com/2014/01/06/j-general-physiol%ef%bc%9a%e6%8f%ad%e7%a4%ba%e5%b0%bc%e5%8f%a4%e4%b8%81%e4%bf%83%e8%bf%9b%e6%9c%ba%e4%bd%93%e6%88%90%e7%98%be%e7%9a%84%e5%88%86%e5%ad%90%e6%9c%ba%e5%88%b6/
+author: lufuhao
+description: 
+post_id: 1281
+created: 2014/01/06 21:21:40
+created_gmt: 2014/01/06 12:21:40
+comment_status: open
+post_name: j-general-physiol%ef%bc%9a%e6%8f%ad%e7%a4%ba%e5%b0%bc%e5%8f%a4%e4%b8%81%e4%bf%83%e8%bf%9b%e6%9c%ba%e4%bd%93%e6%88%90%e7%98%be%e7%9a%84%e5%88%86%e5%ad%90%e6%9c%ba%e5%88%b6
+status: publish
+post_type: post
+
+# J General Physiol：揭示尼古丁促进机体成瘾的分子机制
+
+近日，刊登在国际杂志_The Journal of General Physiology_的两项研究成果中，来自国外的研究人员通过研究揭示了尼古丁如何利用人类机体的细胞机器促进人类成瘾，这将帮助研究者们开发新型的疗法来帮助个体实现戒烟。 
+
+据CDC信息显示，相比任何一种介质，烟草占据着世界上最大数量的可预防个体的死亡量，尼古丁是烟草中的有效成分，其可以激活名为nAChRs的受体；并不像其它滥用药物一样，尼古丁可以扮演分子伴侣的角色将受体固定于内质网中，从而增加受体在细胞表面的含量，而受体nAChRs在尼古丁成瘾过程中也扮演着重要角色，其可以降低吸烟患者患帕金森疾病的易感性。 
+
+包含∝6亚单位的nAChRs受体在许多特殊的大脑区域中含量丰富，研究者使用表达∝6（使用荧光蛋白标记的∝6）的小鼠进行研究揭示了，暴露于一定水平尼古丁中可以上调大脑区域中的∝6 nAChRs受体含量。 
+
+另外研究者也发现尼古丁上调∝6 nAChRs受体的能力依赖于COPI囊泡介导的∝6 nAChRs受体从高尔基体到内质网的逆向运输过程；研究者认为，高尔基体-内质网间的循环或许是尼古丁上调其它nAChRs受体的常见机制，通过对该机制进行控制或许可以帮助开发新型的戒烟手段以及帮助患者抵御帕金森疾病的神经保护策略。 
+
+**COPI polices nicotine-mediated up-regulation of nicotinic receptors**
+
+[doi:10.1085/jgp.201311136](http://dx.doi.org/doi:10.1085/jgp.201311136)
+
+Rene Anand 
+
+Mayans, Aztecs, and indigenous Americans cultivated tobacco for medicinal and religious purposes well over 2,000 years ago. The subsequent trade and industrial-scale production of tobacco have led to its global recreational use with devastating health consequences. It is currently responsible for the greatest number of preventable deaths worldwide by any single agent, estimated to be 5 million per year by the Center for Disease Control and Prevention. The active ingredient of tobacco, nicotine, efficiently permeates the blood brain barrier and activates neuronal nicotinic acetylcholine receptors (nAChRs) in the brain. In addition, nicotine exposure of the brain during childhood and adolescence is likely to increase susceptibility to neuropsychiatric and addiction disorders. 
+
+ 
+
+**Nicotine exploits a COPI-mediated process for chaperone-mediated up-regulation of its receptors**
+
+[doi:10.1085/jgp.201311102](http://dx.doi.org/doi:10.1085/jgp.201311102)
+
+Brandon J. Henderson1, Rahul Srinivasan1, Weston A. Nichols1, Crystal N. Dilworth1, Diana F. Gutierrez1, Elisha D.W. Mackey1, Sheri McKinney1, Ryan M. Drenan2, Christopher I. Richards3, and Henry A. Lester1 
+
+Chronic exposure to nicotine up-regulates high sensitivity nicotinic acetylcholine receptors (nAChRs) in the brain. This up-regulation partially underlies addiction and may also contribute to protection against Parkinson’s disease. nAChRs containing the α6 subunit (α6* nAChRs) are expressed in neurons in several brain regions, but comparatively little is known about the effect of chronic nicotine on these nAChRs. We report here that nicotine up-regulates α6* nAChRs in several mouse brain regions (substantia nigra pars compacta, ventral tegmental area, medial habenula, and superior colliculus) and in neuroblastoma 2a cells. We present evidence that a coat protein complex I (COPI)-mediated process mediates this up-regulation of α6* or α4* nAChRs but does not participate in basal trafficking. We show that α6β2β3 nAChR up-regulation is prevented by mutating a putative COPI-binding motif in the β3 subunit or by inhibiting COPI. Similarly, a COPI-dependent process is required for up-regulation of α4β2 nAChRs by chronic nicotine but not for basal trafficking. Mutation of the putative COPI-binding motif or inhibition of COPI also results in reduced normalized Förster resonance energy transfer between α6β2β3 nAChRs and εCOP subunits. The discovery that nicotine exploits a COPI-dependent process to chaperone high sensitivity nAChRs is novel and suggests that this may be a common mechanism in the up-regulation of nAChRs in response to chronic nicotine. 
+
+Source from [生物谷](http://www.bioon.com/biology/ShowArticle.asp?ArticleID=589554)

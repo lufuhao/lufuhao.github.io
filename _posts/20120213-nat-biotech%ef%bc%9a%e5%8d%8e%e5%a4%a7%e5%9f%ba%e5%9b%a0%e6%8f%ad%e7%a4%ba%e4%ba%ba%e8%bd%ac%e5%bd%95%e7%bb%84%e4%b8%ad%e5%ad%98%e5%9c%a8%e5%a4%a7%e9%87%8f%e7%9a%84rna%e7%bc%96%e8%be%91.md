@@ -1,0 +1,37 @@
+title: Nat Biotech：华大基因揭示人转录组中存在大量的RNA编辑
+link: https://lufuhao.wordpress.com/2012/02/13/nat-biotech%ef%bc%9a%e5%8d%8e%e5%a4%a7%e5%9f%ba%e5%9b%a0%e6%8f%ad%e7%a4%ba%e4%ba%ba%e8%bd%ac%e5%bd%95%e7%bb%84%e4%b8%ad%e5%ad%98%e5%9c%a8%e5%a4%a7%e9%87%8f%e7%9a%84rna%e7%bc%96%e8%be%91/
+author: lufuhao
+description: 
+post_id: 991
+created: 2012/02/13 19:55:38
+created_gmt: 2012/02/13 10:55:38
+comment_status: open
+post_name: nat-biotech%ef%bc%9a%e5%8d%8e%e5%a4%a7%e5%9f%ba%e5%9b%a0%e6%8f%ad%e7%a4%ba%e4%ba%ba%e8%bd%ac%e5%bd%95%e7%bb%84%e4%b8%ad%e5%ad%98%e5%9c%a8%e5%a4%a7%e9%87%8f%e7%9a%84rna%e7%bc%96%e8%be%91
+status: publish
+post_type: post
+
+# Nat Biotech：华大基因揭示人转录组中存在大量的RNA编辑
+
+近日，来自深圳华大基因研究院和台湾长庚大学的研究人员研发了一种对人类转录组中的RNA编辑位点进行测定和分析的新型计算方法，并发现人类转录组中存在大量的RNA编辑现象，该成果于2012年2月12日在国际著名杂志《自然-生物技术》（_Nature Biotechnology_）上在线发表。本研究利用最新的RNA-seq技术对人类个体中的RNA编辑位点进行了准确、全面的检测和广泛的分析，对提高研究人员采用新一代测序技术对RNA编辑进行研究及进一步了解RNA编辑与人类发育以及正常或疾病等不同生理状态的关系发挥了重要的作用。 
+
+RNA编辑是指DNA转录成RNA前体（pre-RNA）后，RNA序列内一些特异位点的核苷酸发生删除、添加或修饰等变化，使得RNA所携带的遗传信息发生改变的过程。这种改变影响了基因的表达，使得一个基因可能产生几种结构和功能不同的蛋白质。RNA编辑在灵长类进化和高级脑功能的发育等方面被视为重要因素。尽管科学家们已经对RNA编辑修饰机理进行了一些研究，如对遗传信息的改变、对RNA剪接和miRNA调控的影响等，但是对人类中RNA编辑的发生和作用仍知之甚少。因此，准确全面地对RNA编辑位点的鉴定和分析是深入理解转录后修饰相关机制等方面研究的关键一步。 
+
+去年5月份，来自美国宾夕法尼亚大学医学院及北卡罗来纳州立大学医学院的研究小组在《科学》（Science）杂志上发表了一篇关于“RNA与DNA序列存广泛差异”的文章。研究人员发现大量的RNA与其模板DNA序列不一致，他们在外显子中发现了超过1万个不同的位点。除部分不一致位点是已知的A到G的编辑类型外，该研究小组还观察到了所有12种可能的编辑类型，这表明mRNA有可能在将遗传信息从细胞DNA携带至蛋白质加工厂的过程中以某种未知的‘RNA编辑’机制进行了重新编辑，并且编辑发生的普遍性远超出原有的认识。如果这一研究发现被证实是真实的，将会导致分子生物学中的“遗传中心法则”被改写。然而，一些科学家对此持怀疑态度，他们认为很大一部分RNA和DNA不一致的位点有可能是研究人员在使用高通量测序仪进行测序时的系统误差或生物信息学分析方法不够严谨导致的假阳性。针对这些问题，华大基因的研究人员研发了一个更加严谨的算法解答读者提出的各项质疑，这将对这一领域的进一步研究带来极大的帮助。 
+
+在本研究中，科研人员采用新一代测序技术对已有全基因组测序的“炎黄一号”（YH）样本的类淋巴细胞系进行全转录组测序。通过比较分析，共鉴定出22，688个RNA编辑位点，其中有21，113个位点是由腺嘌呤（A）转变为鸟嘌呤（G）；有1，146个是单碱基之间的转换（包括嘌呤与嘌呤之间的替换或嘧啶与嘧啶之间的替换）；还有429个位点发生了单碱基颠换（嘌呤和嘧啶之间的替换）。目前，这些数据已经在线公开发布（http：//yheditome.genomics.cn/mgb2/gbrowse）。此外，科研人员还在miRNAs中发现了44个编辑位点，表明RNA编辑和miRNA介导的基因表达调控可能存在某种联系。 
+
+文章第一作者、华大基因科技合作事业部副总裁彭智宇说：“这些研究结果证明我们的新计算方法和流程能够精准、有效地对RNA编辑位点进行鉴定和分析。该方法在鉴定RNA编辑位点的过程中采用多重过滤方法，有效排除假阳性结果，消除偏差，从而可以准确全面的反映人类全基因组RNA编辑的情况。” 
+
+RNA-Seq技术又被称为“全转录组鸟枪法测序”技术，其作为一种新一代测序技术在基因表达定量和基因结构变化检测等方面具有不可比拟的优势。华大基因执行院长王俊教授说：“在这次研究中，我们采用了RNA-Seq技术对样本进行测序，并研发了一套更加精确的新型计算方法去全面、准确地挖掘人的转录组中所存在的RNA编辑位点。我们希望在将来该方法能够被应用于大规模的RNA编辑研究中，为深层揭示RNA水平上基因调控的分子机制提供科学手段。” 
+
+![2012021313510397](http://lufuhao.files.wordpress.com/2012/02/2012021313510397_thumb.jpg)
+
+**Comprehensive analysis of RNA-Seq data reveals extensive RNA editing in a human transcriptome**
+
+Zhiyu Peng,1, 5 Yanbing Cheng,1, 5 Bertrand Chin-Ming Tan,2, 5 Lin Kang,1 Zhijian Tian,1 Yuankun Zhu,1 Wenwei Zhang,1 Yu Liang,1 Xueda Hu,1 Xuemei Tan,1 Jing Guo,1 Zirui Dong,1 Yan Liang,1 Li Bao1 & Jun Wang1, 3, 4 
+
+RNA editing is a post-transcriptional event that recodes hereditary information. Here we describe a comprehensive profile of the RNA editome of a male Han Chinese individual based on analysis of ~767 million sequencing reads from poly(A)+, poly(A)− and small RNA samples. We developed a computational pipeline that carefully controls for false positives while calling RNA editing events from genome and whole-transcriptome data of the same individual. We identified 22,688 RNA editing events in noncoding genes and introns, untranslated regions and coding sequences of protein-coding genes. Most changes (~93%) converted A to I(G), consistent with known editing mechanisms based on adenosine deaminase acting on RNA (ADAR). We also found evidence of other types of nucleotide changes; however, these were validated at lower rates. We found 44 editing sites in microRNAs (miRNAs), suggesting a potential link between RNA editing and miRNA-mediated regulation. Our approach facilitates large-scale studies to profile and compare editomes across a wide range of samples. 
+
+<http://dx.doi.org/doi:10.1038/nbt.2122>
+
+[生物谷引文链接](http://www.bioon.com/biology/Class18/516999.shtml)
