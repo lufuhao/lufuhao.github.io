@@ -2,14 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-# layout: home
----
-
+# layout: page
 title: 天涯海角
 
 description: My Web Home
 
-base_blog_url: https://lufuhao.wordpress.com
+tagline: Fight Against Bioinformatics with Perl
+---
+
+
 
 # 天涯海角
 
@@ -650,7 +651,7 @@ base_blog_url: https://lufuhao.wordpress.com
 
 #### 2009.5
 
-* 2009-05-31 15:17:22: [普通硬盘数据恢复五大招](https://lufuhao.wordpress.com/2009/05/31/%e6%99%ae%e9%80%9a%e7%a1%ac%e7%9b%98%e6%95%b0%e6%8d%ae%e6%81%a2%e5%a4%8d%e4%ba%94%e5%a4%a7%e6%8b%9b/)
+* 2009-05-31 15:17:22: [普通硬盘数据恢复五大招](https://lufuhao.wordpress.com/2009/05/31/%e6%99%ae%e9%80%9a%e7%a1%ac%e7%9b%98%e6%95%b0%e6%8d%ae%e6%81%a2%e5%a4%8d%e4%bdex.mda%94%e5%a4%a7%e6%8b%9b/)
 * 2009-05-31 14:25:54: [让心情变好的佛家领悟](https://lufuhao.wordpress.com/2009/05/31/%e8%ae%a9%e5%bf%83%e6%83%85%e5%8f%98%e5%a5%bd%e7%9a%84%e4%bd%9b%e5%ae%b6%e9%a2%86%e6%82%9f/)
 * 2009-05-31 14:23:03: [VC++ 6.0英文原版](https://lufuhao.wordpress.com/2009/05/31/vc-6-0%e8%8b%b1%e6%96%87%e5%8e%9f%e7%89%88/)
 * 2009-05-31 13:58:51: [大学生毕业后必备的12项技能](https://lufuhao.wordpress.com/2009/05/31/%e5%a4%a7%e5%ad%a6%e7%94%9f%e6%af%95%e4%b8%9a%e5%90%8e%e5%bf%85%e5%a4%87%e7%9a%8412%e9%a1%b9%e6%8a%80%e8%83%bd/)
@@ -666,7 +667,7 @@ base_blog_url: https://lufuhao.wordpress.com
 
 * 2009-02-27 10:24:47: [[Merck推荐]原核表达秘笈之宿主菌株选择指南](https://lufuhao.wordpress.com/2009/02/27/merck%e6%8e%a8%e8%8d%90%e5%8e%9f%e6%a0%b8%e8%a1%a8%e8%be%be%e7%a7%98%e7%ac%88%e4%b9%8b%e5%ae%bf%e4%b8%bb%e8%8f%8c%e6%a0%aa%e9%80%89%e6%8b%a9%e6%8c%87%e5%8d%97/)
 * 2009-02-27 04:53:07: [世上最毒的五种植物](https://lufuhao.wordpress.com/2009/02/27/%e4%b8%96%e4%b8%8a%e6%9c%80%e6%af%92%e7%9a%84%e4%ba%94%e7%a7%8d%e6%a4%8d%e7%89%a9/)
-* 2009-02-21 04:47:57: [教你10指带戒指真正含义]({{siteurl}}/_posts/20090221-044757.md)
+* 2009-02-21 04:47:57: [教你10指带戒指真正含义](pages/20090221-044757.html)
 * 2009-02-20 04:28:05: [世界优秀大学的硕士与博士论文集](https://lufuhao.wordpress.com/2009/02/20/%e4%b8%96%e7%95%8c%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%9a%84%e7%a1%95%e5%a3%ab%e4%b8%8e%e5%8d%9a%e5%a3%ab%e8%ae%ba%e6%96%87%e9%9b%86/)
 * 2009-02-20 04:04:00: [亲爱的老婆老公的来信](https://lufuhao.wordpress.com/2009/02/20/%e4%ba%b2%e7%88%b1%e7%9a%84%e8%80%81%e5%a9%86%e8%80%81%e5%85%ac%e7%9a%84%e6%9d%a5%e4%bf%a1/)
 * 2009-02-17 09:55:34: [有时候会很喜欢发一些无聊的短信](https://lufuhao.wordpress.com/2009/02/17/%e6%9c%89%e6%97%b6%e5%80%99%e4%bc%9a%e5%be%88%e5%96%9c%e6%ac%a2%e5%8f%91%e4%b8%80%e4%ba%9b%e6%97%a0%e8%81%8a%e7%9a%84%e7%9f%ad%e4%bf%a1/)
