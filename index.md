@@ -31,17 +31,15 @@ tagline: Fight Against Bioinformatics with Perl
 
 # 2016
 
-* 2016-11-04 19:26:00: [待到你我花甲...](pages/2016/11/04/%e5%be%85%e5%88%b0%e4%bd%a0%e6%88%91%e8%8a%b1%e7%94%b2.html)
+* 2016-11-04 19:26:00: [待到你我花甲...](pages/2016/11/04/20161104-192600.html)
 
 
 # 2015
 
-* 2015-11-13 02:27:22: [Full_lengther_NEXT v0.0.8 database setup and run](pages/2015/11/13/full_lengther_next-v0-0-8-database-setup-and-run.html)
+* 2015-11-13 02:27:22: [Full_lengther_NEXT v0.0.8 database setup and run](pages/2015/11/13/20151113-022722.html)
 
 # 2014
 
-* 2014-01-06 21:09:28: [FASEB J：科学家解释年龄增长相关肥胖发生的机制](pages/2014/01/06/faseb-j%ef%bc%9a%e7%a7%91%e5%ad%a6%e5%ae%b6%e8%a7%a3%e9%87%8a%e5%b9%b4%e9%be%84%e5%a2%9e%e9%95%bf%e7%9b%b8%e5%85%b3%e8%82%a5%e8%83%96%e5%8f%91%e7%94%9f%e7%9a%84%e6%9c%ba%e5%88%b6.html)
-* 2014-01-06 21:13:07: [PNAS：揭示感冒病毒引发感染的分子机制](pages/2014/01/06/pnas%ef%bc%9a%e6%8f%ad%e7%a4%ba%e6%84%9f%e5%86%92%e7%97%85%e6%af%92%e5%bc%95%e5%8f%91%e6%84%9f%e6%9f%93%e7%9a%84%e5%88%86%e5%ad%90%e6%9c%ba%e5%88%b6.html)
 * 2014-01-06 21:21:40: [J General Physiol：揭示尼古丁促进机体成瘾的分子机制](pages/2014/01/06/j-general-physiol%ef%bc%9a%e6%8f%ad%e7%a4%ba%e5%b0%bc%e5%8f%a4%e4%b8%81%e4%bf%83%e8%bf%9b%e6%9c%ba%e4%bd%93%e6%88%90%e7%98%be%e7%9a%84%e5%88%86%e5%ad%90%e6%9c%ba%e5%88%b6.html)
 * 2014-01-06 21:37:02: [抗青蒿素疟疾的一个标记](pages/2014/01/06/%e6%8a%97%e9%9d%92%e8%92%bf%e7%b4%a0%e7%96%9f%e7%96%be%e7%9a%84%e4%b8%80%e4%b8%aa%e6%a0%87%e8%ae%b0.html)
 * 2014-01-09 22:06:18: [Cell Metab：科学家发现糖尿病的新致病原因](pages/2014/01/09/cell-metab%ef%bc%9a%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e7%b3%96%e5%b0%bf%e7%97%85%e7%9a%84%e6%96%b0%e8%87%b4%e7%97%85%e5%8e%9f%e5%9b%a0.html)
@@ -58,6 +56,14 @@ tagline: Fight Against Bioinformatics with Perl
 * 2014-07-17 19:05:47: [[转]二军医大教授教你用最便宜的药治常见病](pages/2014/07/17/%e4%ba%8c%e5%86%9b%e5%8c%bb%e5%a4%a7%e6%95%99%e6%8e%88%e6%95%99%e4%bd%a0%e7%94%a8%e6%9c%80%e4%be%bf%e5%ae%9c%e7%9a%84%e8%8d%af%e6%b2%bb%e5%b8%b8%e8%a7%81%e7%97%85.html)
 * 2014-07-17 19:18:18: [[转]吃了会死人的，据说99.999%的人都不知道](pages/2014/07/17/%e8%bd%ac%e5%90%83%e4%ba%86%e4%bc%9a%e6%ad%bb%e4%ba%ba%e7%9a%84%ef%bc%8c%e6%8d%ae%e8%af%b499-999%e7%9a%84%e4%ba%ba%e9%83%bd%e4%b8%8d%e7%9f%a5%e9%81%93.html)
 * 2014-11-14 20:59:28: [Latest PICARD-tools installation (from v1.124)](pages/2014/11/14/latest-picard-tools-installation-from-v1-124.html)
+
+
+
+
+
+
+* 2014-01-06 21:13:07: [PNAS：揭示感冒病毒引发感染的分子机制](pages/2014/01/06/20140106-211307.html)
+* 2014-01-06 21:09:28: [FASEB J：科学家解释年龄增长相关肥胖发生的机制](pages/2014/01/06/20140106-210928.html)
 
 # 2013
 
