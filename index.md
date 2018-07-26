@@ -155,16 +155,30 @@ tagline: Fight Against Bioinformatics with Perl
 
 # 2012
 
-* 2012-06-07 13:48:36: [The very basics of R](pages/2012/06/07/the-very-basics-of-r.html)
-* 2012-06-11 14:17:27: [高通量测序技术相关的名词解释](pages/2012/06/11/%e9%ab%98%e9%80%9a%e9%87%8f%e6%b5%8b%e5%ba%8f%e6%8a%80%e6%9c%af%e7%9b%b8%e5%85%b3%e7%9a%84%e5%90%8d%e8%af%8d%e8%a7%a3%e9%87%8a.html)
-* 2012-06-15 14:15:01: [《谁欠谁的幸福》高考满分作文](pages/2012/06/15/%e3%80%8a%e8%b0%81%e6%ac%a0%e8%b0%81%e7%9a%84%e5%b9%b8%e7%a6%8f%e3%80%8b%e9%ab%98%e8%80%83%e6%bb%a1%e5%88%86%e4%bd%9c%e6%96%87.html)
-* 2012-06-18 15:18:07: [2012又到花开时](pages/2012/06/18/2012%e5%8f%88%e5%88%b0%e8%8a%b1%e5%bc%80%e6%97%b6.html)
-* 2012-06-18 15:35:20: [2012又到花开时（2）](pages/2012/06/18/2012%e5%8f%88%e5%88%b0%e8%8a%b1%e5%bc%80%e6%97%b6%ef%bc%882%ef%bc%89.html)
-* 2012-06-18 15:52:37: [韩国水原郊区Suwon Suburb in R. Korea](pages/2012/06/18/%e9%9f%a9%e5%9b%bd%e6%b0%b4%e5%8e%9f%e9%83%8a%e5%8c%basuwon-suburb-in-r-korea.html)
-* 2012-06-26 21:43:54: [Control of grain size, shape and quality by OsSPL16 in rice](pages/2012/06/26/control-of-grain-size-shape-and-quality-by-osspl16-in-rice.html)
-* 2012-06-27 16:15:47: [RPKM(Reads Per Kilobase of exon model per Million mapped reads)简介](pages/2012/06/27/rpkmreads-per-kilobase-of-exon-model-per-million-mapped-reads%e7%ae%80%e4%bb%8b.html)
-* 2012-06-29 10:28:43: [Incredible medical breakthrough allows doctors to inject oxygen into the bloodstreams of people who can’t breathe](pages/2012/06/29/incredible-medical-breakthrough-allows-doctors-to-inject-oxygen-into-the-bloodstreams-of-people-who-cant-breathe.html)
-* 2012-06-30 21:04:49: [植物碳积累途径完全阐明[SWEET! The Pathway Is Complete]](pages/2012/06/30/%e6%a4%8d%e7%89%a9%e7%a2%b3%e7%a7%af%e7%b4%af%e9%80%94%e5%be%84%e5%ae%8c%e5%85%a8%e9%98%90%e6%98%8esweet-the-pathway-is-complete.html)
+
+## 2012.11
+
+* 2012-11-21 16:13:14: [PLoS One：张亚平等疯牛病调控基因研究取得新进展](pages/2012/11/21/plos-one%ef%bc%9a%e5%bc%a0%e4%ba%9a%e5%b9%b3%e7%ad%89%e7%96%af%e7%89%9b%e7%97%85%e8%b0%83%e6%8e%a7%e5%9f%ba%e5%9b%a0%e7%a0%94%e7%a9%b6%e5%8f%96%e5%be%97%e6%96%b0%e8%bf%9b%e5%b1%95.html)
+* 2012-11-21 16:16:14: [Nature:科学家发现最小最快RNA开关](pages/2012/11/21/nature%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e6%9c%80%e5%b0%8f%e6%9c%80%e5%bf%abrna%e5%bc%80%e5%85%b3.html)
+* 2012-11-21 16:19:22: [Nature:科学家成功绘制出大麦基因组草图](pages/2012/11/21/nature%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%88%90%e5%8a%9f%e7%bb%98%e5%88%b6%e5%87%ba%e5%a4%a7%e9%ba%a6%e5%9f%ba%e5%9b%a0%e7%bb%84%e8%8d%89%e5%9b%be.html)
+* 2012-11-23 03:53:39: [Nat Commun.:世界首次公开和破译双峰驼全基因组序列图谱](pages/2012/11/23/nat-commun-%e4%b8%96%e7%95%8c%e9%a6%96%e6%ac%a1%e5%85%ac%e5%bc%80%e5%92%8c%e7%a0%b4%e8%af%91%e5%8f%8c%e5%b3%b0%e9%a9%bc%e5%85%a8%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ba%8f%e5%88%97%e5%9b%be%e8%b0%b1.html)
+* 2012-11-23 04:10:04: [Food and Chemical Toxicology:研究称食用转基因谷物会使实验鼠患肿瘤](pages/2012/11/23/food-and-chemical-toxicology%e7%a0%94%e7%a9%b6%e7%a7%b0%e9%a3%9f%e7%94%a8%e8%bd%ac%e5%9f%ba%e5%9b%a0%e8%b0%b7%e7%89%a9%e4%bc%9a%e4%bd%bf%e5%ae%9e%e9%aa%8c%e9%bc%a0%e6%82%a3%e8%82%bf%e7%98%a4.html)
+* 2012-11-23 04:17:02: [Nature：基因组学分析揭示细菌进化的自然选择过程](pages/2012/11/23/nature%ef%bc%9a%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ad%a6%e5%88%86%e6%9e%90%e6%8f%ad%e7%a4%ba%e7%bb%86%e8%8f%8c%e8%bf%9b%e5%8c%96%e7%9a%84%e8%87%aa%e7%84%b6%e9%80%89%e6%8b%a9%e8%bf%87%e7%a8%8b.html)
+* 2012-11-23 04:20:09: [PNAS：详细绘制出大肠杆菌DNA突变过程图谱](pages/2012/11/23/pnas%ef%bc%9a%e8%af%a6%e7%bb%86%e7%bb%98%e5%88%b6%e5%87%ba%e5%a4%a7%e8%82%a0%e6%9d%86%e8%8f%8cdna%e7%aa%81%e5%8f%98%e8%bf%87%e7%a8%8b%e5%9b%be%e8%b0%b1.html)
+* 2012-11-23 04:22:38: [Nature：新技术用于定制斑马鱼基因组](pages/2012/11/23/nature%ef%bc%9a%e6%96%b0%e6%8a%80%e6%9c%af%e7%94%a8%e4%ba%8e%e5%ae%9a%e5%88%b6%e6%96%91%e9%a9%ac%e9%b1%bc%e5%9f%ba%e5%9b%a0%e7%bb%84.html)
+
+
+
+## 2012.8
+
+* 2012-08-01 10:52:33: [[2011华大基因的生物信息学全国公开课课件]2011 BGI Bioinformatices PPT](pages/2012/08/01/2011%e5%8d%8e%e5%a4%a7%e5%9f%ba%e5%9b%a0%e7%9a%84%e7%94%9f%e7%89%a9%e4%bf%a1%e6%81%af%e5%ad%a6%e5%85%a8%e5%9b%bd%e5%85%ac%e5%bc%80%e8%af%be%e8%af%be%e4%bb%b62011-bgi-bioinformatices-ppt.html)
+
+
+
+
+
+## 2012.7
+
 * 2012-07-01 15:07:49: [转录组测序概述及实验分析流程Transcriptome sequencing and main workflow](pages/2012/07/01/%e8%bd%ac%e5%bd%95%e7%bb%84%e6%b5%8b%e5%ba%8f%e6%a6%82%e8%bf%b0%e5%8f%8a%e5%ae%9e%e9%aa%8c%e5%88%86%e6%9e%90%e6%b5%81%e7%a8%8btranscriptome-sequencing-and-main-workflow.html)
 * 2012-07-10 22:58:19: [Big mosquito](pages/2012/07/10/big-mosquito.html)
 * 2012-07-12 16:46:57: [木薯转化方法Robust transformation procedure —Plant Methods](pages/2012/07/12/%e6%9c%a8%e8%96%af%e8%bd%ac%e5%8c%96%e6%96%b9%e6%b3%95robust-transformation-procedure-plant-methods.html)
@@ -179,30 +193,43 @@ tagline: Fight Against Bioinformatics with Perl
 * 2012-07-30 17:14:39: [英研究称5亿年前生物DNA错误复制促成人类](pages/2012/07/30/%e8%8b%b1%e7%a0%94%e7%a9%b6%e7%a7%b05%e4%ba%bf%e5%b9%b4%e5%89%8d%e7%94%9f%e7%89%a9dna%e9%94%99%e8%af%af%e5%a4%8d%e5%88%b6%e4%bf%83%e6%88%90%e4%ba%ba%e7%b1%bb.html)
 * 2012-07-30 22:06:48: [[香蕉基因组]Banana Genome](pages/2012/07/30/%e9%a6%99%e8%95%89%e5%9f%ba%e5%9b%a0%e7%bb%84banana-genome.html)
 * 2012-07-31 10:10:35: [[喝下一罐可乐后1小时内身体的反应] Response in you body after drinking one-can Cola](pages/2012/07/31/%e5%96%9d%e4%b8%8b%e4%b8%80%e7%bd%90%e5%8f%af%e4%b9%90%e5%90%8e1%e5%b0%8f%e6%97%b6%e5%86%85%e8%ba%ab%e4%bd%93%e7%9a%84%e5%8f%8d%e5%ba%94-response-in-you-body-after-drinking-one-can-cola.html)
-* 2012-08-01 10:52:33: [[2011华大基因的生物信息学全国公开课课件]2011 BGI Bioinformatices PPT](pages/2012/08/01/2011%e5%8d%8e%e5%a4%a7%e5%9f%ba%e5%9b%a0%e7%9a%84%e7%94%9f%e7%89%a9%e4%bf%a1%e6%81%af%e5%ad%a6%e5%85%a8%e5%9b%bd%e5%85%ac%e5%bc%80%e8%af%be%e8%af%be%e4%bb%b62011-bgi-bioinformatices-ppt.html)
-* 2012-11-21 16:13:14: [PLoS One：张亚平等疯牛病调控基因研究取得新进展](pages/2012/11/21/plos-one%ef%bc%9a%e5%bc%a0%e4%ba%9a%e5%b9%b3%e7%ad%89%e7%96%af%e7%89%9b%e7%97%85%e8%b0%83%e6%8e%a7%e5%9f%ba%e5%9b%a0%e7%a0%94%e7%a9%b6%e5%8f%96%e5%be%97%e6%96%b0%e8%bf%9b%e5%b1%95.html)
-* 2012-11-21 16:16:14: [Nature:科学家发现最小最快RNA开关](pages/2012/11/21/nature%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e6%9c%80%e5%b0%8f%e6%9c%80%e5%bf%abrna%e5%bc%80%e5%85%b3.html)
-* 2012-11-21 16:19:22: [Nature:科学家成功绘制出大麦基因组草图](pages/2012/11/21/nature%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%88%90%e5%8a%9f%e7%bb%98%e5%88%b6%e5%87%ba%e5%a4%a7%e9%ba%a6%e5%9f%ba%e5%9b%a0%e7%bb%84%e8%8d%89%e5%9b%be.html)
-* 2012-11-23 03:53:39: [Nat Commun.:世界首次公开和破译双峰驼全基因组序列图谱](pages/2012/11/23/nat-commun-%e4%b8%96%e7%95%8c%e9%a6%96%e6%ac%a1%e5%85%ac%e5%bc%80%e5%92%8c%e7%a0%b4%e8%af%91%e5%8f%8c%e5%b3%b0%e9%a9%bc%e5%85%a8%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ba%8f%e5%88%97%e5%9b%be%e8%b0%b1.html)
-* 2012-11-23 04:10:04: [Food and Chemical Toxicology:研究称食用转基因谷物会使实验鼠患肿瘤](pages/2012/11/23/food-and-chemical-toxicology%e7%a0%94%e7%a9%b6%e7%a7%b0%e9%a3%9f%e7%94%a8%e8%bd%ac%e5%9f%ba%e5%9b%a0%e8%b0%b7%e7%89%a9%e4%bc%9a%e4%bd%bf%e5%ae%9e%e9%aa%8c%e9%bc%a0%e6%82%a3%e8%82%bf%e7%98%a4.html)
-* 2012-11-23 04:17:02: [Nature：基因组学分析揭示细菌进化的自然选择过程](pages/2012/11/23/nature%ef%bc%9a%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ad%a6%e5%88%86%e6%9e%90%e6%8f%ad%e7%a4%ba%e7%bb%86%e8%8f%8c%e8%bf%9b%e5%8c%96%e7%9a%84%e8%87%aa%e7%84%b6%e9%80%89%e6%8b%a9%e8%bf%87%e7%a8%8b.html)
-* 2012-11-23 04:20:09: [PNAS：详细绘制出大肠杆菌DNA突变过程图谱](pages/2012/11/23/pnas%ef%bc%9a%e8%af%a6%e7%bb%86%e7%bb%98%e5%88%b6%e5%87%ba%e5%a4%a7%e8%82%a0%e6%9d%86%e8%8f%8cdna%e7%aa%81%e5%8f%98%e8%bf%87%e7%a8%8b%e5%9b%be%e8%b0%b1.html)
-* 2012-11-23 04:22:38: [Nature：新技术用于定制斑马鱼基因组](pages/2012/11/23/nature%ef%bc%9a%e6%96%b0%e6%8a%80%e6%9c%af%e7%94%a8%e4%ba%8e%e5%ae%9a%e5%88%b6%e6%96%91%e9%a9%ac%e9%b1%bc%e5%9f%ba%e5%9b%a0%e7%bb%84.html)
+
+
+
+
+## 2012.6
+
+* 2012-06-07 13:48:36: [The very basics of R](pages/2012/06/07/the-very-basics-of-r.html)
+* 2012-06-11 14:17:27: [高通量测序技术相关的名词解释](pages/2012/06/11/%e9%ab%98%e9%80%9a%e9%87%8f%e6%b5%8b%e5%ba%8f%e6%8a%80%e6%9c%af%e7%9b%b8%e5%85%b3%e7%9a%84%e5%90%8d%e8%af%8d%e8%a7%a3%e9%87%8a.html)
+* 2012-06-15 14:15:01: [《谁欠谁的幸福》高考满分作文](pages/2012/06/15/%e3%80%8a%e8%b0%81%e6%ac%a0%e8%b0%81%e7%9a%84%e5%b9%b8%e7%a6%8f%e3%80%8b%e9%ab%98%e8%80%83%e6%bb%a1%e5%88%86%e4%bd%9c%e6%96%87.html)
+* 2012-06-18 15:18:07: [2012又到花开时](pages/2012/06/18/2012%e5%8f%88%e5%88%b0%e8%8a%b1%e5%bc%80%e6%97%b6.html)
+* 2012-06-18 15:35:20: [2012又到花开时（2）](pages/2012/06/18/2012%e5%8f%88%e5%88%b0%e8%8a%b1%e5%bc%80%e6%97%b6%ef%bc%882%ef%bc%89.html)
+* 2012-06-18 15:52:37: [韩国水原郊区Suwon Suburb in R. Korea](pages/2012/06/18/%e9%9f%a9%e5%9b%bd%e6%b0%b4%e5%8e%9f%e9%83%8a%e5%8c%basuwon-suburb-in-r-korea.html)
+* 2012-06-26 21:43:54: [Control of grain size, shape and quality by OsSPL16 in rice](pages/2012/06/26/control-of-grain-size-shape-and-quality-by-osspl16-in-rice.html)
+* 2012-06-27 16:15:47: [RPKM(Reads Per Kilobase of exon model per Million mapped reads)简介](pages/2012/06/27/rpkmreads-per-kilobase-of-exon-model-per-million-mapped-reads%e7%ae%80%e4%bb%8b.html)
+* 2012-06-29 10:28:43: [Incredible medical breakthrough allows doctors to inject oxygen into the bloodstreams of people who can’t breathe](pages/2012/06/29/incredible-medical-breakthrough-allows-doctors-to-inject-oxygen-into-the-bloodstreams-of-people-who-cant-breathe.html)
+* 2012-06-30 21:04:49: [植物碳积累途径完全阐明[SWEET! The Pathway Is Complete]](pages/2012/06/30/%e6%a4%8d%e7%89%a9%e7%a2%b3%e7%a7%af%e7%b4%af%e9%80%94%e5%be%84%e5%ae%8c%e5%85%a8%e9%98%90%e6%98%8esweet-the-pathway-is-complete.html)
+
+
+
 
 ## 2012.5
 
-* 2012-05-02 23:34:35: [如果泰坦尼克号最后没有撞冰山…](pages/2012/05/02/%e5%a6%82%e6%9e%9c%e6%b3%b0%e5%9d%a6%e5%b0%bc%e5%85%8b%e5%8f%b7%e6%9c%80%e5%90%8e%e6%b2%a1%e6%9c%89%e6%92%9e%e5%86%b0%e5%b1%b1.html)
-* 2012-05-03 22:30:55: [P-values, False Discovery Rate (FDR) and q-values](pages/2012/05/03/p-values-false-discovery-rate-fdr-and-q-values-2.html)
-* 2012-05-09 10:04:08: [百度网盘邀请码](pages/2012/05/09/%e7%99%be%e5%ba%a6%e7%bd%91%e7%9b%98%e9%82%80%e8%af%b7%e7%a0%81-2.html)
-* 2012-05-18 18:24:14: [简单易行的止咳偏方](pages/2012/05/18/%e7%ae%80%e5%8d%95%e6%98%93%e8%a1%8c%e7%9a%84%e6%ad%a2%e5%92%b3%e5%81%8f%e6%96%b9.html)
-* 2012-05-18 18:30:06: [五年的western blot经验总结[转载]](pages/2012/05/18/%e4%ba%94%e5%b9%b4%e7%9a%84western-blot%e7%bb%8f%e9%aa%8c%e6%80%bb%e7%bb%93%e8%bd%ac%e8%bd%bd.html)
-* 2012-05-18 19:05:35: [四条腿的鸡](pages/2012/05/18/%e5%9b%9b%e6%9d%a1%e8%85%bf%e7%9a%84%e9%b8%a1.html)
-* 2012-05-18 19:09:44: [农业、食品相关核心期刊](pages/2012/05/18/%e5%86%9c%e4%b8%9a%e3%80%81%e9%a3%9f%e5%93%81%e7%9b%b8%e5%85%b3%e6%a0%b8%e5%bf%83%e6%9c%9f%e5%88%8a.html)
-* 2012-05-18 20:05:06: [论文参考文献自动生成](pages/2012/05/18/%e8%ae%ba%e6%96%87%e5%8f%82%e8%80%83%e6%96%87%e7%8c%ae%e8%87%aa%e5%8a%a8%e7%94%9f%e6%88%90.html)
-* 2012-05-22 13:54:59: [一句话的经典](pages/2012/05/22/%e4%b8%80%e5%8f%a5%e8%af%9d%e7%9a%84%e7%bb%8f%e5%85%b8-2.html)
-* 2012-05-29 12:00:45: [11种常见食物空腹吃了很“要命”](pages/2012/05/29/11%e7%a7%8d%e5%b8%b8%e8%a7%81%e9%a3%9f%e7%89%a9%e7%a9%ba%e8%85%b9%e5%90%83%e4%ba%86%e5%be%88%e8%a6%81%e5%91%bd.html)
+* 20120529 12:00:45 [11种常见食物空腹吃了很“要命”](pages/2012/05/29/20120529-120045.html)
 
+* 20120522 13:54:59 [一句话的经典](pages/2012/05/22/20120522-135459.html)
 
+* 20120518 20:05:06 [论文参考文献自动生成](pages/2012/05/18/20120518-200506.html)
+
+* 20120518 19:09:44 [农业、食品相关核心期刊](pages/2012/05/18/20120518-190944.html)
+
+* 20120518 19:05:35 [四条腿的鸡](pages/2012/05/18/20120518-190535.html)
+
+* 20120518 18:30:06 [五年的western blot经验总结【转】](pages/2012/05/18/20120518-183006.html)
+
+* 20120518 18:24:14 [简单易行的止咳偏方](pages/2012/05/18/20120518-182414.html)
+
+* 20120502 23:34:35 [如果泰坦尼克号最后没有撞冰山…](pages/2012/05/02/20120502-233435.md.html)
 
 
 
@@ -272,7 +299,7 @@ tagline: Fight Against Bioinformatics with Perl
 * 2011-02-07 15:20:20: [英国科学家成功试验出“万能”流感疫苗 ](pages/2011/02/07/%e8%8b%b1%e5%9b%bd%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%88%90%e5%8a%9f%e8%af%95%e9%aa%8c%e5%87%ba%e2%80%9c%e4%b8%87%e8%83%bd%e2%80%9d%e6%b5%81%e6%84%9f%e7%96%ab%e8%8b%97.html)
 * 2011-02-07 15:29:35: [GWAS-----全基因组关联分析](pages/2011/02/07/gwas-%e5%85%a8%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%85%b3%e8%81%94%e5%88%86%e6%9e%90.html)
 * 2011-02-11 13:59:51: [说说LD](pages/2011/02/11/%e8%af%b4%e8%af%b4ld.html)
-* 2011-02-11 14:06:43: [[转]科学家发现果蝇求爱机制 有望提高家畜繁殖效率](pages/2011/02/11/%e8%bd%ac%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e6%9e%9c%e8%9d%87%e6%b1%82%e7%88%b1%e6%9c%ba%e5%88%b6-%e6%9c%89%e6%9c%9b%e6%8f%90%e9%ab%98%e5%ae%b6%e7%95%9c%e7%b9%81%e6%ae%96%e6%95%88.html)
+* 2011-02-11 14:06:43: [科学家发现果蝇求爱机制 有望提高家畜繁殖效率【转】](pages/2011/02/11/%e8%bd%ac%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e6%9e%9c%e8%9d%87%e6%b1%82%e7%88%b1%e6%9c%ba%e5%88%b6-%e6%9c%89%e6%9c%9b%e6%8f%90%e9%ab%98%e5%ae%b6%e7%95%9c%e7%b9%81%e6%ae%96%e6%95%88.html)
 * 2011-02-11 14:13:37: [脸上漂亮与内脏的关系](pages/2011/02/11/%e8%84%b8%e4%b8%8a%e6%bc%82%e4%ba%ae%e4%b8%8e%e5%86%85%e8%84%8f%e7%9a%84%e5%85%b3%e7%b3%bb.html)
 * 2011-02-21 10:42:02: [自然要览 Nature 470: 7334 17 February 2011](pages/2011/02/21/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88-nature-470-7334-17-february-2011.html)
 * 2011-02-24 20:43:37: [[自然要览]Nature 470: 7335 24 February 2011](pages/2011/02/24/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88nature-470-7335-24-february-2011.html)
