@@ -58,12 +58,6 @@ tagline: Fight Against Bioinformatics with Perl
 # 2014
 
 
-* 2014-01-09 22:06:18: [Cell Metab：科学家发现糖尿病的新致病原因](pages/2014/01/09/cell-metab%ef%bc%9a%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e7%b3%96%e5%b0%bf%e7%97%85%e7%9a%84%e6%96%b0%e8%87%b4%e7%97%85%e5%8e%9f%e5%9b%a0.html)
-* 2014-01-09 22:18:27: [MMB1116: Quick and Clean Cloning](pages/2014/01/09/mmb1116-quick-and-clean-cloning.html)
-* 2014-01-09 22:24:48: [MMB1116: FastPCR Software for PCR, In Silico PCR, and Oligonucleotide Assembly and Analysis](pages/2014/01/09/mmb1116-fastpcr-software-for-pcr-in-silico-pcr-and-oligonucleotide-assembly-and-analysis.html)
-* 2014-01-09 22:47:44: [APPS: Extract high-quality plant RNA for NGS RNAseq](pages/2014/01/09/apps-extract-high-quality-plant-rna-for-ngs-rnaseq.html)
-* 2014-01-16 19:17:07: [Nat Commun：飞蝗荣登最大动物基因组榜首，支招摆脱蝗灾防控困扰](pages/2014/01/16/nat-commun%ef%bc%9a%e9%a3%9e%e8%9d%97%e8%8d%a3%e7%99%bb%e6%9c%80%e5%a4%a7%e5%8a%a8%e7%89%a9%e5%9f%ba%e5%9b%a0%e7%bb%84%e6%a6%9c%e9%a6%96%ef%bc%8c%e6%94%af%e6%8b%9b%e6%91%86%e8%84%b1%e8%9d%97%e7%81%be.html)
-* 2014-01-16 19:25:46: [Nature：一种软骨鱼的第一个基因组序列](pages/2014/01/16/nature%ef%bc%9a%e4%b8%80%e7%a7%8d%e8%bd%af%e9%aa%a8%e9%b1%bc%e7%9a%84%e7%ac%ac%e4%b8%80%e4%b8%aa%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ba%8f%e5%88%97.html)
 * 2014-04-03 18:35:02: [月老贵庚: How old are you, Moon?](pages/2014/04/03/%e6%9c%88%e8%80%81%e8%b4%b5%e5%ba%9a-how-old-are-you-moon.html)
 * 2014-04-07 20:27:00: [酒窝的来历](pages/2014/04/07/%e9%85%92%e7%aa%9d%e7%9a%84%e6%9d%a5%e5%8e%86.html)
 * 2014-04-07 20:34:42: [有眼不识泰山的来历](pages/2014/04/07/%e6%9c%89%e7%9c%bc%e4%b8%8d%e8%af%86%e6%b3%b0%e5%b1%b1%e7%9a%84%e6%9d%a5%e5%8e%86.html)
@@ -75,7 +69,21 @@ tagline: Fight Against Bioinformatics with Perl
 
 
 
-* 20140106 21:37:02: [抗青蒿素疟疾的一个标记](pages/2014/01/06/20140106-213702.html)
+
+
+* 20140116 19:25:46 [Nature：一种软骨鱼的第一个基因组序列](pages/2014/01/16/20140116-192546.html)
+
+* 20140116 19:17:07 [Nat Commun：飞蝗荣登最大动物基因组榜首，支招摆脱蝗灾防控困扰](pages/2014/01/16/20140116-191707.html)
+
+* 20140109 22:47:44 [APPS: Extract high-quality plant RNA for NGS RNAseq](pages/2014/01/09/20140109-224744.html)
+
+* 20140109 22:24:48 [MMB1116: FastPCR Software for PCR, In Silico PCR, and Oligonucleotide Assembly and Analysis](pages/2014/01/09/20140109-222448.html)
+
+* 20140109 22:18:27 [MMB1116: Quick and Clean Cloning](pages/2014/01/09/20140109-221827.html)
+
+* 20140109 22:06:18 [Cell Metab：科学家发现糖尿病的新致病原因](pages/2014/01/09/20140109-220618.html)
+
+* 20140106 21:37:02 [抗青蒿素疟疾的一个标记](pages/2014/01/06/20140106-213702.html)
 
 * 20140106 21:21:40 [J General Physiol：揭示尼古丁促进机体成瘾的分子机制](pages/2014/01/06/20140106-212140.html)
 
