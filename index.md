@@ -57,8 +57,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 # 2014
 
-* 2014-01-06 21:21:40: [J General Physiol：揭示尼古丁促进机体成瘾的分子机制](pages/2014/01/06/j-general-physiol%ef%bc%9a%e6%8f%ad%e7%a4%ba%e5%b0%bc%e5%8f%a4%e4%b8%81%e4%bf%83%e8%bf%9b%e6%9c%ba%e4%bd%93%e6%88%90%e7%98%be%e7%9a%84%e5%88%86%e5%ad%90%e6%9c%ba%e5%88%b6.html)
-* 2014-01-06 21:37:02: [抗青蒿素疟疾的一个标记](pages/2014/01/06/%e6%8a%97%e9%9d%92%e8%92%bf%e7%b4%a0%e7%96%9f%e7%96%be%e7%9a%84%e4%b8%80%e4%b8%aa%e6%a0%87%e8%ae%b0.html)
+
 * 2014-01-09 22:06:18: [Cell Metab：科学家发现糖尿病的新致病原因](pages/2014/01/09/cell-metab%ef%bc%9a%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e7%b3%96%e5%b0%bf%e7%97%85%e7%9a%84%e6%96%b0%e8%87%b4%e7%97%85%e5%8e%9f%e5%9b%a0.html)
 * 2014-01-09 22:18:27: [MMB1116: Quick and Clean Cloning](pages/2014/01/09/mmb1116-quick-and-clean-cloning.html)
 * 2014-01-09 22:24:48: [MMB1116: FastPCR Software for PCR, In Silico PCR, and Oligonucleotide Assembly and Analysis](pages/2014/01/09/mmb1116-fastpcr-software-for-pcr-in-silico-pcr-and-oligonucleotide-assembly-and-analysis.html)
@@ -76,8 +75,9 @@ tagline: Fight Against Bioinformatics with Perl
 
 
 
+* 20140106 21:37:02: [抗青蒿素疟疾的一个标记](pages/2014/01/06/20140106-213702.html)
 
-
+* 20140106 21:21:40 [J General Physiol：揭示尼古丁促进机体成瘾的分子机制](pages/2014/01/06/20140106-212140.html)
 
 * 20140106 21:13:07 [PNAS：揭示感冒病毒引发感染的分子机制](pages/2014/01/06/20140106-211307.html)
 
