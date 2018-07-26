@@ -155,33 +155,6 @@ tagline: Fight Against Bioinformatics with Perl
 
 # 2012
 
-* 2012-01-07 20:27:58: [美国诞生首例转基因猴 基因来自6个不同胚胎](pages/2012/01/07/%e7%be%8e%e5%9b%bd%e8%af%9e%e7%94%9f%e9%a6%96%e4%be%8b%e8%bd%ac%e5%9f%ba%e5%9b%a0%e7%8c%b4-%e5%9f%ba%e5%9b%a0%e6%9d%a5%e8%87%aa6%e4%b8%aa%e4%b8%8d%e5%90%8c%e8%83%9a%e8%83%8e.html)
-* 2012-01-09 19:50:06: [主要作物千粒重分布](pages/2012/01/09/%e4%b8%bb%e8%a6%81%e4%bd%9c%e7%89%a9%e5%8d%83%e7%b2%92%e9%87%8d%e5%88%86%e5%b8%83.html)
-* 2012-01-15 12:14:40: [科学家找到能清理大气物质 达到为地球降温效果](pages/2012/01/15/%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%89%be%e5%88%b0%e8%83%bd%e6%b8%85%e7%90%86%e5%a4%a7%e6%b0%94%e7%89%a9%e8%b4%a8-%e8%be%be%e5%88%b0%e4%b8%ba%e5%9c%b0%e7%90%83%e9%99%8d%e6%b8%a9%e6%95%88%e6%9e%9c.html)
-* 2012-01-26 14:04:37: [科学家发现毛毛虫会吹口哨吓退掠食鸟类](pages/2012/01/26/%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e6%af%9b%e6%af%9b%e8%99%ab%e4%bc%9a%e5%90%b9%e5%8f%a3%e5%93%a8%e5%90%93%e9%80%80%e6%8e%a0%e9%a3%9f%e9%b8%9f%e7%b1%bb.html)
-* 2012-01-26 14:12:28: [研究探清迷幻蘑菇导致幻觉原因](pages/2012/01/26/%e7%a0%94%e7%a9%b6%e6%8e%a2%e6%b8%85%e8%bf%b7%e5%b9%bb%e8%98%91%e8%8f%87%e5%af%bc%e8%87%b4%e5%b9%bb%e8%a7%89%e5%8e%9f%e5%9b%a0.html)
-* 2012-02-07 16:57:53: [The Plant Cell：开发出破译复杂谷物基因组的方法](pages/2012/02/07/the-plant-cell%ef%bc%9a%e5%bc%80%e5%8f%91%e5%87%ba%e7%a0%b4%e8%af%91%e5%a4%8d%e6%9d%82%e8%b0%b7%e7%89%a9%e5%9f%ba%e5%9b%a0%e7%bb%84%e7%9a%84%e6%96%b9%e6%b3%95.html)
-* 2012-02-09 16:45:04: [NATURE REPRINT COLLECTION microRNAs](pages/2012/02/09/nature-reprint-collection-micrornas.html)
-* 2012-02-09 16:55:26: [中越战争三十周年祭](pages/2012/02/09/%e4%b8%ad%e8%b6%8a%e6%88%98%e4%ba%89%e4%b8%89%e5%8d%81%e5%91%a8%e5%b9%b4%e7%a5%ad.html)
-* 2012-02-11 19:52:10: [黄石公园火山隆起速度破纪录 2012先兆？](pages/2012/02/11/%e9%bb%84%e7%9f%b3%e5%85%ac%e5%9b%ad%e7%81%ab%e5%b1%b1%e9%9a%86%e8%b5%b7%e9%80%9f%e5%ba%a6%e7%a0%b4%e7%ba%aa%e5%bd%95-2012%e5%85%88%e5%85%86%ef%bc%9f.html)
-* 2012-02-13 19:55:38: [Nat Biotech：华大基因揭示人转录组中存在大量的RNA编辑](pages/2012/02/13/nat-biotech%ef%bc%9a%e5%8d%8e%e5%a4%a7%e5%9f%ba%e5%9b%a0%e6%8f%ad%e7%a4%ba%e4%ba%ba%e8%bd%ac%e5%bd%95%e7%bb%84%e4%b8%ad%e5%ad%98%e5%9c%a8%e5%a4%a7%e9%87%8f%e7%9a%84rna%e7%bc%96%e8%be%91.html)
-* 2012-02-21 14:05:53: [千万别惹程序员](pages/2012/02/21/%e5%8d%83%e4%b8%87%e5%88%ab%e6%83%b9%e7%a8%8b%e5%ba%8f%e5%91%98.html)
-* 2012-03-13 15:59:50: [P-values, False Discovery Rate (FDR) and q-values](pages/2012/03/13/p-values-false-discovery-rate-fdr-and-q-values.html)
-* 2012-04-04 09:45:33: [Plant microRNA functions into human](pages/2012/04/04/plant-microrna-functions-into-human.html)
-* 2012-04-10 17:38:14: [那些读到心碎的微小说](pages/2012/04/10/%e9%82%a3%e4%ba%9b%e8%af%bb%e5%88%b0%e5%bf%83%e7%a2%8e%e7%9a%84%e5%be%ae%e5%b0%8f%e8%af%b4.html)
-* 2012-04-16 17:46:19: [A review of puffing process for expansion of biological products](pages/2012/04/16/a-review-of-puffing-process-for-expansion-of-biological-products.html)
-* 2012-04-17 14:39:50: [J Prote Res：张建国等揭晓“雨后春笋”生长谜底](pages/2012/04/17/j-prote-res%ef%bc%9a%e5%bc%a0%e5%bb%ba%e5%9b%bd%e7%ad%89%e6%8f%ad%e6%99%93%e9%9b%a8%e5%90%8e%e6%98%a5%e7%ac%8b%e7%94%9f%e9%95%bf%e8%b0%9c%e5%ba%95.html)
-* 2012-04-24 14:15:25: [Science：英国研究证实合成“XNA”可像DNA一样工作和演化](pages/2012/04/24/science%ef%bc%9a%e8%8b%b1%e5%9b%bd%e7%a0%94%e7%a9%b6%e8%af%81%e5%ae%9e%e5%90%88%e6%88%90xna%e5%8f%af%e5%83%8fdna%e4%b8%80%e6%a0%b7%e5%b7%a5%e4%bd%9c%e5%92%8c%e6%bc%94%e5%8c%96.html)
-* 2012-05-02 23:34:35: [如果泰坦尼克号最后没有撞冰山…](pages/2012/05/02/%e5%a6%82%e6%9e%9c%e6%b3%b0%e5%9d%a6%e5%b0%bc%e5%85%8b%e5%8f%b7%e6%9c%80%e5%90%8e%e6%b2%a1%e6%9c%89%e6%92%9e%e5%86%b0%e5%b1%b1.html)
-* 2012-05-03 22:30:55: [P-values, False Discovery Rate (FDR) and q-values](pages/2012/05/03/p-values-false-discovery-rate-fdr-and-q-values-2.html)
-* 2012-05-09 10:04:08: [百度网盘邀请码](pages/2012/05/09/%e7%99%be%e5%ba%a6%e7%bd%91%e7%9b%98%e9%82%80%e8%af%b7%e7%a0%81-2.html)
-* 2012-05-18 18:24:14: [简单易行的止咳偏方](pages/2012/05/18/%e7%ae%80%e5%8d%95%e6%98%93%e8%a1%8c%e7%9a%84%e6%ad%a2%e5%92%b3%e5%81%8f%e6%96%b9.html)
-* 2012-05-18 18:30:06: [五年的western blot经验总结[转载]](pages/2012/05/18/%e4%ba%94%e5%b9%b4%e7%9a%84western-blot%e7%bb%8f%e9%aa%8c%e6%80%bb%e7%bb%93%e8%bd%ac%e8%bd%bd.html)
-* 2012-05-18 19:05:35: [四条腿的鸡](pages/2012/05/18/%e5%9b%9b%e6%9d%a1%e8%85%bf%e7%9a%84%e9%b8%a1.html)
-* 2012-05-18 19:09:44: [农业、食品相关核心期刊](pages/2012/05/18/%e5%86%9c%e4%b8%9a%e3%80%81%e9%a3%9f%e5%93%81%e7%9b%b8%e5%85%b3%e6%a0%b8%e5%bf%83%e6%9c%9f%e5%88%8a.html)
-* 2012-05-18 20:05:06: [论文参考文献自动生成](pages/2012/05/18/%e8%ae%ba%e6%96%87%e5%8f%82%e8%80%83%e6%96%87%e7%8c%ae%e8%87%aa%e5%8a%a8%e7%94%9f%e6%88%90.html)
-* 2012-05-22 13:54:59: [一句话的经典](pages/2012/05/22/%e4%b8%80%e5%8f%a5%e8%af%9d%e7%9a%84%e7%bb%8f%e5%85%b8-2.html)
-* 2012-05-29 12:00:45: [11种常见食物空腹吃了很“要命”](pages/2012/05/29/11%e7%a7%8d%e5%b8%b8%e8%a7%81%e9%a3%9f%e7%89%a9%e7%a9%ba%e8%85%b9%e5%90%83%e4%ba%86%e5%be%88%e8%a6%81%e5%91%bd.html)
 * 2012-06-07 13:48:36: [The very basics of R](pages/2012/06/07/the-very-basics-of-r.html)
 * 2012-06-11 14:17:27: [高通量测序技术相关的名词解释](pages/2012/06/11/%e9%ab%98%e9%80%9a%e9%87%8f%e6%b5%8b%e5%ba%8f%e6%8a%80%e6%9c%af%e7%9b%b8%e5%85%b3%e7%9a%84%e5%90%8d%e8%af%8d%e8%a7%a3%e9%87%8a.html)
 * 2012-06-15 14:15:01: [《谁欠谁的幸福》高考满分作文](pages/2012/06/15/%e3%80%8a%e8%b0%81%e6%ac%a0%e8%b0%81%e7%9a%84%e5%b9%b8%e7%a6%8f%e3%80%8b%e9%ab%98%e8%80%83%e6%bb%a1%e5%88%86%e4%bd%9c%e6%96%87.html)
@@ -215,6 +188,71 @@ tagline: Fight Against Bioinformatics with Perl
 * 2012-11-23 04:17:02: [Nature：基因组学分析揭示细菌进化的自然选择过程](pages/2012/11/23/nature%ef%bc%9a%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ad%a6%e5%88%86%e6%9e%90%e6%8f%ad%e7%a4%ba%e7%bb%86%e8%8f%8c%e8%bf%9b%e5%8c%96%e7%9a%84%e8%87%aa%e7%84%b6%e9%80%89%e6%8b%a9%e8%bf%87%e7%a8%8b.html)
 * 2012-11-23 04:20:09: [PNAS：详细绘制出大肠杆菌DNA突变过程图谱](pages/2012/11/23/pnas%ef%bc%9a%e8%af%a6%e7%bb%86%e7%bb%98%e5%88%b6%e5%87%ba%e5%a4%a7%e8%82%a0%e6%9d%86%e8%8f%8cdna%e7%aa%81%e5%8f%98%e8%bf%87%e7%a8%8b%e5%9b%be%e8%b0%b1.html)
 * 2012-11-23 04:22:38: [Nature：新技术用于定制斑马鱼基因组](pages/2012/11/23/nature%ef%bc%9a%e6%96%b0%e6%8a%80%e6%9c%af%e7%94%a8%e4%ba%8e%e5%ae%9a%e5%88%b6%e6%96%91%e9%a9%ac%e9%b1%bc%e5%9f%ba%e5%9b%a0%e7%bb%84.html)
+
+## 2012.5
+
+* 2012-05-02 23:34:35: [如果泰坦尼克号最后没有撞冰山…](pages/2012/05/02/%e5%a6%82%e6%9e%9c%e6%b3%b0%e5%9d%a6%e5%b0%bc%e5%85%8b%e5%8f%b7%e6%9c%80%e5%90%8e%e6%b2%a1%e6%9c%89%e6%92%9e%e5%86%b0%e5%b1%b1.html)
+* 2012-05-03 22:30:55: [P-values, False Discovery Rate (FDR) and q-values](pages/2012/05/03/p-values-false-discovery-rate-fdr-and-q-values-2.html)
+* 2012-05-09 10:04:08: [百度网盘邀请码](pages/2012/05/09/%e7%99%be%e5%ba%a6%e7%bd%91%e7%9b%98%e9%82%80%e8%af%b7%e7%a0%81-2.html)
+* 2012-05-18 18:24:14: [简单易行的止咳偏方](pages/2012/05/18/%e7%ae%80%e5%8d%95%e6%98%93%e8%a1%8c%e7%9a%84%e6%ad%a2%e5%92%b3%e5%81%8f%e6%96%b9.html)
+* 2012-05-18 18:30:06: [五年的western blot经验总结[转载]](pages/2012/05/18/%e4%ba%94%e5%b9%b4%e7%9a%84western-blot%e7%bb%8f%e9%aa%8c%e6%80%bb%e7%bb%93%e8%bd%ac%e8%bd%bd.html)
+* 2012-05-18 19:05:35: [四条腿的鸡](pages/2012/05/18/%e5%9b%9b%e6%9d%a1%e8%85%bf%e7%9a%84%e9%b8%a1.html)
+* 2012-05-18 19:09:44: [农业、食品相关核心期刊](pages/2012/05/18/%e5%86%9c%e4%b8%9a%e3%80%81%e9%a3%9f%e5%93%81%e7%9b%b8%e5%85%b3%e6%a0%b8%e5%bf%83%e6%9c%9f%e5%88%8a.html)
+* 2012-05-18 20:05:06: [论文参考文献自动生成](pages/2012/05/18/%e8%ae%ba%e6%96%87%e5%8f%82%e8%80%83%e6%96%87%e7%8c%ae%e8%87%aa%e5%8a%a8%e7%94%9f%e6%88%90.html)
+* 2012-05-22 13:54:59: [一句话的经典](pages/2012/05/22/%e4%b8%80%e5%8f%a5%e8%af%9d%e7%9a%84%e7%bb%8f%e5%85%b8-2.html)
+* 2012-05-29 12:00:45: [11种常见食物空腹吃了很“要命”](pages/2012/05/29/11%e7%a7%8d%e5%b8%b8%e8%a7%81%e9%a3%9f%e7%89%a9%e7%a9%ba%e8%85%b9%e5%90%83%e4%ba%86%e5%be%88%e8%a6%81%e5%91%bd.html)
+
+
+
+
+
+## 2012.4
+
+* 20120424 14:15:25 [Science：英国研究证实合成“XNA”可像DNA一样工作和演化](pages/2012/04/24/20120424-141525.html)
+
+* 20120417 14:39:50 [J Prote Res：张建国等揭晓“雨后春笋”生长谜底](pages/2012/04/17/20120417-143950.html)
+
+* 20120416 17:46:19 [A review of puffing process for expansion of biological products](pages/2012/04/16/20120416-174619.html)
+
+* 20120410 17:38:14 [那些读到心碎的微小说](pages/2012/04/10/20120410-173814.html)
+
+* 20120404 09:45:33 [Plant microRNA functions into human](pages/2012/04/04/20120404-094533.html)
+
+
+
+## 2012.3
+
+* 20120313 15:59:50 [P-values, False Discovery Rate (FDR) and q-values](pages/2012/03/13/20120313-155950.html)
+
+
+
+## 2012.2
+
+* 20120221 14:05:53 [千万别惹程序员](pages/2012/02/21/20120221-140553.html)
+
+* 20120213 19:55:38 [Nat Biotech：华大基因揭示人转录组中存在大量的RNA编辑](pages/2012/02/13/20120213-195538.html)
+
+* 20120211 19:52:10 [黄石公园火山隆起速度破纪录 2012先兆？](pages/2012/02/11/20120211-195210.html)
+
+* 20120209 16:55:26 [中越战争三十周年祭](pages/2012/02/09/20120209-165526.html)
+
+* 20120209 16:45:04 [NATURE REPRINT COLLECTION microRNAs](pages/2012/02/09/20120209-164504.html)
+
+* 20120207 16:57:53 [The Plant Cell：开发出破译复杂谷物基因组的方法](pages/2012/02/07/20120207-165753.html)
+
+
+
+## 2012.1
+
+* 20120126 14:12:28 [研究探清迷幻蘑菇导致幻觉原因](pages/2012/01/26/20120126-141228.html)
+
+* 20120126 14:04:37 [科学家发现毛毛虫会吹口哨吓退掠食鸟类](pages/2012/01/26/20120126-140437.html)
+
+* 20120115 12:14:40 [科学家找到能清理大气物质 达到为地球降温效果](pages/2012/01/15/20120115-121440.html)
+
+* 20120109 19:50:06 [主要作物千粒重分布](pages/2012/01/09/20120109-195006.html)
+
+* 20120107 20:27:58 [美国诞生首例转基因猴 基因来自6个不同胚胎](pages/2012/01/07/20120107-202758.html)
 
 
 # 2011
