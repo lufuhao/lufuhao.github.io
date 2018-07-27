@@ -168,17 +168,17 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20121123 03:53:39 [Nat Commun.:世界首次公开和破译双峰驼全基因组序列图谱](pages/2012/11/23/20121123-035339.html)
 
-* 2012-11-21 16:19:22: [Nature:科学家成功绘制出大麦基因组草图](pages/2012/11/21/nature%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%88%90%e5%8a%9f%e7%bb%98%e5%88%b6%e5%87%ba%e5%a4%a7%e9%ba%a6%e5%9f%ba%e5%9b%a0%e7%bb%84%e8%8d%89%e5%9b%be.html)
+* 20121121 16:19:22 [Nature:科学家成功绘制出大麦基因组草图](pages/2012/11/21/20121121-161922.html)
 
-* 2012-11-21 16:16:14: [Nature:科学家发现最小最快RNA开关](pages/2012/11/21/20121121-161614.html)
+* 20121121 16:16:14 [Nature:科学家发现最小最快RNA开关](pages/2012/11/21/20121121-161614.html)
 
-* 2012-11-21 16:13:14: [PLoS One：张亚平等疯牛病调控基因研究取得新进展](pages/2012/11/21/plos-one%ef%bc%9a%e5%bc%a0%e4%ba%9a%e5%b9%b3%e7%ad%89%e7%96%af%e7%89%9b%e7%97%85%e8%b0%83%e6%8e%a7%e5%9f%ba%e5%9b%a0%e7%a0%94%e7%a9%b6%e5%8f%96%e5%be%97%e6%96%b0%e8%bf%9b%e5%b1%95.html)
+* 20121121 16:13:14 [PLoS One：张亚平等疯牛病调控基因研究取得新进展](pages/2012/11/21/20121121-161314.html)
 
 
 
 ## 2012.8
 
-* 2012-08-01 10:52:33: [[2011华大基因的生物信息学全国公开课课件]2011 BGI Bioinformatices PPT](pages/2012/08/01/2011%e5%8d%8e%e5%a4%a7%e5%9f%ba%e5%9b%a0%e7%9a%84%e7%94%9f%e7%89%a9%e4%bf%a1%e6%81%af%e5%ad%a6%e5%85%a8%e5%9b%bd%e5%85%ac%e5%bc%80%e8%af%be%e8%af%be%e4%bb%b62011-bgi-bioinformatices-ppt.html)
+* 2012-08-01 10:52:33: [2011华大基因的生物信息学全国公开课课件 BGI Bioinformatices PPT](pages/2012/08/01/20120801-105233.html)
 
 
 
