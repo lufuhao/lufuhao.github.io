@@ -158,14 +158,21 @@ tagline: Fight Against Bioinformatics with Perl
 
 ## 2012.11
 
-* 2012-11-21 16:13:14: [PLoS One：张亚平等疯牛病调控基因研究取得新进展](pages/2012/11/21/plos-one%ef%bc%9a%e5%bc%a0%e4%ba%9a%e5%b9%b3%e7%ad%89%e7%96%af%e7%89%9b%e7%97%85%e8%b0%83%e6%8e%a7%e5%9f%ba%e5%9b%a0%e7%a0%94%e7%a9%b6%e5%8f%96%e5%be%97%e6%96%b0%e8%bf%9b%e5%b1%95.html)
-* 2012-11-21 16:16:14: [Nature:科学家发现最小最快RNA开关](pages/2012/11/21/nature%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e6%9c%80%e5%b0%8f%e6%9c%80%e5%bf%abrna%e5%bc%80%e5%85%b3.html)
+* 20121123 04:22:38 [Nature：新技术用于定制斑马鱼基因组](pages/2012/11/23/20121123-042238.html)
+
+* 20121123 04:20:09 [PNAS：详细绘制出大肠杆菌DNA突变过程图谱](pages/2012/11/23/20121123-042009.html)
+
+* 20121123 04:17:02 [Nature：基因组学分析揭示细菌进化的自然选择过程](pages/2012/11/23/20121123-041702.html)
+
+* 20121123 04:10:04 [Food and Chemical Toxicology:研究称食用转基因谷物会使实验鼠患肿瘤](pages/2012/11/23/20121123-041004.html)
+
+* 20121123 03:53:39 [Nat Commun.:世界首次公开和破译双峰驼全基因组序列图谱](pages/2012/11/23/20121123-035339.html)
+
 * 2012-11-21 16:19:22: [Nature:科学家成功绘制出大麦基因组草图](pages/2012/11/21/nature%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%88%90%e5%8a%9f%e7%bb%98%e5%88%b6%e5%87%ba%e5%a4%a7%e9%ba%a6%e5%9f%ba%e5%9b%a0%e7%bb%84%e8%8d%89%e5%9b%be.html)
-* 2012-11-23 03:53:39: [Nat Commun.:世界首次公开和破译双峰驼全基因组序列图谱](pages/2012/11/23/nat-commun-%e4%b8%96%e7%95%8c%e9%a6%96%e6%ac%a1%e5%85%ac%e5%bc%80%e5%92%8c%e7%a0%b4%e8%af%91%e5%8f%8c%e5%b3%b0%e9%a9%bc%e5%85%a8%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ba%8f%e5%88%97%e5%9b%be%e8%b0%b1.html)
-* 2012-11-23 04:10:04: [Food and Chemical Toxicology:研究称食用转基因谷物会使实验鼠患肿瘤](pages/2012/11/23/food-and-chemical-toxicology%e7%a0%94%e7%a9%b6%e7%a7%b0%e9%a3%9f%e7%94%a8%e8%bd%ac%e5%9f%ba%e5%9b%a0%e8%b0%b7%e7%89%a9%e4%bc%9a%e4%bd%bf%e5%ae%9e%e9%aa%8c%e9%bc%a0%e6%82%a3%e8%82%bf%e7%98%a4.html)
-* 2012-11-23 04:17:02: [Nature：基因组学分析揭示细菌进化的自然选择过程](pages/2012/11/23/nature%ef%bc%9a%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%ad%a6%e5%88%86%e6%9e%90%e6%8f%ad%e7%a4%ba%e7%bb%86%e8%8f%8c%e8%bf%9b%e5%8c%96%e7%9a%84%e8%87%aa%e7%84%b6%e9%80%89%e6%8b%a9%e8%bf%87%e7%a8%8b.html)
-* 2012-11-23 04:20:09: [PNAS：详细绘制出大肠杆菌DNA突变过程图谱](pages/2012/11/23/pnas%ef%bc%9a%e8%af%a6%e7%bb%86%e7%bb%98%e5%88%b6%e5%87%ba%e5%a4%a7%e8%82%a0%e6%9d%86%e8%8f%8cdna%e7%aa%81%e5%8f%98%e8%bf%87%e7%a8%8b%e5%9b%be%e8%b0%b1.html)
-* 2012-11-23 04:22:38: [Nature：新技术用于定制斑马鱼基因组](pages/2012/11/23/nature%ef%bc%9a%e6%96%b0%e6%8a%80%e6%9c%af%e7%94%a8%e4%ba%8e%e5%ae%9a%e5%88%b6%e6%96%91%e9%a9%ac%e9%b1%bc%e5%9f%ba%e5%9b%a0%e7%bb%84.html)
+
+* 2012-11-21 16:16:14: [Nature:科学家发现最小最快RNA开关](pages/2012/11/21/20121121-161614.html)
+
+* 2012-11-21 16:13:14: [PLoS One：张亚平等疯牛病调控基因研究取得新进展](pages/2012/11/21/plos-one%ef%bc%9a%e5%bc%a0%e4%ba%9a%e5%b9%b3%e7%ad%89%e7%96%af%e7%89%9b%e7%97%85%e8%b0%83%e6%8e%a7%e5%9f%ba%e5%9b%a0%e7%a0%94%e7%a9%b6%e5%8f%96%e5%be%97%e6%96%b0%e8%bf%9b%e5%b1%95.html)
 
 
 
@@ -229,7 +236,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120518 18:24:14 [简单易行的止咳偏方](pages/2012/05/18/20120518-182414.html)
 
-* 20120502 23:34:35 [如果泰坦尼克号最后没有撞冰山…](pages/2012/05/02/20120502-233435.md.html)
+* 20120502 23:34:35 [如果泰坦尼克号最后没有撞冰山…](pages/2012/05/02/20120502-233435.html)
 
 
 
