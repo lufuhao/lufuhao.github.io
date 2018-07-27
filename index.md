@@ -13,13 +13,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 > 这是我的个人博客，通常发一些生物科学以及一些别处看来的好文章
 > 
-> 博客正在从wordpress.com搬家到这里，向前整理到2012年了
+> 博客正在从wordpress.com搬家到这里，向前整理到2011年了
 > 
 > 多谢关注
 
+ 
 
-
-
+ 
 
 # 2018
 
@@ -31,9 +31,9 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20180516 21:40:22 [一组中国老照片的背后是一段感人的岁月【转】](pages/2018/05/16/20180516-214022.html)
 
+ 
 
-
-
+ 
 
 # 2017
 
@@ -53,31 +53,35 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20170201 23:33:13 [有缘，自然遇见【转】](pages/2017/02/01/20170201-233313.html)
 
+ 
 
-
-
+ 
 
 # 2016
 
 * 2016-11-04 19:26:00: [待到你我花甲...](pages/2016/11/04/20161104-192600.html)
 
+ 
 
-
-
+ 
 
 # 2015
 
 * 2015-11-13 02:27:22: [Full_lengther_NEXT v0.0.8 database setup and run](pages/2015/11/13/20151113-022722.html)
 
+ 
 
-
-
+ 
 
 # 2014
+
+ 
 
 ## 2014.11
 
 * 20141114 20:59:28 [Latest PICARD-tools installation (from v1.124)](pages/2014/11/14/20141114-205928.html)
+
+ 
 
 ## 2014.7
 
@@ -87,9 +91,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20140717 18:55:55 [98岁老中医的7个忠告【转】](pages/2014/07/17/20140717-185555.html)
 
+ 
+
 ## 2014.6
 
 * 20140610 19:20:08 [pETnT vector sequence](pages/2014/06/10/20140610-192008.html)
+
+ 
 
 ## 2014.4
 
@@ -98,6 +106,8 @@ tagline: Fight Against Bioinformatics with Perl
 * 20140407 20:27:00 [酒窝的来历](pages/2014/04/07/20140407-202700.html)
 
 * 20140403 18:35:02 [月老贵庚: How old are you, Moon?](pages/2014/04/03/20140403-183502.html)
+
+ 
 
 ## 2014.1
 
@@ -121,11 +131,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20140106 21:09:28 [FASEB J：科学家解释年龄增长相关肥胖发生的机制](pages/2014/01/06/20140106-210928.html)
 
+ 
 
-
-
+ 
 
 # 2013
+
+ 
 
 ## 2013.11
 
@@ -139,9 +151,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20131107 02:59:43 [Science：单细胞测序显示：同一个人的不同神经元DNA序列不一样](pages/2013/11/07/20131107-025943.html)
 
+ 
+
 ## 2013.9
 
 * 20130921 06:51:09 [晒晒我的linux alias文件](pages/2013/09/21/20130921-065109.html)
+
+ 
 
 ## 2013.7
 
@@ -149,12 +165,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20130723 21:43:09 [Nature: 指甲控制指头再生](pages/2013/07/23/20130723-214309.html)
 
+ 
 
-
-
+ 
 
 # 2012
 
+ 
 
 ## 2012.11
 
@@ -174,7 +191,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20121121 16:13:14 [PLoS One：张亚平等疯牛病调控基因研究取得新进展](pages/2012/11/21/20121121-161314.html)
 
-
+ 
 
 ## 2012.7
 
@@ -206,7 +223,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120701 15:07:49 [转录组测序概述及实验分析流程Transcriptome sequencing and main workflow](pages/2012/07/01/20120701-150749.html)
 
-
+ 
 
 ## 2012.6
 
@@ -216,17 +233,19 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120626 21:43:54 [Control of grain size, shape and quality by OsSPL16 in rice](pages/2012/06/26/20120626-214354.html)
 
-* 2012-06-18 15:52:37: [韩国水原郊区Suwon Suburb in R. Korea](pages/2012/06/18/%e9%9f%a9%e5%9b%bd%e6%b0%b4%e5%8e%9f%e9%83%8a%e5%8c%basuwon-suburb-in-r-korea.html)
+* 20120618 15:52:37 [韩国水原郊区Suwon Suburb in R. Korea](pages/2012/06/18/20120618-155237.html)
+
+* 20120618 15:35:20 [2012又到花开时（2）](pages/2012/06/18/20120618-153520.html)
+
+* 20120618 15:18:07 [2012又到花开时](pages/2012/06/18/20120618-151807.html)
+
+* 20120615 14:15:01 [《谁欠谁的幸福》高考满分作文](pages/2012/06/15/20120615-141501.html)
+
+* 20120611 14:17:27 [高通量测序技术相关的名词解释](pages/2012/06/11/20120611-141727.html)
 
 * 2012-06-07 13:48:36: [The very basics of R](pages/2012/06/07/the-very-basics-of-r.html)
-* 2012-06-11 14:17:27: [高通量测序技术相关的名词解释](pages/2012/06/11/%e9%ab%98%e9%80%9a%e9%87%8f%e6%b5%8b%e5%ba%8f%e6%8a%80%e6%9c%af%e7%9b%b8%e5%85%b3%e7%9a%84%e5%90%8d%e8%af%8d%e8%a7%a3%e9%87%8a.html)
-* 2012-06-15 14:15:01: [《谁欠谁的幸福》高考满分作文](pages/2012/06/15/%e3%80%8a%e8%b0%81%e6%ac%a0%e8%b0%81%e7%9a%84%e5%b9%b8%e7%a6%8f%e3%80%8b%e9%ab%98%e8%80%83%e6%bb%a1%e5%88%86%e4%bd%9c%e6%96%87.html)
-* 2012-06-18 15:18:07: [2012又到花开时](pages/2012/06/18/2012%e5%8f%88%e5%88%b0%e8%8a%b1%e5%bc%80%e6%97%b6.html)
-* 2012-06-18 15:35:20: [2012又到花开时（2）](pages/2012/06/18/2012%e5%8f%88%e5%88%b0%e8%8a%b1%e5%bc%80%e6%97%b6%ef%bc%882%ef%bc%89.html)
 
-
-
-
+ 
 
 ## 2012.5
 
@@ -246,7 +265,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120502 23:34:35 [如果泰坦尼克号最后没有撞冰山…](pages/2012/05/02/20120502-233435.html)
 
-
+ 
 
 ## 2012.4
 
@@ -260,13 +279,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120404 09:45:33 [Plant microRNA functions into human](pages/2012/04/04/20120404-094533.html)
 
-
+ 
 
 ## 2012.3
 
 * 20120313 15:59:50 [P-values, False Discovery Rate (FDR) and q-values](pages/2012/03/13/20120313-155950.html)
 
-
+ 
 
 ## 2012.2
 
@@ -282,7 +301,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120207 16:57:53 [The Plant Cell：开发出破译复杂谷物基因组的方法](pages/2012/02/07/20120207-165753.html)
 
-
+ 
 
 ## 2012.1
 
@@ -296,8 +315,15 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120107 20:27:58 [美国诞生首例转基因猴 基因来自6个不同胚胎](pages/2012/01/07/20120107-202758.html)
 
+ 
+
+ 
 
 # 2011
+
+ 
+
+## 2011 整理到此
 
 * 2011-01-01 22:05:28: [让子弹飞结局大揭密](pages/2011/01/01/%e8%ae%a9%e5%ad%90%e5%bc%b9%e9%a3%9e%e7%bb%93%e5%b1%80%e5%a4%a7%e6%8f%ad%e5%af%86.html)
 * 2011-01-09 00:38:09: [两口子吵架的原因，原因很逗，评论更逗](pages/2011/01/09/%e4%b8%a4%e5%8f%a3%e5%ad%90%e5%90%b5%e6%9e%b6%e7%9a%84%e5%8e%9f%e5%9b%a0%ef%bc%8c%e5%8e%9f%e5%9b%a0%e5%be%88%e9%80%97%ef%bc%8c%e8%af%84%e8%ae%ba%e6%9b%b4%e9%80%97.html)
