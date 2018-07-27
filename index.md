@@ -176,31 +176,35 @@ tagline: Fight Against Bioinformatics with Perl
 
 
 
-## 2012.8
-
-* 2012-08-01 10:52:33: [2011华大基因的生物信息学全国公开课课件 BGI Bioinformatices PPT](pages/2012/08/01/20120801-105233.html)
-
-
-
-
-
 ## 2012.7
 
-* 2012-07-01 15:07:49: [转录组测序概述及实验分析流程Transcriptome sequencing and main workflow](pages/2012/07/01/%e8%bd%ac%e5%bd%95%e7%bb%84%e6%b5%8b%e5%ba%8f%e6%a6%82%e8%bf%b0%e5%8f%8a%e5%ae%9e%e9%aa%8c%e5%88%86%e6%9e%90%e6%b5%81%e7%a8%8btranscriptome-sequencing-and-main-workflow.html)
-* 2012-07-10 22:58:19: [Big mosquito](pages/2012/07/10/big-mosquito.html)
-* 2012-07-12 16:46:57: [木薯转化方法Robust transformation procedure —Plant Methods](pages/2012/07/12/%e6%9c%a8%e8%96%af%e8%bd%ac%e5%8c%96%e6%96%b9%e6%b3%95robust-transformation-procedure-plant-methods.html)
-* 2012-07-12 21:28:37: [小麦细胞壁转化酶基因（Genome-level identification of cell wall invertase genes in wheat for the study of drought tolerance）](pages/2012/07/12/%e5%b0%8f%e9%ba%a6%e7%bb%86%e8%83%9e%e5%a3%81%e8%bd%ac%e5%8c%96%e9%85%b6%e5%9f%ba%e5%9b%a0%ef%bc%88genome-level-identification-of-cell-wall-invertase-genes-in-wheat-for-the-study-of-drought-tolerance.html)
-* 2012-07-12 21:55:51: [植物表型组到基因组[Plant phenome to genome: a mini-review]](pages/2012/07/12/%e6%a4%8d%e7%89%a9%e8%a1%a8%e5%9e%8b%e7%bb%84%e5%88%b0%e5%9f%ba%e5%9b%a0%e7%bb%84plant-phenome-to-genome-a-mini-review.html)
-* 2012-07-13 20:38:36: [专业老色狼给小色狼们的一点忠告](pages/2012/07/13/%e4%b8%93%e4%b8%9a%e8%80%81%e8%89%b2%e7%8b%bc%e7%bb%99%e5%b0%8f%e8%89%b2%e7%8b%bc%e4%bb%ac%e7%9a%84%e4%b8%80%e7%82%b9%e5%bf%a0%e5%91%8a.html)
-* 2012-07-13 21:49:32: [学用BLAST程序进行数据分析](pages/2012/07/13/%e5%ad%a6%e7%94%a8blast%e7%a8%8b%e5%ba%8f%e8%bf%9b%e8%a1%8c%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90.html)
-* 2012-07-17 15:00:14: [Identification and Characterization of MicroRNAs from Barley](pages/2012/07/17/identification-and-characterization-of-micrornas-from-barley.html)
-* 2012-07-17 15:37:19: [AthaMap ---- web-tools for genome-wide identification of microRNA targets in Arabidopsis 鉴定拟南芥基因组中miRNA作用位点](pages/2012/07/17/athamap-web-tools-for-genome-wide-identification-of-microrna-targets-in-arabidopsis-%e9%89%b4%e5%ae%9a%e6%8b%9f%e5%8d%97%e8%8a%a5%e5%9f%ba%e5%9b%a0%e7%bb%84%e4%b8%admirna%e4%bd%9c%e7%94%a8.html)
-* 2012-07-17 15:56:15: [Bean Asr gene polymorphisms [大豆脱落酸胁迫应答基因的多样性]](pages/2012/07/17/bean-asr-gene-polymorphisms-%e5%a4%a7%e8%b1%86%e8%84%b1%e8%90%bd%e9%85%b8%e8%83%81%e8%bf%ab%e5%ba%94%e7%ad%94%e5%9f%ba%e5%9b%a0%e7%9a%84%e5%a4%9a%e6%a0%b7%e6%80%a7.html)
-* 2012-07-30 16:43:38: [[强大的进化树编辑软件] Powerful on-line phylogenetic tree editor](pages/2012/07/30/%e5%bc%ba%e5%a4%a7%e7%9a%84%e8%bf%9b%e5%8c%96%e6%a0%91%e7%bc%96%e8%be%91%e8%bd%af%e4%bb%b6-powerful-on-line-phylogenetic-tree-editor.html)
-* 2012-07-30 17:14:39: [英研究称5亿年前生物DNA错误复制促成人类](pages/2012/07/30/%e8%8b%b1%e7%a0%94%e7%a9%b6%e7%a7%b05%e4%ba%bf%e5%b9%b4%e5%89%8d%e7%94%9f%e7%89%a9dna%e9%94%99%e8%af%af%e5%a4%8d%e5%88%b6%e4%bf%83%e6%88%90%e4%ba%ba%e7%b1%bb.html)
-* 2012-07-30 22:06:48: [[香蕉基因组]Banana Genome](pages/2012/07/30/%e9%a6%99%e8%95%89%e5%9f%ba%e5%9b%a0%e7%bb%84banana-genome.html)
-* 2012-07-31 10:10:35: [[喝下一罐可乐后1小时内身体的反应] Response in you body after drinking one-can Cola](pages/2012/07/31/%e5%96%9d%e4%b8%8b%e4%b8%80%e7%bd%90%e5%8f%af%e4%b9%90%e5%90%8e1%e5%b0%8f%e6%97%b6%e5%86%85%e8%ba%ab%e4%bd%93%e7%9a%84%e5%8f%8d%e5%ba%94-response-in-you-body-after-drinking-one-can-cola.html)
+* 20120731 10:10:35 [[喝下一罐可乐后1小时内身体的反应] Response in you body after drinking one-can Cola](pages/2012/07/31/20120731-101035.html)
 
+* 20120730 22:06:48 [香蕉基因组Banana Genome](pages/2012/07/30/20120730-220648.html)
+
+* 20120730 17:14:39 [英研究称5亿年前生物DNA错误复制促成人类](pages/2012/07/30/20120730-171439.html)
+
+* 20120730 16:43:38 [强大的进化树编辑软件 Powerful on-line phylogenetic tree editor](pages/2012/07/30/20120730-164338.html)
+
+* 20120717 15:56:15 [大豆脱落酸胁迫应答基因的多样性Bean Asr gene polymorphisms](pages/2012/07/17/20120717-155615.html)
+
+* 20120717 15:37:19 [鉴定拟南芥基因组中miRNA作用位点 AthaMap - web-tools for genome-wide identification of microRNA targets in Arabidopsis ](pages/2012/07/17/20120717-153719.html)
+
+* 20120717 15:00:14 [Identification and Characterization of MicroRNAs from Barley](pages/2012/07/17/20120717-150014.html)
+
+* 20120713 21:49:32 [学用BLAST程序进行数据分析](pages/2012/07/13/20120713-214932.html)
+
+* 20120713 20:38:36 [专业老色狼给小色狼们的一点忠告](pages/2012/07/13/20120713-203836.html)
+
+* 20120712 21:55:51 [植物表型组到基因组Plant phenome to genome: a mini-review](pages/2012/07/12/20120712-215551.html)
+
+* 20120712 21:28:37 [小麦细胞壁转化酶基因（Genome-level identification of cell wall invertase genes in wheat for the study of drought tolerance）](pages/2012/07/12/20120712-212837.html)
+
+* 20120712 16:46:57 [木薯转化方法 Robust transformation procedure —Plant Methods](pages/2012/07/12/20120712-164657.html)
+
+* 2012-07-10 22:58:19: [Big mosquito](pages/2012/07/10/big-mosquito.html)
+
+* 20120701 15:07:49 [转录组测序概述及实验分析流程Transcriptome sequencing and main workflow](pages/2012/07/01/20120701-150749.html)
 
 
 
