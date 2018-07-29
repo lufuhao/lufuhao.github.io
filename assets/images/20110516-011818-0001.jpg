@@ -1,0 +1,993 @@
+﻿
+
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en">
+<![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en">
+<![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head>
+
+<title>最新消息 | EurekAlert! 優睿科 | EurekAlert! Science News</title>
+<!-- Adobe Marketing Tag -->
+<script src="//assets.adobedtm.com/926659a1689cc9fca96760b67cca714ae48f0584/satelliteLib-eddf482ea011a30f842807405ae2a2ca000c3711.js"></script>
+<!-- End Adobe Marketing Tag -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-52FFNSP');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="description" content="EurekAlert! is an online science news service featuring health, medicine, science and technology news from leading research institutions and universities.  Sponsored by AAAS, the science society.">
+
+<meta name="keywords" content="science news, science headlines, research news, science news releases, science press releases, medical news, health news, embargoed science news, agriculture research, archaeology, astronomy, space news, technology news, biology, chemistry, education research news, engineering, physics, geology news, environment research, science meetings, science books, science experts, science grants, science awards, social science news">
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+
+<LINK REL="SHORTCUT ICON" HREF="https://www.eurekalert.org/images/e-lert.ico">
+
+<link href="https://www.eurekalert.org/css/eurekalertstyle.css" rel="stylesheet" />
+<link href="https://www.eurekalert.org/css/vendor/bootstrap.min.css" rel="stylesheet" />
+<link href="https://www.eurekalert.org/css/app.css" rel="stylesheet" />
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,latin-ext' rel='stylesheet' />
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+
+<link rel='stylesheet' href='https://www.eurekalert.org/css/zh/zh.css'>
+
+
+<script src="https://www.eurekalert.org/js/vendor/modernizr-2.6.2.min.js"></script>
+
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/93152596/MultiLanguage_CH_Ad1', [300, 250], 'div-gpt-ad-1489434674530-0').addService(googletag.pubads());
+    googletag.defineSlot('/93152596/MultiLanguage_CH_Ad2', [300, 250], 'div-gpt-ad-1489434674530-1').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+
+</head>
+
+  <body style="margin-bottom: 196px;">
+<!-- Google Tag Manager (noscript) -->
+<script>dataLayer.push({});</script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52FFNSP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div id="wrapper"> <a href="#content" class="sr-only">Skip to main content</a>
+
+<!-- BEGIN HEADER -->
+      <header id="navigation" class="hidden-search">
+        <div class="navbar navbar-static-top">
+          <div class="container flush">
+            <div class="search-header col-md-6 col-sm-4 col-md-push-6 col-sm-push-8">
+              <div id="search" class="collapse navbar-collapse">
+                <form role="search" action="//srch.eurekalert.org/e3/query.html" method="GET">
+                  <div class="row">
+                    <div class="col-md-8 col-md-offset-4">
+                      <div class="input-group">
+                        <input value="SEARCH ARCHIVE" placeholder="SEARCH ARCHIVE" aria-label="Search Archive" class="form-control placeholder" type="text" name="qt" /><input type="hidden" name="pw" value="100.101%" /><span class="input-group-btn">
+                          <button type="submit" id="search-btn" class="btn btn-default" aria-label="Submit Search"><i class="fa fa-search"></i></button></span>
+                      </div>
+                    </div>
+                  </div>
+                </form><a href="https://www.eurekalert.org/search.php" class="advanced-search hidden-xs">Advanced Search</a>
+              </div>
+            </div>
+            <div class="clearfix">
+              <div class="col-md-6 col-sm-8 col-md-pull-6 col-sm-pull-4 col-xs-10 hidden-xs"><p class="logo"><img src="https://www.eurekalert.org/images/e4/logo.png" alt="EurekAlert! Science News"></p><p class="brand"><img src="https://www.eurekalert.org/images/e4/brand.png" alt="A service of the American Association for the Advancement of Science"></p></div>
+              <div class="col-md-6 col-sm-8 col-md-pull-6 col-sm-pull-4 col-xs-10 visible-xs"><a href="https://www.eurekalert.org" class="logo"><img src="https://www.eurekalert.org/images/e4/logo-2x.png" alt="EurekAlert! Science News"></a><a href="https://www.eurekalert.org" class="brand"><img src="https://www.eurekalert.org/images/e4/brand.png" alt="A service of the American Association for the Advancement of Science"></a></div>
+              <div class="search-wrapper col-xs-2 visible-xs">
+                <button type="button" data-toggle="collapse" data-target="#search" class="search-btn"><i class="fa fa-search fa-2x"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div role="navigation" class="navbar navbar-static-top navbar-inverse">
+          <div class="container">
+            <ul class="nav nav-pills pull-left">
+              <li class="hidden-xs"><a href="https://www.eurekalert.org">Home</a></li>
+              <li class="mega-dropdown"><a href="#" class="dropdown-toggle">News</a>
+                <ul style="display: none;" class="dropdown-menu">
+                  <!-- Mobile Navigation-->
+                  <li class="visible-xs">
+                    <ul class="nav navbar-nav">
+                      <li><a href="https://www.eurekalert.org/pubnews.php">Breaking News</a></li>
+                      <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">News By Subject <i class="fa fa-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="https://www.eurekalert.org/bysubject/agriculture.php">Agriculture</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/archaeology.php">Archaeology</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/atmospheric.php">Atmospheric Science</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/biology.php">Biology</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/business.php">Business &amp; Economics</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/chemistry.php">Chemistry &amp; Physics</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/earthscience.php">Earth Science</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/education.php">Education</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/mathematics.php">Mathematics</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/medicine.php">Medicine &amp; Health</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/policy.php">Policy &amp; Ethics</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/social.php">Social &amp; Behavioral</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/space.php">Space &amp; Planetary</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/technology.php">Tech &amp; Engineering</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="https://www.eurekalert.org/econnews.php">Science Business News</a></li>
+                      <li><a href="https://www.eurekalert.org/bga">Grants, Awards, Books</a></li>
+                      <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Languages <i class="fa fa-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="https://www.eurekalert.org/de">Nachrichten in Deutsch</a></li>
+                          <li><a href="https://www.eurekalert.org/es">Noticias en Español</a></li>
+                          <li><a href="https://www.eurekalert.org/fr">Nouvelles en Français</a></li>
+                          <li><a href="https://www.eurekalert.org/pt">Notícias em Português</a></li>
+                          <li><a href="https://www.eurekalert.org/ja">日本語のニュース</a></li>
+                          <li><a href="https://www.eurekalert.org/zh">EurekAlert!中文版</a></li>
+                        </ul>
+                      </li>
+                      <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Portals <i class="fa fa-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="https://www.eurekalert.org/climatechange">Climate Change</a></li>
+                          <li><a href="https://www.eurekalert.org/cancer">Cancer Research</a></li>
+                          <!-- <li><a href="https://www.eurekalert.org/kids">Science Reporting for Kids</a></li> -->
+                          <li><a href="https://www.eurekalert.org/marinescience">Marine Science</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="https://www.eurekalert.org/newsletter"><i class="fa fa-envelope-o"></i>&nbsp; E-mail Newsletter</a></li>
+                    </ul>
+                  </li>
+                  <!-- Desktop Navigation-->
+                  <li class="hidden-xs full-height">
+                    <div class="container equal-height full-height pipe">
+                      <div class="col-sm-3">
+                        <ul class="nav nav-stacked primary">
+                          <li><a href="https://www.eurekalert.org/pubnews.php" class="btn">Breaking News<i class="fa fa-angle-right pull-right"></i></a></li>
+                          <li class="break"></li>
+                          <li><a href="https://www.eurekalert.org/econnews.php">Science Business News</a></li>
+                          <li><a href="https://www.eurekalert.org/bga/grants.php">Grants</a></li>
+                          <li><a href="https://www.eurekalert.org/bga/awards.php">Awards</a></li>
+                          <li><a href="https://www.eurekalert.org/bga/books.php">Books</a></li>
+                          <li class="break"></li>
+                          <li><a href="https://www.eurekalert.org/newsletter"><i class="fa fa-envelope-o"></i> E-mail Newsletter</a></li>
+                          <li><a href="https://www.eurekalert.org/rss.php"><i class="fa fa-rss"></i> RSS Feeds</a></li>
+                        </ul>
+                      </div>
+                      <div class="col-sm-3">
+                        <ul class="nav nav-stacked">
+                          <li><a href="https://www.eurekalert.org/bysubject/agriculture.php">Agriculture</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/archaeology.php">Archaeology</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/atmospheric.php">Atmospheric Science</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/biology.php">Biology</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/business.php">Business &amp; Economics</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/chemistry.php">Chemistry &amp; Physics</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/earthscience.php">Earth Science</a></li>
+                        </ul>
+                      </div>
+                      <div class="col-sm-3 hide-pipe">
+                        <ul class="nav nav-stacked">
+                          <li><a href="https://www.eurekalert.org/bysubject/education.php">Education</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/mathematics.php">Mathematics</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/medicine.php">Medicine &amp; Health</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/policy.php">Policy &amp; Ethics</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/social.php">Social &amp; Behavior</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/space.php">Space &amp; Planetary</a></li>
+                          <li><a href="https://www.eurekalert.org/bysubject/technology.php">Tech &amp; Engineering</a></li>
+                        </ul>
+                      </div>
+                      <div class="col-sm-3">
+                        <ul class="nav nav-stacked primary">
+                          <li><a href="https://www.eurekalert.org/de">Nachrichten in Deutsch</a></li>
+                          <li><a href="https://www.eurekalert.org/es">Noticias en Español</a></li>
+                          <li><a href="https://www.eurekalert.org/fr">Nouvelles en Français</a></li>
+                          <li><a href="https://www.eurekalert.org/pt">Notícias em Português</a></li>
+                          <li><a href="https://www.eurekalert.org/ja">日本語のニュース</a></li>
+                          <li class="break"></li>
+                          <li><a href="https://www.eurekalert.org/zh">EurekAlert!中文版</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+              <li class="mega-dropdown"><a href="#" class="dropdown-toggle">Multimedia</a>
+                <ul style="display: none;" class="dropdown-menu">
+                  <!-- Mobile Navigation-->
+                  <li class="visible-xs">
+                    <ul class="nav navbar-nav">
+                      <li><a href="https://www.eurekalert.org/multimedia/"><strong>All multimedia</strong></a></li>
+                      <li><a href="https://www.eurekalert.org/multimedia/images.php">Images</a></li>
+                      <li><a href="https://www.eurekalert.org/multimedia/videos.php">Video</a></li>
+                      <li><a href="https://www.eurekalert.org/multimedia/audio.php">Audio</a></li>
+                      <li><a href="https://www.eurekalert.org/multimedia/msearch.php"><strong>Search multimedia</strong></a></li>
+                    </ul>
+                  </li>
+                  <!-- Desktop Navigation-->
+                  <li class="hidden-xs full-height">
+                    <div class="container equal-height full-height pipe">
+                      <div class="col-sm-3">
+                        <ul class="nav nav-stacked primary">
+                          <li><a href="https://www.eurekalert.org/multimedia/" class="btn">All Multimedia <i class="fa fa-angle-right pull-right"></i></a></li>
+                          <li class="break"></li>
+                          <li><a href="https://www.eurekalert.org/multimedia/search.php">Search Multimedia</a></li>
+                        </ul>
+                      </div>
+                      <div class="col-sm-3"><a href="https://www.eurekalert.org/multimedia/images.php" class="thumbnail"><img src="https://www.eurekalert.org/images/meganav/browse-images.jpg">
+                          <div class="title">Images <i class="fa fa-angle-right"></i></div></a></div>
+                      <div class="col-sm-3"><a href="https://www.eurekalert.org/multimedia/videos.php" class="thumbnail"><img src="https://www.eurekalert.org/images/meganav/browse-video.jpg">
+                          <div class="title">Video <i class="fa fa-angle-right"></i></div></a></div>
+                      <div class="col-sm-3"><a href="https://www.eurekalert.org/multimedia/audio.php" class="thumbnail"><img src="https://www.eurekalert.org/images/meganav/browse-audio.jpg">
+                          <div class="title">Audio <i class="fa fa-angle-right"></i></div></a></div>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+              <li class="mega-dropdown"><a href="#" class="dropdown-toggle">Meetings</a>
+                <ul style="display: none;" class="dropdown-menu">
+                  <!-- Mobile Navigation-->
+                  <li class="visible-xs">
+                    <ul class="nav navbar-nav">
+                      <li><a href="https://www.eurekalert.org/meetings.php">Meeting Announcements</a></li>
+                      <li><a href="https://www.eurekalert.org/calendar.php">Meetings Calendar</a></li>
+                      <li>
+                        <h4>Featured Newsroom:</h4>
+                        <a href="https://www.eurekalert.org/meetings/nutrition">
+                          <div class="text-center">
+                          <strong>Nutrition 2018</strong>
+                          <br>
+                          <em>9 - 12 June 2018</em>
+                          <br>
+                          Boston, MA
+                          <br>
+                          </div>
+                        </a>
+                        <hr style="width: 80%; border-top: 1px solid #aaaaaa" />
+                        <h4>More Meetings:</h4>
+                        <a href="https://www.eurekalert.org/aaasnewsroom">
+                          <div class="text-center">
+                          <strong>2018 AAAS Annual Meeting</strong>
+                          <br>
+                          <em>15-19 February</em>
+                          <br>
+                          </div>
+                        </a>
+                        <a href="https://www.eurekalert.org/meetings/acs">
+                          <div class="text-center">
+                          <strong>255th American Chemical Society<br />National Meeting &amp; Exposition</strong>
+                          <br>
+                          <em>18-22 March</em>
+                          <br>
+                          </div>
+                        </a>
+                        <a href="https://www.eurekalert.org/meetings/eb">
+                          <div class="text-center">
+                          <strong>Experimental Biology 2018</strong>
+                          <br>
+                          <em>21-25 April</em>
+                          <br>
+                          </div>
+                        </a>
+                        <br />
+                      </li>
+                    </ul>
+                  </li>
+                  <!-- Desktop Navigation-->
+                  <li class="hidden-xs full-height">
+                    <div class="container equal-height full-height pipe">
+                      <div class="col-sm-3">
+                        <ul class="nav nav-stacked primary">
+                          <li><a href="https://www.eurekalert.org/meetings.php">Meeting Announcements</a></li>
+                          <li><a href="https://www.eurekalert.org/calendar.php">Meetings Calendar</a></li>
+                          <li class="break"></li>
+                          <li class="break"></li>
+                          <li class="break"></li>
+                          <li class="break"></li>
+                          <li class="break"></li>
+                          <li><a href="https://www.eurekalert.org/submit.pubmeeting.php">Submit a Calendar Item</a></li>
+                        </ul>
+                      </div>
+                      <div class="col-sm-9">
+                        <div class="panel">
+                          <div class="panel-body">
+                            <div class="row equal-height pipe">
+                              <div class="col-sm-6">
+                                <h3>Featured Newsroom</h3>
+                                  <div class="center-image">
+                                    <a href="https://www.eurekalert.org/meetings/nutrition"><img class="mega-dropdown-meeting-banner" src="//media.eurekalert.org/meganav/Nutrition2018_Newsroom.jpg" alt="Nutrition 2018"></a>
+                                  </div>
+                              </div>
+                              <div class="col-sm-6">
+                                <div class="pipe-left">
+                                 <h3>More Meetings</h3>
+                                 <div class="mega-dropdown-meeting-listing">
+                                  <a href="https://www.eurekalert.org/aaasnewsroom">AAAS Annual Meeting
+                                    <span class="hidden-sm">|</span><br class="visible-sm" />
+                                    <span class="mega-dropdown-meeting-date">15-19 February</span>
+                                  </a>
+                                 </div>
+                                 <div class="mega-dropdown-meeting-listing">
+                                  <a href="https://www.eurekalert.org/meetings/acs">255th American Chemical Society National Meeting &amp; Exposition
+                                    <span class="hidden-sm">|</span><br class="visible-sm" />
+                                    <span class="mega-dropdown-meeting-date">18-22 March</span>
+                                  </a>
+                                 </div>
+                                 <div class="mega-dropdown-meeting-listing">
+                                  <a href="https://www.eurekalert.org/meetings/eb">Experimental Biology 2018
+                                    <span class="hidden-sm">|</span><br class="visible-sm" />
+                                    <span class="mega-dropdown-meeting-date">21-25 April</span>
+                                  </a>
+                                 </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+              <li class="mega-dropdown hidden-xs"><a href="#" class="dropdown-toggle">Portals</a>
+                <ul style="display: none;" class="dropdown-menu">
+                  <!-- Mobile Navigation-->
+                  <li class="visible-xs">
+                    <ul class="nav navbar-nav">
+                      <li><a href="#">Hello World</a></li>
+                      <li><a href="#">Foo Bar</a></li>
+                      <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Dropdown Menu <i class="fa fa-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="#">Hello World</a></li>
+                          <li><a href="#">Foo Bar</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="#">Another Link</a></li>
+                      <li><a href="#">The Last Item</a></li>
+                    </ul>
+                  </li>
+                  <!-- Desktop Navigation-->
+                  <li class="hidden-xs full-height">
+                    <div class="container equal-height full-height pipe">
+                      <div class="col-sm-3">
+                        <div class="text-center portal"><a href="https://www.eurekalert.org/climatechange"><img src="https://www.eurekalert.org/images/meganav/portal-climate-new.png" alt="Climate Change Portal" class="img-circle">
+                            <div class="title">Climate Change<small>The latest insights into the changing climate</small></div>
+                            <div class="inverse">More <i class="fa fa-angle-right"></i></div></a></div>
+                      </div>
+                      <div class="col-sm-3">
+                        <div class="text-center portal"><a href="https://www.eurekalert.org/cancer"><img src="https://www.eurekalert.org/images/meganav/portal-cancer-new.png" alt="Cancer Research Portal" class="img-circle">
+                            <div class="title">Cancer Research<small>New findings in cancer treatment and prevention</small></div>
+                            <div class="inverse">More <i class="fa fa-angle-right"></i></div></a></div>
+                      </div>
+                      <div class="col-sm-3">
+                        <div class="text-center portal"><a href="https://www.eurekalert.org/marinescience"><img src="https://www.eurekalert.org/images/meganav/portal-marine-new.png" alt="Marine Science Portal" class="img-circle">
+                            <div class="title">Marine Science<small>In-depth investigations on all things marine science</small></div>
+                            <div class="inverse">More <i class="fa fa-angle-right"></i></div></a></div>
+                      </div>
+                      <div class="col-sm-3">
+                        <h3>Science Agencies</h3>
+                        <ul class="nav nav-stacked primary">
+                          <li><a href="https://www.eurekalert.org/doe"><span>US Department of Energy</span></a></li>
+                          <li><a href="https://www.eurekalert.org/nih"><span>US National Institutes of Health</span></a></li>
+                          <li><a href="https://www.eurekalert.org/nsf"><span>US National Science Foundation</span></a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+              <li class="mega-dropdown"><a href="#" class="dropdown-toggle">About</a>
+                <ul style="display: none;" class="dropdown-menu">
+                  <!-- Mobile Navigation-->
+                  <li class="visible-xs">
+                    <ul class="nav navbar-nav">
+                      <li><a href="https://www.eurekalert.org/aboutus.php">About EurekAlert!</a></li>
+                      <li><a href="https://www.eurekalert.org/reporters">For Reporters</a></li>
+                      <li><a href="https://www.eurekalert.org/pios">For PIOs</a></li>
+                      <li><a href="https://www.eurekalert.org/help.php">Help / FAQ</a></li>
+                      <li><a href="https://www.eurekalert.org/mediakit.php">Subscribe / Sponsor</a></li>
+                      <li><a href="https://www.eurekalert.org/contact.php">Contact EurekAlert!</a></li>
+                    </ul>
+                  </li>
+                  <!-- Desktop Navigation-->
+                  <li class="hidden-xs full-height">
+                    <div class="container equal-height full-height pipe">
+                      <div class="col-sm-3">
+                        <ul class="nav nav-stacked primary">
+                          <li><a href="https://www.eurekalert.org/aboutus.php">About EurekAlert!</a></li>
+                          <li><a href="https://www.eurekalert.org/help.php">Help / FAQ</a></li>
+                          <li><a href="https://www.eurekalert.org/mediakit.php">Subscribe / Sponsor</a></li>
+                          <li></li>
+                          <li class="break"></li>
+                          <li><a href="https://www.eurekalert.org/contact.php">Contact EurekAlert!</a></li>
+                        </ul>
+                      </div>
+                      <div class="col-sm-3">
+                        <h3>For Reporters</h3>
+                        <p class="aboutblurb">EurekAlert! provides embargoed and breaking science news you can't afford to miss.</p><a href="https://www.eurekalert.org/reporters" class="push inverse"><strong>Learn more <i class="fa fa-angle-right"></i></strong></a>
+                      </div>
+                      <div class="col-sm-3">
+                        <h3>For PIOS</h3>
+                        <p class="aboutblurb">EurekAlert! offers a one-stop science news distribution service you can trust.</p><a href="https://www.eurekalert.org/pios" class="push inverse"><strong>Learn more <i class="fa fa-angle-right"></i></strong></a>
+                      </div>
+                      <div class="col-sm-3"><img src="//media.eurekalert.org/meganav/AAAS-logo.png" alt="AAAS Logo" class="contain push"><br>
+                        <p class="sub">EurekAlert! is a service of the American Association for the Advancement of Science.</p>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <ul class="account nav nav-pills pull-right">
+              <li><a href="https://www.eurekalert.org/login">Login</a></li>
+              <li class="hidden-xs"><a href="https://www.eurekalert.org/register">Register</a></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+<!-- END HEADER -->
+
+
+
+      <div id="content" role="main" class="container basicstyle">
+        <div class="row equal-height">
+
+
+
+          <div id="main-content" class="col-md-8">
+
+<h1 class="pageheadsolo">EurekAlert! 優睿科</h1>
+
+
+<!-- LOGIN LINK FOR PUBLIC PAGE -->
+
+<a class="visible-xs visible-sm" href="https://dev.eurekalert.org/login?frompage=%2Fzh">
+<div style="padding: 10px 10px 10px 10px; margin-top: 25px; border: 1px solid #aaaaaa">
+记者请登入网站获得更多新闻线索和资源&nbsp;<i class="fa fa-sign-in"></i>
+</div>
+</a>
+
+<!-- LOGIN LINK FOR PUBLIC PAGE -->
+
+
+
+
+<section class="main">
+
+ 
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/scp-5072318.php" class='has-thumb'>
+<div class="thumb center-image pull-right"><img src="https://www.eurekalert.org/multimedia_ml/pub/rel/5894_rel.jpg" class="media-object"></div>
+
+<header>
+  <div class="reltime">Public Release: 23-Jul-2018</div>
+  <h2 class="post_title">柔性电子在医疗健康领域的发展</h2>
+  <span class="author">Science China Press</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">柔性电子器件在人体健康监测方面具有广阔的应用前景, 近期《中国科学：物理学 力学 天文学》英文版发表综述文章, 从人体生理信号监测的视角出发, 系统性地梳理了目前柔性传感器在人体温度、压力、生物电、呼吸、含水量等诸多信号监测方面的发展现状。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+<dt class="yellow">Journal</dt><dd><em>Science China Physics, Mechanics & Astronomy</em></dd>
+
+
+<dt class="green">Funder</dt><dd>National Natural Science Foundation of China</dd>
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/scp-6072018.php" class='has-thumb'>
+<div class="thumb center-image pull-right"><img src="https://www.eurekalert.org/multimedia_ml/pub/rel/5883_rel.jpg" class="media-object"></div>
+
+<header>
+  <div class="reltime">Public Release: 20-Jul-2018</div>
+  <h2 class="post_title">马约拉纳费米子的散粒噪音</h2>
+  <span class="author">Science China Press</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">马约拉纳费米子, 也称作 '天使粒子', 由于其可以用于构建拓扑量子计算, 成为当前物理学的热点话题。最近的一项理论研究揭示了马约拉纳费米子体系散粒噪音与多重安德烈夫反射的关系, 为实验上寻找马约拉纳费米子提供了一种方案, 《中国科学：物理学 力学 天文学》英文版报道了这一成果。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+
+
+<dt class="green">Funder</dt><dd>National Key Basic Research Program of China, National Key Research and Development Program of China, National Natural Science Foundation of China</dd>
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/scp-5_1071918.php" class='has-thumb'>
+<div class="thumb center-image pull-right"><img src="https://www.eurekalert.org/multimedia_ml/pub/rel/5878_rel.jpg" class="media-object"></div>
+
+<header>
+  <div class="reltime">Public Release: 19-Jul-2018</div>
+  <h2 class="post_title">一种基于溶胶-凝胶转变电解质的智能安全可充放电锌离子电池</h2>
+  <span class="author">Science China Press</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">热失控问题长期阻碍着高能量密度电池的发展。最近，香港城市大学支春义课题组制备了一种基于温敏型溶胶-凝胶转变电解质的可充放电锌锰电池。这种电池在高温下会因电解质的凝胶化而停止工作，而降温后又能重新恢复正常充放电，呈现出动态的电化学性能。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+<dt class="yellow">Journal</dt><dd><em>Science Bulletin</em></dd>
+
+
+<dt class="green">Funder</dt><dd>National Science Foundation of China/Research Grants Council Joint Research Scheme, Grant from City University of Hong Kong, Science & Technology Department of Sichuan Province</dd>
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/scp-5071918.php" class='has-thumb'>
+<div class="thumb center-image pull-right"><img src="https://www.eurekalert.org/multimedia_ml/pub/rel/5876_rel.jpg" class="media-object"></div>
+
+<header>
+  <div class="reltime">Public Release: 19-Jul-2018</div>
+  <h2 class="post_title">中国学者揭示了深部碳循环与大地幔楔地球动力学的联系</h2>
+  <span class="author">Science China Press</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">东亚大地幔楔形成时代和华北克拉通岩石圈减薄机制是两个重要科学问题。最近一项基于深部碳循环的研究表明该大地幔楔始于1.25亿年前，富CO2熔体与岩石圈相互作用可导致岩石圈减薄。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+
+
+<dt class="green">Funder</dt><dd>The National Natural Science Foundation of China, Strategic Priority Research Program (B) of the Chinese Academy of Sciences</dd>
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/scp-6071918.php" class='has-thumb'>
+<div class="thumb center-image pull-right"><img src="https://www.eurekalert.org/multimedia_ml/pub/rel/5875_rel.jpg" class="media-object"></div>
+
+<header>
+  <div class="reltime">Public Release: 19-Jul-2018</div>
+  <h2 class="post_title">过去近千年北极巴伦支海-喀拉海夏季海冰范围的重建</h2>
+  <span class="author">Science China Press</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">北极巴伦支海-喀拉海是欧亚大陆寒潮发源地之一，是影响欧亚大陆冬季冷空气活动的关键海区。最近一项研究揭示了该海区过去30年海冰范围很可能是近千年来最低时期，该成果在《中国科学：地球科学》杂志发表。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+<dt class="yellow">Journal</dt><dd><em>Science China: Earth Sciences</em></dd>
+
+
+<dt class="green">Funder</dt><dd>National Natural Science Foundation of China, Strategic Priority Research Program of the Chinese Academy of Sciences, etc.</dd>
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/aaft-5_8071618.php" >
+
+<header>
+  <div class="reltime">Public Release: 19-Jul-2018</div>
+  <h2 class="post_title">从摇篮至坟墓：对生态学和生物多样性演化的建模</h2>
+  <span class="author">American Association for the Advancement of Science</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">研究人员创建了一个模型，它能模拟南美复杂的物种生活史以便更好地理解影响物种出现、分布和灭绝的复杂因素。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+<dt class="yellow">Journal</dt><dd><em>Science</em></dd>
+
+
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/aaft-5_7071618.php" >
+
+<header>
+  <div class="reltime">Public Release: 19-Jul-2018</div>
+  <h2 class="post_title">由人所致的气候变化的新指纹</h2>
+  <span class="author">American Association for the Advancement of Science</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">气候科学家已经辨识出了人类对地球大气层留下的一种新“指纹”，这为人类活动会影响对流层气温的季节性变化提供了可进行检测的证据。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+<dt class="yellow">Journal</dt><dd><em>Science</em></dd>
+
+
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/aaft-5_6071618.php" >
+
+<header>
+  <div class="reltime">Public Release: 19-Jul-2018</div>
+  <h2 class="post_title">令人费解的城市颗粒形成问题</h2>
+  <span class="author">American Association for the Advancement of Science</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">据新的研究披露，在某些化学条件下，特大城市的污染空气中会形成新的颗粒。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+<dt class="yellow">Journal</dt><dd><em>Science</em></dd>
+
+
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/aaft-5_5071618.php" >
+
+<header>
+  <div class="reltime">Public Release: 19-Jul-2018</div>
+  <h2 class="post_title">深水珊瑚礁并非浅水珊瑚礁生态系统的庇护场所</h2>
+  <span class="author">American Association for the Advancement of Science</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">深水珊瑚礁并非通常认为的是面临生态系统丧失的浅礁生物的避难场所。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+<dt class="yellow">Journal</dt><dd><em>Science</em></dd>
+
+
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+<!-- BEGIN ARTICLE SUMMARY -->
+<article class="post">
+<a href="/pub_releases_ml/2018-07/aaft-5_4071618.php" class='has-thumb'>
+<div class="thumb center-image pull-right"><img src="https://www.eurekalert.org/multimedia_ml/pub/rel/5854_rel.jpg" class="media-object"></div>
+
+<header>
+  <div class="reltime">Public Release: 18-Jul-2018</div>
+  <h2 class="post_title">抹掉T细胞的记忆或能逆转白癜风症状</h2>
+  <span class="author">American Association for the Advancement of Science</span>
+</header>
+
+<div class="entry hidden-xs">
+  <p class="intro">        研究人员发现，将一类T细胞的活性作为标靶可在小鼠的白癜风模型中恢复皮肤的色素沉着。他们的发现或能为实现比目前治疗方法结果更为持久的新型白癜风治疗奠定基础。</p>
+</div>
+
+<dl class="dl-horizontal meta hidden-xs">
+
+<dt class="yellow">Journal</dt><dd><em>Science Translational Medicine</em></dd>
+
+
+
+</dl>
+
+</a>
+</article>
+<!-- END ARTICLE SUMMARY -->
+
+
+
+</section>
+
+<div class="text-center">
+  <ul class="pagination">
+    
+<li class='active'><a href='#'>1</a></li>
+<li><a href='/zh?start=10'>2</a></li>
+<li><a href='/zh?start=10'><i class='fa fa-angle-right'></i></a></li>
+   </ul>
+</div>
+
+
+
+<p>&nbsp;</p>
+
+
+
+          </div>
+          <aside id="sidebar-content" class="white col-md-4">
+
+<!-- BEGIN DYNAMIC BLOCK: rightsidebar -->
+
+<hr class="major visible-xs visible-sm" />
+<!-- BEGIN Right Sidebar Navigation Menu -->
+
+<section class="widget subject-links">
+  <div class="row">
+    <div class="col-sm-6 col-md-12">
+      <ul class="nav nav-stacked">
+        <li class="active"><a href="https://www.eurekalert.org/zh" class="btn">最新消息<i class="fa fa-angle-right pull-right"></i></a></li>
+        <li class="{SERVICES_ACTIVE}"><a href="https://www.eurekalert.org/zh/services" class="btn">服务<i class="fa fa-angle-right pull-right"></i></a></li>
+      </ul>
+    </div>
+    <div class="col-sm-6 col-md-12">
+      <ul class="nav nav-stacked">
+        <li class="{ABOUT_ACTIVE}"><a href="https://www.eurekalert.org/zh/about" class="btn">关于優睿科<i class="fa fa-angle-right pull-right"></i></a></li>
+        <li class="{CONTACT_ACTIVE}"><a href="https://www.eurekalert.org/zh/contact" class="btn">联系方式<i class="fa fa-angle-right pull-right"></i></a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<hr class="hidden-xs hidden-sm" />
+<hr class="major visible-sm visible-xs" />
+
+<!-- END Right Sidebar Navigation Menu -->
+
+<!-- BEGIN RIGHT SIDEBAR WIDGET -->
+
+<section class="widget">
+              <div style="border: 1px solid #555555; max-width: 400px; margin: 0 auto; border-radius: 4px;">
+                <div class="caption" style="max-width: 380px; margin: 0 auto; padding: 15px 30px 10px 30px">
+                  <p style="font-weight: 500; font-size: 16px; border-bottom: 1px solid #555555; padding-bottom: 5px; margin-bottom: 18px"><span style=
+                  "color: #cb2121">记者专属资源</span></p>
+                  <p>请登入网站获得禁止提前报道的新闻发布内容、多媒体文件、期刊相关内容、以及更多其他资源。</p>
+                  <p style="text-align: center"><a href="https://www.eurekalert.org/login.php?frompage=%2Fzh"><button type="button" class="btn btn-secondary" style="width: 100%; color: #ffffff; font-size: 12px; font-weight: 600; background-color: #505050; border: 1px solid #000000; padding-top: 4px; padding-bottom: 4px; margin-top: 8px">登入网站 <i class="fa fa-sign-in" style="color: #ffdb3d;"></i></button></a></p>
+                </div>
+              </div>
+</section>
+
+<hr class="hidden-xs hidden-sm">
+<hr class="major visible-xs visible-sm">
+
+<!-- END RIGHT SIDEBAR WIDGET -->
+ 
+<!-- BEGIN EUREKALERT! CHINESE WEIBO BANNER -->
+
+<section class="widget">
+ <a href="https://www.weibo.com/eurekalertchinese" target="_blank" class="callout">
+  <div class="pull-left" style="width:20%; padding-top:20px; padding-bottom: 25px">
+   <img src="//media.eurekalert.org/zh/weibologo120x100.png" style="width:75%">
+  </div>
+  <div style="padding:30px 0px 40px 0px; font-size: 14px"><b>weibo.com/eurekalertchinese</b></div>
+ </a>
+</section>
+
+<hr class="hidden-xs hidden-sm" />
+<hr class="major visible-xs visible-sm" />
+
+<!-- END EUREKALERT! CHINESE WEIBO BANNER -->
+
+<!-- BEGIN RIGHT FEATURED CONTENT -->
+
+<section class="widget">
+  <div class="thumbnail ad single sponsored_content">
+<!-- /93152596/MultiLanguage_CH_Ad1 -->
+<div id='div-gpt-ad-1489434674530-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489434674530-0'); });
+</script>
+</div>
+  </div>
+</section>
+
+<hr class="hidden-xs hidden-sm" />
+<hr class="major visible-xs visible-sm" />
+
+<!-- END RIGHT FEATURED CONTENT -->
+<!-- BEGIN Right Sidebar Languages Menu -->
+
+<section class="widget hidden-xs">
+<h3 class="widget-title yellow">Multi-Language News</h3>
+<div class="widget-content">
+ <div class="translations-nav pull-up">
+  <div class="row">
+    <div class="col-xs-6"><a href="https://www.eurekalert.org/fr">En Fran&ccedil;ais <i class="fa fa-angle-right pull-right"></i></a></div>
+    <div class="col-xs-6"><a href="https://www.eurekalert.org/de">Auf Deutsch<i class="fa fa-angle-right pull-right"></i></a></div>
+    <div class="col-xs-6"><a href="https://www.eurekalert.org/es">En Espa&ntilde;ol<i class="fa fa-angle-right pull-right"></i></a></div>
+    <div class="col-xs-6"><a href="https://www.eurekalert.org/pt">Em Portugu&ecirc;s<i class="fa fa-angle-right pull-right"></i></a></div>
+    <div class="col-xs-6"><a href="https://www.eurekalert.org/ja">日本語のニュース<i class="fa fa-angle-right pull-right"></i></a></div>
+    <div class="col-xs-6"><a href="https://www.eurekalert.org/zh" class="red"><b>中文<i class="fa fa-angle-right pull-right"></i></b></a></div>
+  </div>
+ </div>
+</div>
+</section>
+
+<hr class="hidden-xs hidden-sm" />
+<hr class="major visible-sm" />
+
+<!-- END Right Sidebar Languages Menu -->
+
+<!-- BEGIN RIGHT FEATURED CONTENT -->
+
+<section class="widget">
+  <div class="thumbnail ad single sponsored_content">
+<!-- /93152596/MultiLanguage_CH_Ad2 -->
+<div id='div-gpt-ad-1489434674530-1' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1489434674530-1'); });
+</script>
+</div>
+  </div>
+</section>
+
+<hr class="hidden-xs hidden-sm" />
+<hr class="major visible-xs visible-sm" />
+
+<!-- END RIGHT FEATURED CONTENT -->
+
+<!-- BEGIN RIGHT SIDEBAR AD -->
+
+<!-- <section class="widget hidden-xs hidden-sm">
+ <a href="http://www.industrystock.net/" class="thumbnail ad single" target="_blank" rel="nofollow">
+   <span class="byline">Sponsored in part by</span>
+   <img src="https://www.eurekalert.org/images/ads/e4/IndustryStock300x100.jpg"></a>
+</section>
+
+<hr class="hidden-xs hidden-sm" /> -->
+
+<!-- END RIGHT SIDEBAR AD -->
+
+<!-- END DYNAMIC BLOCK: rightsidebar -->
+
+
+          </aside>
+        </div>
+      </div>
+
+    </div><!-- #wrapper -->
+
+
+<!-- BEGIN FOOTER -->
+    <footer id="footer" class="hidden-print hidden-search">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-5 col-sm-push-7"><p class="logo"><img src="/images/e4/logo-footer.png" alt="EurekAlert! The Global Source for Science News"></p><p class="brand"><img src="/images/e4/brand.png" alt="AAAS - American Association for the Advancement of Science"></p>
+            <p class="copy hidden-xs">Copyright &copy; 2018 by the American Association for the Advancement of Science (AAAS)</p>
+          </div>
+          <div class="col-sm-7 col-sm-pull-5">
+            <div class="row">
+              <div class="col-sm-6">
+                <ul class="list-unstyled">
+                  <li><a href="/rss.xml"><i class="fa fa-rss"></i>Breaking News RSS Feed</a></li>
+                  <li><a href="/rss.php"><i class="fa fa-eurekalert"></i>All EurekAlert! RSS Feeds</a></li>
+                  <li><a target="_blank" href="https://twitter.com/EurekAlert"><i class="fa fa-twitter"></i>@EurekAlert</a></li>
+                  <li><a target="_blank" href="https://facebook.com/EurekAlert"><i class="fa fa-facebook"></i>facebook.com/EurekAlert</a></li>
+                </ul>
+              </div>
+              <div class="col-sm-6">
+                <hr class="visible-xs">
+                <ul class="list-unstyled stack-5">
+                  <li><a href="/help.php">Help / FAQ</a></li>
+                  <li><a href="/disclaimer.php">Disclaimer</a></li>
+                  <li><a href="/privacy.php">Privacy Policy</a></li>
+                  <li><a href="/terms.php">Terms &amp; Conditions</a></li>
+                  <li><a href="/contact.php">Contact EurekAlert!</a></li>
+                </ul>
+                <hr class="visible-xs">
+                <p class="copy visible-xs">Copyright &copy; 2018 by the American Association for the Advancement of Science (AAAS)</p>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+<!-- END FOOTER -->
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+      window.jQuery || document.write('<script src="https://www.eurekalert.org/js/vendor/jquery-1.10.2.min.js"><\\/script>')
+    </script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
+    <script src="https://www.eurekalert.org/js/plugins.e4.js"></script>
+    <script src="https://www.eurekalert.org/js/main.min.js"></script>
+    <script src="https://www.eurekalert.org/js/e4.js"></script>
+    <script src="https://www.eurekalert.org/js/ga.js"></script>
+    
+    
+
+    <script>
+      $(document).ready(function() {
+        
+      });
+    </script>
+
+    <!-- BEGIN Popup Window - used for any page that requires a popup -->
+    <!-- Note: corresponding JS is in e4.js -->
+    <div class="modal fade" id="popUpWindow" tabindex="-1" role="dialog" aria-labelledby="popUpWindowLabel" aria-hidden="true">
+      <div class="modal-dialog">
+          <div class="modal-content">Loading...</div>
+      </div>
+    </div>
+    <!-- END Popup Window --> 
+
+	<!-- Adobe Marketing Tag End -->
+	<script type="text/javascript">_satellite.pageBottom();</script> 
+	<!-- End Adobe Marketing Tag End -->
+	
+</body>
+</html>
