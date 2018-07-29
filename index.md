@@ -589,34 +589,40 @@ tagline: Fight Against Bioinformatics with Perl
 
 ## 2011.4
 
+* 20110429 11:44:18 [最精彩的18篇超短小说](pages/2011/04/29/20110429-114418.html)
 
+* 20110429 11:11:48 [【Plant Cell Reports】中国人参根基因测序研究新进展](pages/2011/04/29/20110429-111148.html)
 
+* 20110429 11:10:48 [【Science】RNA合成酶能组装合成多达约95个核苷酸长度的RNA](pages/2011/04/29/20110429-111048.html)
 
+* 20110429 10:22:02 [A novel pathway of small guide RNA maturation](pages/2011/04/29/20110429-102202.html)
 
+* 20110415 22:59:14 [迄今最完整人脑基因图谱出炉](pages/2011/04/15/20110415-225914.html)
 
+* 20110413 23:29:17 [经典搞笑诗句](pages/2011/04/13/20110413-232917.html)
 
+* 20110413 23:26:55 [拖拉机超宝马的车](pages/2011/04/13/20110413-232655.html)
 
+* 20110411 21:04:31 [冯巩的55句经典语](pages/2011/04/11/20110411-210431.html)
 
+ 
 
-
-
-
+## 2011.3
 
 
 ## 2011 整理到此
 =======================================================
 
+* 20110302 11:52:10 [经典的微小说](pages/2011/03/02/%e7%bb%8f%e5%85%b8%e7%9a%84%e5%be%ae%e5%b0%8f%e8%af%b4.html)
+* 20110304 10:10:59 [[自然要览] Nature 471: 7336 3 March 2011 ](pages/2011/03/04/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88-nature-471-7336-3-march-2011.html)
+* 20110305 15:20:41 [Ubuntu 10.10+Win7 双系统重装 Win7 后恢复 Ubuntu 引导方法](pages/2011/03/05/ubuntu-10-10win7-%e5%8f%8c%e7%b3%bb%e7%bb%9f%e9%87%8d%e8%a3%85-win7-%e5%90%8e%e6%81%a2%e5%a4%8d-ubuntu-%e5%bc%95%e5%af%bc%e6%96%b9%e6%b3%95.html)
+* 20110307 07:50:34 [看懂这个寓言，你就不再单身了](pages/2011/03/07/%e7%9c%8b%e6%87%82%e8%bf%99%e4%b8%aa%e5%af%93%e8%a8%80%ef%bc%8c%e4%bd%a0%e5%b0%b1%e4%b8%8d%e5%86%8d%e5%8d%95%e8%ba%ab%e4%ba%86.html)
+* 20110313 16:38:20 [雷死人不偿命](pages/2011/03/13/%e9%9b%b7%e6%ad%bb%e4%ba%ba%e4%b8%8d%e5%81%bf%e5%91%bd.html)
+* 20110323 10:40:57 [李逵日记](pages/2011/03/23/%e6%9d%8e%e9%80%b5%e6%97%a5%e8%ae%b0.html)
+* 20110330 13:32:48 [美科学家研制出首片人造叶子](pages/2011/03/30/%e7%be%8e%e7%a7%91%e5%ad%a6%e5%ae%b6%e7%a0%94%e5%88%b6%e5%87%ba%e9%a6%96%e7%89%87%e4%ba%ba%e9%80%a0%e5%8f%b6%e5%ad%90.html)
 
-* 20110101 22:05:28 [让子弹飞结局大揭密](pages/2011/01/01/%e8%ae%a9%e5%ad%90%e5%bc%b9%e9%a3%9e%e7%bb%93%e5%b1%80%e5%a4%a7%e6%8f%ad%e5%af%86.html)
-* 20110109 00:38:09 [两口子吵架的原因，原因很逗，评论更逗](pages/2011/01/09/%e4%b8%a4%e5%8f%a3%e5%ad%90%e5%90%b5%e6%9e%b6%e7%9a%84%e5%8e%9f%e5%9b%a0%ef%bc%8c%e5%8e%9f%e5%9b%a0%e5%be%88%e9%80%97%ef%bc%8c%e8%af%84%e8%ae%ba%e6%9b%b4%e9%80%97.html)
-* 20110112 09:47:42 [30个有趣的人生定律](pages/2011/01/12/30%e4%b8%aa%e6%9c%89%e8%b6%a3%e7%9a%84%e4%ba%ba%e7%94%9f%e5%ae%9a%e5%be%8b.html)
-* 20110121 10:43:07 [自然要览Nature 469: 7330 20 January 2011](pages/2011/01/21/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88nature-469-7330-20-january-2011.html)
-* 20110121 22:55:24 [多功能PDF格式转换软件PDFZilla](pages/2011/01/21/%e5%a4%9a%e5%8a%9f%e8%83%bdpdf%e6%a0%bc%e5%bc%8f%e8%bd%ac%e6%8d%a2%e8%bd%af%e4%bb%b6pdfzilla.html)
-* 20110122 20:07:13 [绝对刺瞎你眼的40个经典段子](pages/2011/01/22/%e7%bb%9d%e5%af%b9%e5%88%ba%e7%9e%8e%e4%bd%a0%e7%9c%bc%e7%9a%8440%e4%b8%aa%e7%bb%8f%e5%85%b8%e6%ae%b5%e5%ad%90.html)
-* 20110123 18:14:28 [科学家发现土拨鼠有自己语言 会形容人的长相](pages/2011/01/23/%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e5%9c%9f%e6%8b%a8%e9%bc%a0%e6%9c%89%e8%87%aa%e5%b7%b1%e8%af%ad%e8%a8%80-%e4%bc%9a%e5%bd%a2%e5%ae%b9%e4%ba%ba%e7%9a%84%e9%95%bf%e7%9b%b8.html)
-* 20110126 10:44:54 [目前还存活的多个电驴下载站点](pages/2011/01/26/%e7%9b%ae%e5%89%8d%e8%bf%98%e5%ad%98%e6%b4%bb%e7%9a%84%e5%a4%9a%e4%b8%aa%e7%94%b5%e9%a9%b4%e4%b8%8b%e8%bd%bd%e7%ab%99%e7%82%b9.html)
-* 20110126 20:08:33 [DNA条形码之父和Digital biodiversity](pages/2011/01/26/dna%e6%9d%a1%e5%bd%a2%e7%a0%81%e4%b9%8b%e7%88%b6%e5%92%8cdigital-biodiversity.html)
-* 20110128 18:58:40 [自然要览Nature 469: 7331 27 January 2011](pages/2011/01/28/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88nature-469-7331-27-january-2011.html)
+## 2011.2
+
 * 20110201 17:22:48 [Firefox 启用不兼容扩展的通用方法](pages/2011/02/01/firefox-%e5%90%af%e7%94%a8%e4%b8%8d%e5%85%bc%e5%ae%b9%e6%89%a9%e5%b1%95%e7%9a%84%e9%80%9a%e7%94%a8%e6%96%b9%e6%b3%95.html)
 * 20110204 18:22:02 [自然要览Nature 470: 7332 3 February 2011](pages/2011/02/04/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88nature-470-7332-3-february-2011.html)
 * 20110207 15:20:20 [英国科学家成功试验出“万能”流感疫苗 ](pages/2011/02/07/%e8%8b%b1%e5%9b%bd%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%88%90%e5%8a%9f%e8%af%95%e9%aa%8c%e5%87%ba%e2%80%9c%e4%b8%87%e8%83%bd%e2%80%9d%e6%b5%81%e6%84%9f%e7%96%ab%e8%8b%97.html)
@@ -629,22 +635,23 @@ tagline: Fight Against Bioinformatics with Perl
 * 20110228 14:52:18 [Nature：DNA活动中的“交通事故”风险有助于解释一些基因突变](pages/2011/02/28/nature%ef%bc%9adna%e6%b4%bb%e5%8a%a8%e4%b8%ad%e7%9a%84%e4%ba%a4%e9%80%9a%e4%ba%8b%e6%95%85%e9%a3%8e%e9%99%a9%e6%9c%89%e5%8a%a9%e4%ba%8e%e8%a7%a3%e9%87%8a%e4%b8%80%e4%ba%9b%e5%9f%ba.html)
 * 20110228 14:54:44 [广西现罕见“爱情鸟” 猎杀一只等于毁灭一窝](pages/2011/02/28/%e5%b9%bf%e8%a5%bf%e7%8e%b0%e7%bd%95%e8%a7%81%e7%88%b1%e6%83%85%e9%b8%9f-%e7%8c%8e%e6%9d%80%e4%b8%80%e5%8f%aa%e7%ad%89%e4%ba%8e%e6%af%81%e7%81%ad%e4%b8%80%e7%aa%9d.html)
 * 20110228 14:56:34 [人体神奇自我修复能力 “走路”帮助修复记忆](pages/2011/02/28/%e4%ba%ba%e4%bd%93%e7%a5%9e%e5%a5%87%e8%87%aa%e6%88%91%e4%bf%ae%e5%a4%8d%e8%83%bd%e5%8a%9b-%e8%b5%b0%e8%b7%af%e5%b8%ae%e5%8a%a9%e4%bf%ae%e5%a4%8d%e8%ae%b0%e5%bf%86.html)
-* 20110302 11:52:10 [经典的微小说](pages/2011/03/02/%e7%bb%8f%e5%85%b8%e7%9a%84%e5%be%ae%e5%b0%8f%e8%af%b4.html)
-* 20110304 10:10:59 [[自然要览] Nature 471: 7336 3 March 2011 ](pages/2011/03/04/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88-nature-471-7336-3-march-2011.html)
-* 20110305 15:20:41 [Ubuntu 10.10+Win7 双系统重装 Win7 后恢复 Ubuntu 引导方法](pages/2011/03/05/ubuntu-10-10win7-%e5%8f%8c%e7%b3%bb%e7%bb%9f%e9%87%8d%e8%a3%85-win7-%e5%90%8e%e6%81%a2%e5%a4%8d-ubuntu-%e5%bc%95%e5%af%bc%e6%96%b9%e6%b3%95.html)
-* 20110307 07:50:34 [看懂这个寓言，你就不再单身了](pages/2011/03/07/%e7%9c%8b%e6%87%82%e8%bf%99%e4%b8%aa%e5%af%93%e8%a8%80%ef%bc%8c%e4%bd%a0%e5%b0%b1%e4%b8%8d%e5%86%8d%e5%8d%95%e8%ba%ab%e4%ba%86.html)
-* 20110313 16:38:20 [雷死人不偿命](pages/2011/03/13/%e9%9b%b7%e6%ad%bb%e4%ba%ba%e4%b8%8d%e5%81%bf%e5%91%bd.html)
-* 20110323 10:40:57 [李逵日记](pages/2011/03/23/%e6%9d%8e%e9%80%b5%e6%97%a5%e8%ae%b0.html)
-* 20110330 13:32:48 [美科学家研制出首片人造叶子](pages/2011/03/30/%e7%be%8e%e7%a7%91%e5%ad%a6%e5%ae%b6%e7%a0%94%e5%88%b6%e5%87%ba%e9%a6%96%e7%89%87%e4%ba%ba%e9%80%a0%e5%8f%b6%e5%ad%90.html)
-* 20110411 21:04:31 [冯巩的55句经典语](pages/2011/04/11/%e5%86%af%e5%b7%a9%e7%9a%8455%e5%8f%a5%e7%bb%8f%e5%85%b8%e8%af%ad.html)
-* 20110413 23:26:55 [拖拉机超宝马的车](pages/2011/04/13/%e6%8b%96%e6%8b%89%e6%9c%ba%e8%b6%85%e5%ae%9d%e9%a9%ac%e7%9a%84%e8%bd%a6.html)
-* 20110413 23:29:17 [经典搞笑诗句](pages/2011/04/13/%e7%bb%8f%e5%85%b8%e6%90%9e%e7%ac%91%e8%af%97%e5%8f%a5.html)
-* 20110415 01:12:15 [升级到 Ubuntu 11.04 Natty 的四种方法](pages/2011/04/15/%e5%8d%87%e7%ba%a7%e5%88%b0-ubuntu-11-04-natty-%e7%9a%84%e5%9b%9b%e7%a7%8d%e6%96%b9%e6%b3%95.html)
-* 20110415 22:59:14 [迄今最完整人脑基因图谱出炉](pages/2011/04/15/%e8%bf%84%e4%bb%8a%e6%9c%80%e5%ae%8c%e6%95%b4%e4%ba%ba%e8%84%91%e5%9f%ba%e5%9b%a0%e5%9b%be%e8%b0%b1%e5%87%ba%e7%82%89.html)
-* 20110429 10:22:02 [A novel pathway of small guide RNA maturation](pages/2011/04/29/a-novel-pathway-of-small-guide-rna-maturation.html)
-* 20110429 11:10:48 [Science：RNA合成酶能组装合成多达约95个核苷酸长度的RNA](pages/2011/04/29/science%ef%bc%9arna%e5%90%88%e6%88%90%e9%85%b6%e8%83%bd%e7%bb%84%e8%a3%85%e5%90%88%e6%88%90%e5%a4%9a%e8%be%be%e7%ba%a695%e4%b8%aa%e6%a0%b8%e8%8b%b7%e9%85%b8%e9%95%bf%e5%ba%a6%e7%9a%84rna.html)
-* 20110429 11:11:48 [Plant Cell Reports ：中国人参根基因测序研究新进展](pages/2011/04/29/plant-cell-reports-%ef%bc%9a%e4%b8%ad%e5%9b%bd%e4%ba%ba%e5%8f%82%e6%a0%b9%e5%9f%ba%e5%9b%a0%e6%b5%8b%e5%ba%8f%e7%a0%94%e7%a9%b6%e6%96%b0%e8%bf%9b%e5%b1%95.html)
-* 20110429 11:44:18 [最精彩的18篇超短小说](pages/2011/04/29/%e6%9c%80%e7%b2%be%e5%bd%a9%e7%9a%8418%e7%af%87%e8%b6%85%e7%9f%ad%e5%b0%8f%e8%af%b4.html)
+
+## 2011.1
+
+* 20110101 22:05:28 [让子弹飞结局大揭密](pages/2011/01/01/%e8%ae%a9%e5%ad%90%e5%bc%b9%e9%a3%9e%e7%bb%93%e5%b1%80%e5%a4%a7%e6%8f%ad%e5%af%86.html)
+* 20110109 00:38:09 [两口子吵架的原因，原因很逗，评论更逗](pages/2011/01/09/%e4%b8%a4%e5%8f%a3%e5%ad%90%e5%90%b5%e6%9e%b6%e7%9a%84%e5%8e%9f%e5%9b%a0%ef%bc%8c%e5%8e%9f%e5%9b%a0%e5%be%88%e9%80%97%ef%bc%8c%e8%af%84%e8%ae%ba%e6%9b%b4%e9%80%97.html)
+* 20110112 09:47:42 [30个有趣的人生定律](pages/2011/01/12/30%e4%b8%aa%e6%9c%89%e8%b6%a3%e7%9a%84%e4%ba%ba%e7%94%9f%e5%ae%9a%e5%be%8b.html)
+* 20110121 10:43:07 [自然要览Nature 469: 7330 20 January 2011](pages/2011/01/21/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88nature-469-7330-20-january-2011.html)
+* 20110121 22:55:24 [多功能PDF格式转换软件PDFZilla](pages/2011/01/21/%e5%a4%9a%e5%8a%9f%e8%83%bdpdf%e6%a0%bc%e5%bc%8f%e8%bd%ac%e6%8d%a2%e8%bd%af%e4%bb%b6pdfzilla.html)
+* 20110122 20:07:13 [绝对刺瞎你眼的40个经典段子](pages/2011/01/22/%e7%bb%9d%e5%af%b9%e5%88%ba%e7%9e%8e%e4%bd%a0%e7%9c%bc%e7%9a%8440%e4%b8%aa%e7%bb%8f%e5%85%b8%e6%ae%b5%e5%ad%90.html)
+* 20110123 18:14:28 [科学家发现土拨鼠有自己语言 会形容人的长相](pages/2011/01/23/%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e5%9c%9f%e6%8b%a8%e9%bc%a0%e6%9c%89%e8%87%aa%e5%b7%b1%e8%af%ad%e8%a8%80-%e4%bc%9a%e5%bd%a2%e5%ae%b9%e4%ba%ba%e7%9a%84%e9%95%bf%e7%9b%b8.html)
+* 20110126 10:44:54 [目前还存活的多个电驴下载站点](pages/2011/01/26/%e7%9b%ae%e5%89%8d%e8%bf%98%e5%ad%98%e6%b4%bb%e7%9a%84%e5%a4%9a%e4%b8%aa%e7%94%b5%e9%a9%b4%e4%b8%8b%e8%bd%bd%e7%ab%99%e7%82%b9.html)
+* 20110126 20:08:33 [DNA条形码之父和Digital biodiversity](pages/2011/01/26/dna%e6%9d%a1%e5%bd%a2%e7%a0%81%e4%b9%8b%e7%88%b6%e5%92%8cdigital-biodiversity.html)
+* 20110128 18:58:40 [自然要览Nature 469: 7331 27 January 2011](pages/2011/01/28/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88nature-469-7331-27-january-2011.html)
+
+ 
+
+ 
 
 # 2010
 
