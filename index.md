@@ -489,15 +489,40 @@ tagline: Fight Against Bioinformatics with Perl
 
 ## 2011.7
 
-* 2011-07-13 20:07:16: [Annals Human Genet.：发现中国人特有解酒基因](pages/2011/07/13/annals-human-genet-%ef%bc%9a%e5%8f%91%e7%8e%b0%e4%b8%ad%e5%9b%bd%e4%ba%ba%e7%89%b9%e6%9c%89%e8%a7%a3%e9%85%92%e5%9f%ba%e5%9b%a0.html)
+* 2011-07-13 20:07:16: [Annals Human Genet.：发现中国人特有解酒基因](pages/2011/07/13/20110713-200716.html)
 
-* 2011-07-01 00:39:24: [100多句精辟的要死的句子](pages/2011/07/01/100%e5%a4%9a%e5%8f%a5%e7%b2%be%e8%be%9f%e7%9a%84%e8%a6%81%e6%ad%bb%e7%9a%84%e5%8f%a5%e5%ad%90.html)
-* 2011-07-11 21:19:56: [每天半杯清茶能助孕 10个妙招提高女人怀孕几率](pages/2011/07/11/%e6%af%8f%e5%a4%a9%e5%8d%8a%e6%9d%af%e6%b8%85%e8%8c%b6%e8%83%bd%e5%8a%a9%e5%ad%95-10%e4%b8%aa%e5%a6%99%e6%8b%9b%e6%8f%90%e9%ab%98%e5%a5%b3%e4%ba%ba%e6%80%80%e5%ad%95%e5%87%a0%e7%8e%87.html)
-* 2011-07-12 14:10:57: [Molecular Cell：调节人体内一种代谢酶可有效控制葡萄糖浓度](pages/2011/07/12/molecular-cell%ef%bc%9a%e8%b0%83%e8%8a%82%e4%ba%ba%e4%bd%93%e5%86%85%e4%b8%80%e7%a7%8d%e4%bb%a3%e8%b0%a2%e9%85%b6%e5%8f%af%e6%9c%89%e6%95%88%e6%8e%a7%e5%88%b6%e8%91%a1%e8%90%84%e7%b3%96%e6%b5%93.html)
-* 2011-07-12 14:13:05: [Cell：揭示RNA聚合酶II关键延伸过程](pages/2011/07/12/cell%ef%bc%9a%e6%8f%ad%e7%a4%barna%e8%81%9a%e5%90%88%e9%85%b6ii%e5%85%b3%e9%94%ae%e5%bb%b6%e4%bc%b8%e8%bf%87%e7%a8%8b.html)
-* 2011-07-13 20:05:40: [Nature：破解迄今最复杂基因组之一：土豆基因组](pages/2011/07/13/nature%ef%bc%9a%e7%a0%b4%e8%a7%a3%e8%bf%84%e4%bb%8a%e6%9c%80%e5%a4%8d%e6%9d%82%e5%9f%ba%e5%9b%a0%e7%bb%84%e4%b9%8b%e4%b8%80%ef%bc%9a%e5%9c%9f%e8%b1%86%e5%9f%ba%e5%9b%a0%e7%bb%84.html)
+* 2011-07-13 20:05:40: [Nature：破解迄今最复杂基因组之一：土豆基因组](pages/2011/07/13/20110713-200540.html)
+
+* 2011-07-12 14:13:05: [Cell：揭示RNA聚合酶II关键延伸过程](pages/2011/07/12/20110712-141305.html)
+
+* 2011-07-12 14:10:57: [Molecular Cell：调节人体内一种代谢酶可有效控制葡萄糖浓度](pages/2011/07/12/20110712-141057.html)
+
+* 2011-07-11 21:19:56: [每天半杯清茶能助孕 10个妙招提高女人怀孕几率](pages/2011/07/11/20110711-211956.html)
+
+* 2011-07-01 00:39:24: [100多句精辟的要死的句子](pages/2011/07/01/20110701-003924.html)
+
+ 
+
+## 2011.6
+
+* 2011-06-27 23:48:51: [科学家发现跳伞蚂蚁：用臀部控制滑翔方向](pages/2011/06/27/%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e8%b7%b3%e4%bc%9e%e8%9a%82%e8%9a%81%ef%bc%9a%e7%94%a8%e8%87%80%e9%83%a8%e6%8e%a7%e5%88%b6%e6%bb%91%e7%bf%94%e6%96%b9%e5%90%91.html)
 
 
+* 2011-06-02 09:49:29: [远古“杀手虾”挑战生物大灭绝理论](pages/2011/06/02/%e8%bf%9c%e5%8f%a4%e6%9d%80%e6%89%8b%e8%99%be%e6%8c%91%e6%88%98%e7%94%9f%e7%89%a9%e5%a4%a7%e7%81%ad%e7%bb%9d%e7%90%86%e8%ae%ba.html)
+* 2011-06-02 10:08:13: [鲨鱼与鱼](pages/2011/06/02/%e9%b2%a8%e9%b1%bc%e4%b8%8e%e9%b1%bc.html)
+* 2011-06-02 22:44:49: [实验证明：大脑前额叶是自我意识形成的神经基础](pages/2011/06/02/%e5%ae%9e%e9%aa%8c%e8%af%81%e6%98%8e%ef%bc%9a%e5%a4%a7%e8%84%91%e5%89%8d%e9%a2%9d%e5%8f%b6%e6%98%af%e8%87%aa%e6%88%91%e6%84%8f%e8%af%86%e5%bd%a2%e6%88%90%e7%9a%84%e7%a5%9e%e7%bb%8f%e5%9f%ba%e7%a1%80.html)
+* 2011-06-02 22:45:39: [PLoS ONE：人体大脑具有"蝙蝠视觉"能力 观看外界环境](pages/2011/06/02/plos-one%ef%bc%9a%e4%ba%ba%e4%bd%93%e5%a4%a7%e8%84%91%e5%85%b7%e6%9c%89%e8%9d%99%e8%9d%a0%e8%a7%86%e8%a7%89%e8%83%bd%e5%8a%9b-%e8%a7%82%e7%9c%8b%e5%a4%96%e7%95%8c%e7%8e%af%e5%a2%83.html)
+* 2011-06-02 22:46:56: [PNAS：新RNA转录变体可简化生物线路](pages/2011/06/02/pnas%ef%bc%9a%e6%96%b0rna%e8%bd%ac%e5%bd%95%e5%8f%98%e4%bd%93%e5%8f%af%e7%ae%80%e5%8c%96%e7%94%9f%e7%89%a9%e7%ba%bf%e8%b7%af.html)
+* 2011-06-02 22:48:33: [Nat.Biotech.：开发出单芯片基因合成新法](pages/2011/06/02/nat-biotech-%ef%bc%9a%e5%bc%80%e5%8f%91%e5%87%ba%e5%8d%95%e8%8a%af%e7%89%87%e5%9f%ba%e5%9b%a0%e5%90%88%e6%88%90%e6%96%b0%e6%b3%95.html)
+* 2011-06-07 20:43:48: [PLoS ONE：六种木本竹子叶绿体基因组全序列测定完成](pages/2011/06/07/plos-one%ef%bc%9a%e5%85%ad%e7%a7%8d%e6%9c%a8%e6%9c%ac%e7%ab%b9%e5%ad%90%e5%8f%b6%e7%bb%bf%e4%bd%93%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%85%a8%e5%ba%8f%e5%88%97%e6%b5%8b%e5%ae%9a%e5%ae%8c%e6%88%90.html)
+* 2011-06-07 20:57:46: [德致死大肠杆菌仍来源不明 科学家疑沼气设备](pages/2011/06/07/%e5%be%b7%e8%87%b4%e6%ad%bb%e5%a4%a7%e8%82%a0%e6%9d%86%e8%8f%8c%e4%bb%8d%e6%9d%a5%e6%ba%90%e4%b8%8d%e6%98%8e-%e7%a7%91%e5%ad%a6%e5%ae%b6%e7%96%91%e6%b2%bc%e6%b0%94%e8%ae%be%e5%a4%87.html)
+* 2011-06-09 14:25:49: [有个懂你的人，是最大的幸福](pages/2011/06/09/%e6%9c%89%e4%b8%aa%e6%87%82%e4%bd%a0%e7%9a%84%e4%ba%ba%ef%bc%8c%e6%98%af%e6%9c%80%e5%a4%a7%e7%9a%84%e5%b9%b8%e7%a6%8f.html)
+* 2011-06-12 23:48:13: [RiceDiversity frequently asked questions](pages/2011/06/12/ricediversity-frequently-asked-questions.html)
+* 2011-06-13 10:59:00: [一辆可以飞的未来自行车](pages/2011/06/13/%e4%b8%80%e8%be%86%e5%8f%af%e4%bb%a5%e9%a3%9e%e7%9a%84%e6%9c%aa%e6%9d%a5%e8%87%aa%e8%a1%8c%e8%bd%a6.html)
+* 2011-06-13 11:09:17: [五年western blot实验经验总结](pages/2011/06/13/%e4%ba%94%e5%b9%b4western-blot%e5%ae%9e%e9%aa%8c%e7%bb%8f%e9%aa%8c%e6%80%bb%e7%bb%93.html)
+* 2011-06-15 01:47:45: [瑞萨开发出不需电池的无线通信技术](pages/2011/06/15/%e7%91%9e%e8%90%a8%e5%bc%80%e5%8f%91%e5%87%ba%e4%b8%8d%e9%9c%80%e7%94%b5%e6%b1%a0%e7%9a%84%e6%97%a0%e7%ba%bf%e9%80%9a%e4%bf%a1%e6%8a%80%e6%9c%af.html)
+* 2011-06-21 17:28:44: [Nature：发现驱动线粒体钙通道机制关键蛋白](pages/2011/06/21/nature%ef%bc%9a%e5%8f%91%e7%8e%b0%e9%a9%b1%e5%8a%a8%e7%ba%bf%e7%b2%92%e4%bd%93%e9%92%99%e9%80%9a%e9%81%93%e6%9c%ba%e5%88%b6%e5%85%b3%e9%94%ae%e8%9b%8b%e7%99%bd.html)
+* 2011-06-21 17:30:04: [JBC：编制光合作用蛋白质目录 揭秘生物过程](pages/2011/06/21/jbc%ef%bc%9a%e7%bc%96%e5%88%b6%e5%85%89%e5%90%88%e4%bd%9c%e7%94%a8%e8%9b%8b%e7%99%bd%e8%b4%a8%e7%9b%ae%e5%bd%95-%e6%8f%ad%e7%a7%98%e7%94%9f%e7%89%a9%e8%bf%87%e7%a8%8b.html)
 
 
 
@@ -565,22 +590,6 @@ tagline: Fight Against Bioinformatics with Perl
 * 2011-05-23 11:54:09: [Nature：研究首次实现基因表达控制量化](pages/2011/05/23/nature%ef%bc%9a%e7%a0%94%e7%a9%b6%e9%a6%96%e6%ac%a1%e5%ae%9e%e7%8e%b0%e5%9f%ba%e5%9b%a0%e8%a1%a8%e8%be%be%e6%8e%a7%e5%88%b6%e9%87%8f%e5%8c%96.html)
 * 2011-05-26 00:15:42: [Tips for sequencing DNA](pages/2011/05/26/tips-for-sequencing-dna.html)
 * 2011-05-30 19:19:02: [PCR 发明人的故事](pages/2011/05/30/pcr-%e5%8f%91%e6%98%8e%e4%ba%ba%e7%9a%84%e6%95%85%e4%ba%8b.html)
-* 2011-06-02 09:49:29: [远古“杀手虾”挑战生物大灭绝理论](pages/2011/06/02/%e8%bf%9c%e5%8f%a4%e6%9d%80%e6%89%8b%e8%99%be%e6%8c%91%e6%88%98%e7%94%9f%e7%89%a9%e5%a4%a7%e7%81%ad%e7%bb%9d%e7%90%86%e8%ae%ba.html)
-* 2011-06-02 10:08:13: [鲨鱼与鱼](pages/2011/06/02/%e9%b2%a8%e9%b1%bc%e4%b8%8e%e9%b1%bc.html)
-* 2011-06-02 22:44:49: [实验证明：大脑前额叶是自我意识形成的神经基础](pages/2011/06/02/%e5%ae%9e%e9%aa%8c%e8%af%81%e6%98%8e%ef%bc%9a%e5%a4%a7%e8%84%91%e5%89%8d%e9%a2%9d%e5%8f%b6%e6%98%af%e8%87%aa%e6%88%91%e6%84%8f%e8%af%86%e5%bd%a2%e6%88%90%e7%9a%84%e7%a5%9e%e7%bb%8f%e5%9f%ba%e7%a1%80.html)
-* 2011-06-02 22:45:39: [PLoS ONE：人体大脑具有"蝙蝠视觉"能力 观看外界环境](pages/2011/06/02/plos-one%ef%bc%9a%e4%ba%ba%e4%bd%93%e5%a4%a7%e8%84%91%e5%85%b7%e6%9c%89%e8%9d%99%e8%9d%a0%e8%a7%86%e8%a7%89%e8%83%bd%e5%8a%9b-%e8%a7%82%e7%9c%8b%e5%a4%96%e7%95%8c%e7%8e%af%e5%a2%83.html)
-* 2011-06-02 22:46:56: [PNAS：新RNA转录变体可简化生物线路](pages/2011/06/02/pnas%ef%bc%9a%e6%96%b0rna%e8%bd%ac%e5%bd%95%e5%8f%98%e4%bd%93%e5%8f%af%e7%ae%80%e5%8c%96%e7%94%9f%e7%89%a9%e7%ba%bf%e8%b7%af.html)
-* 2011-06-02 22:48:33: [Nat.Biotech.：开发出单芯片基因合成新法](pages/2011/06/02/nat-biotech-%ef%bc%9a%e5%bc%80%e5%8f%91%e5%87%ba%e5%8d%95%e8%8a%af%e7%89%87%e5%9f%ba%e5%9b%a0%e5%90%88%e6%88%90%e6%96%b0%e6%b3%95.html)
-* 2011-06-07 20:43:48: [PLoS ONE：六种木本竹子叶绿体基因组全序列测定完成](pages/2011/06/07/plos-one%ef%bc%9a%e5%85%ad%e7%a7%8d%e6%9c%a8%e6%9c%ac%e7%ab%b9%e5%ad%90%e5%8f%b6%e7%bb%bf%e4%bd%93%e5%9f%ba%e5%9b%a0%e7%bb%84%e5%85%a8%e5%ba%8f%e5%88%97%e6%b5%8b%e5%ae%9a%e5%ae%8c%e6%88%90.html)
-* 2011-06-07 20:57:46: [德致死大肠杆菌仍来源不明 科学家疑沼气设备](pages/2011/06/07/%e5%be%b7%e8%87%b4%e6%ad%bb%e5%a4%a7%e8%82%a0%e6%9d%86%e8%8f%8c%e4%bb%8d%e6%9d%a5%e6%ba%90%e4%b8%8d%e6%98%8e-%e7%a7%91%e5%ad%a6%e5%ae%b6%e7%96%91%e6%b2%bc%e6%b0%94%e8%ae%be%e5%a4%87.html)
-* 2011-06-09 14:25:49: [有个懂你的人，是最大的幸福](pages/2011/06/09/%e6%9c%89%e4%b8%aa%e6%87%82%e4%bd%a0%e7%9a%84%e4%ba%ba%ef%bc%8c%e6%98%af%e6%9c%80%e5%a4%a7%e7%9a%84%e5%b9%b8%e7%a6%8f.html)
-* 2011-06-12 23:48:13: [RiceDiversity frequently asked questions](pages/2011/06/12/ricediversity-frequently-asked-questions.html)
-* 2011-06-13 10:59:00: [一辆可以飞的未来自行车](pages/2011/06/13/%e4%b8%80%e8%be%86%e5%8f%af%e4%bb%a5%e9%a3%9e%e7%9a%84%e6%9c%aa%e6%9d%a5%e8%87%aa%e8%a1%8c%e8%bd%a6.html)
-* 2011-06-13 11:09:17: [五年western blot实验经验总结](pages/2011/06/13/%e4%ba%94%e5%b9%b4western-blot%e5%ae%9e%e9%aa%8c%e7%bb%8f%e9%aa%8c%e6%80%bb%e7%bb%93.html)
-* 2011-06-15 01:47:45: [瑞萨开发出不需电池的无线通信技术](pages/2011/06/15/%e7%91%9e%e8%90%a8%e5%bc%80%e5%8f%91%e5%87%ba%e4%b8%8d%e9%9c%80%e7%94%b5%e6%b1%a0%e7%9a%84%e6%97%a0%e7%ba%bf%e9%80%9a%e4%bf%a1%e6%8a%80%e6%9c%af.html)
-* 2011-06-21 17:28:44: [Nature：发现驱动线粒体钙通道机制关键蛋白](pages/2011/06/21/nature%ef%bc%9a%e5%8f%91%e7%8e%b0%e9%a9%b1%e5%8a%a8%e7%ba%bf%e7%b2%92%e4%bd%93%e9%92%99%e9%80%9a%e9%81%93%e6%9c%ba%e5%88%b6%e5%85%b3%e9%94%ae%e8%9b%8b%e7%99%bd.html)
-* 2011-06-21 17:30:04: [JBC：编制光合作用蛋白质目录 揭秘生物过程](pages/2011/06/21/jbc%ef%bc%9a%e7%bc%96%e5%88%b6%e5%85%89%e5%90%88%e4%bd%9c%e7%94%a8%e8%9b%8b%e7%99%bd%e8%b4%a8%e7%9b%ae%e5%bd%95-%e6%8f%ad%e7%a7%98%e7%94%9f%e7%89%a9%e8%bf%87%e7%a8%8b.html)
-* 2011-06-27 23:48:51: [科学家发现跳伞蚂蚁：用臀部控制滑翔方向](pages/2011/06/27/%e7%a7%91%e5%ad%a6%e5%ae%b6%e5%8f%91%e7%8e%b0%e8%b7%b3%e4%bc%9e%e8%9a%82%e8%9a%81%ef%bc%9a%e7%94%a8%e8%87%80%e9%83%a8%e6%8e%a7%e5%88%b6%e6%bb%91%e7%bf%94%e6%96%b9%e5%90%91.html)
 
 # 2010
 
