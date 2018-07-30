@@ -13,7 +13,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 > 这是我的个人博客，通常发一些生物科学以及一些别处看来的好文章
 >
-> 博客正在从wordpress.com搬家到这里，向前整理到2011年了
+> 博客正在从wordpress.com搬家到这里，向前整理到2010年了
 >
 > 多谢关注
 
@@ -669,7 +669,18 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20110101 22:05:28 [让子弹飞结局大揭密](pages/2011/01/01/20110101-220528.html)
 
-## 2011 整理到此
+***
+
+***
+
+# 2010
+
+***
+
+## 2010.12
+
+
+## 整理到此 20180730
 =======================================================
 
 
@@ -680,9 +691,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 
 
-# 2010
 
-## 2010.12
 
 * 2010-12-29 15:19:52: [年终感悟](pages/2010/12/29/%e5%b9%b4%e7%bb%88%e6%84%9f%e6%82%9f.html)
 * 2010-12-24 16:16:58: [【自然要览】Nature 468: 7327 23 December 2010](pages/2010/12/24/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88-nature-468-7327-23-december-2010.html)
