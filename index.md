@@ -17,9 +17,9 @@ tagline: Fight Against Bioinformatics with Perl
 >
 > 多谢关注
 
- 
+***
 
- 
+***
 
 # 2018
 
@@ -31,9 +31,9 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20180516 21:40:22 [一组中国老照片的背后是一段感人的岁月【转载】](pages/2018/05/16/20180516-214022.html)
 
- 
+***
 
- 
+***
 
 # 2017
 
@@ -53,35 +53,35 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20170201 23:33:13 [有缘，自然遇见【转载】](pages/2017/02/01/20170201-233313.html)
 
- 
+***
 
- 
+***
 
 # 2016
 
 * 2016-11-04 19:26:00: [待到你我花甲...](pages/2016/11/04/20161104-192600.html)
 
- 
+***
 
- 
+***
 
 # 2015
 
 * 2015-11-13 02:27:22: [Full_lengther_NEXT v0.0.8 database setup and run](pages/2015/11/13/20151113-022722.html)
 
- 
+***
 
- 
+***
 
 # 2014
 
- 
+***
 
 ## 2014.11
 
 * 20141114 20:59:28 [Latest PICARD-tools installation (from v1.124)](pages/2014/11/14/20141114-205928.html)
 
- 
+***
 
 ## 2014.7
 
@@ -91,13 +91,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20140717 18:55:55 [98岁老中医的7个忠告【转载】](pages/2014/07/17/20140717-185555.html)
 
- 
+***
 
 ## 2014.6
 
 * 20140610 19:20:08 [pETnT vector sequence](pages/2014/06/10/20140610-192008.html)
 
- 
+***
 
 ## 2014.4
 
@@ -107,7 +107,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20140403 18:35:02 [月老贵庚: How old are you, Moon?](pages/2014/04/03/20140403-183502.html)
 
- 
+***
 
 ## 2014.1
 
@@ -131,13 +131,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20140106 21:09:28 [【FASEB J】科学家解释年龄增长相关肥胖发生的机制](pages/2014/01/06/20140106-210928.html)
 
- 
+***
 
- 
+***
 
 # 2013
 
- 
+***
 
 ## 2013.11
 
@@ -151,13 +151,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20131107 02:59:43 [【Science】单细胞测序显示：同一个人的不同神经元DNA序列不一样](pages/2013/11/07/20131107-025943.html)
 
- 
+***
 
 ## 2013.9
 
 * 20130921 06:51:09 [晒晒我的linux alias文件](pages/2013/09/21/20130921-065109.html)
 
- 
+***
 
 ## 2013.7
 
@@ -165,13 +165,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20130723 21:43:09 [【Nature】指甲控制指头再生](pages/2013/07/23/20130723-214309.html)
 
- 
+***
 
- 
+***
 
 # 2012
 
- 
+***
 
 ## 2012.11
 
@@ -191,7 +191,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20121121 16:13:14 [【PLoS One】张亚平等疯牛病调控基因研究取得新进展](pages/2012/11/21/20121121-161314.html)
 
- 
+***
 
 ## 2012.7
 
@@ -223,7 +223,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120701 15:07:49 [转录组测序概述及实验分析流程Transcriptome sequencing and main workflow](pages/2012/07/01/20120701-150749.html)
 
- 
+***
 
 ## 2012.6
 
@@ -245,7 +245,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 2012-06-07 13:48:36: [The very basics of R](pages/2012/06/07/the-very-basics-of-r.html)
 
- 
+***
 
 ## 2012.5
 
@@ -265,7 +265,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120502 23:34:35 [如果泰坦尼克号最后没有撞冰山…](pages/2012/05/02/20120502-233435.html)
 
- 
+***
 
 ## 2012.4
 
@@ -279,13 +279,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120404 09:45:33 [Plant microRNA functions into human](pages/2012/04/04/20120404-094533.html)
 
- 
+***
 
 ## 2012.3
 
 * 20120313 15:59:50 [P-values, False Discovery Rate (FDR) and q-values](pages/2012/03/13/20120313-155950.html)
 
- 
+***
 
 ## 2012.2
 
@@ -301,7 +301,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120207 16:57:53 [【The Plant Cell】开发出破译复杂谷物基因组的方法](pages/2012/02/07/20120207-165753.html)
 
- 
+***
 
 ## 2012.1
 
@@ -315,13 +315,13 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120107 20:27:58 [美国诞生首例转基因猴 基因来自6个不同胚胎](pages/2012/01/07/20120107-202758.html)
 
- 
+***
 
- 
+***
 
 # 2011
 
- 
+***
 
 ## 2011.12
 
@@ -341,7 +341,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20111203 20:24:50 [科学家首次拍摄性高潮时女性大脑活动影像](pages/2011/12/03/20111203-202450.html)
 
- 
+***
 
 ## 2011.11
 
@@ -397,7 +397,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20111106 22:44:41 [Joining in the Seosan Scholarship Association–Autumn Concert 瑞山音乐会](pages/2011/11/06/20111106-224441.html)
 
- 
+***
 
 ## 2011.10
 
@@ -425,7 +425,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20111018 14:12:10 [蛋疼人士专属玩具。飞机就是这样炼成的！！！](pages/2011/10/18/20111018-141210.html)
 
- 
+***
 
 ## 2011.09
 
@@ -461,7 +461,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20110902 22:18:27 [韩国研发出电池新材料充电仅需2分钟](pages/2011/09/02/20110902-221827.html)
 
- 
+***
 
 ## 2011.8
 
@@ -485,7 +485,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20110818 23:34:58 [第一个珊瑚基因组测序完成](pages/2011/08/18/20110818-233458.html)
 
- 
+***
 
 ## 2011.7
 
@@ -501,7 +501,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20110701 00:39:24 [100多句精辟的要死的句子](pages/2011/07/01/20110701-003924.html)
 
- 
+***
 
 ## 2011.6
 
@@ -537,7 +537,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20110602 09:49:29 [远古“杀手虾”挑战生物大灭绝理论](pages/2011/06/02/20110602-094929.html)
 
- 
+***
 
 ## 2011.5
 
@@ -585,7 +585,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20110504 14:16:26 [【PNAS】大规模基因重测序确认亚洲栽培稻起源于中国](pages/2011/05/04/20110504-141626.html)
 
- 
+***
 
 ## 2011.4
 
@@ -605,7 +605,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20110411 21:04:31 [冯巩的55句经典语](pages/2011/04/11/20110411-210431.html)
 
- 
+***
 
 ## 2011.3
 
@@ -729,7 +729,7 @@ tagline: Fight Against Bioinformatics with Perl
 ## 整理到此 20180730
 =======================================================
 
-* 20101129 21:25:07 [【转载】爹妈，如果我暂时嫁不出去...](pages/2010/11/29/%e7%88%b9%e5%a6%88%ef%bc%8c%e5%a6%82%e6%9e%9c%e6%88%91%e6%9a%82%e6%97%b6%e5%ab%81%e4%b8%8d%e5%87%ba%e5%8e%bb.html)
+* 20101129 21:25:07 [爹妈，如果我暂时嫁不出去...【转载】](pages/2010/11/29/%e7%88%b9%e5%a6%88%ef%bc%8c%e5%a6%82%e6%9e%9c%e6%88%91%e6%9a%82%e6%97%b6%e5%ab%81%e4%b8%8d%e5%87%ba%e5%8e%bb.html)
 * 20101129 11:39:02 [【自然要览】Nature 468: 7323 25 November 2010](pages/2010/11/29/%e8%87%aa%e7%84%b6%e8%a6%81%e8%a7%88-nature-468-7323-25-november-2010.html)
 * 20101124 11:42:02 [三个女生在床上的悄悄话](pages/2010/11/24/%e4%b8%89%e4%b8%aa%e5%a5%b3%e7%94%9f%e5%9c%a8%e5%ba%8a%e4%b8%8a%e7%9a%84%e6%82%84%e6%82%84%e8%af%9d.html)
 * 20101122 13:51:50 [印度洋发现鱿鱼新物种 长70厘米有发光器官](pages/2010/11/22/%e5%8d%b0%e5%ba%a6%e6%b4%8b%e5%8f%91%e7%8e%b0%e9%b1%bf%e9%b1%bc%e6%96%b0%e7%89%a9%e7%a7%8d-%e9%95%bf70%e5%8e%98%e7%b1%b3%e6%9c%89%e5%8f%91%e5%85%89%e5%99%a8%e5%ae%98.html)
