@@ -885,15 +885,18 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20100817 12:46:34 [拟南芥基因图位克隆](pages/2010/08/17/20100817-124634.html)
 
+* 20100817 12:39:52 [Map-Based Cloning of PDV1](pages/2010/08/17/20100817-123952.html)
+
+* 20100817 12:39:03 [Map-Based Cloning of FON4](pages/2010/08/17/20100817-123903.html)
+
+* 20100817 12:38:11 [An AFLP-based genome-wide mapping strategy](pages/2010/08/17/20100817-123811.html)
+
 
 
 ## 整理到此 20180730
 =======================================================
 
 
-* 20100817 12:39:52 [Map-Based Cloning of PDV1](pages/2010/08/17/map-based-cloning-of-pdv1.html)
-* 20100817 12:39:03 [Map-Based Cloning of FON4](pages/2010/08/17/map-based-cloning-of-fon4.html)
-* 20100817 12:38:11 [An AFLP-based genome-wide mapping strategy](pages/2010/08/17/an-aflp-based-genome-wide-mapping-strategy.html)
 * 20100817 12:37:24 [Gene identification and cloning by molecular marker mapping](pages/2010/08/17/gene-identification-and-cloning-by-molecular-marker-mapping.html)
 * 20100817 12:36:43 [拟南芥图位克隆三篇重要文献](pages/2010/08/17/%e6%8b%9f%e5%8d%97%e8%8a%a5%e5%9b%be%e4%bd%8d%e5%85%8b%e9%9a%86%e4%b8%89%e7%af%87%e9%87%8d%e8%a6%81%e6%96%87%e7%8c%ae.html)
 * 20100817 12:35:54 [DNeasy 96 Plant Handbook(翻译稿)](pages/2010/08/17/dneasy-96-plant-handbook%e7%bf%bb%e8%af%91%e7%a8%bf.html)
