@@ -219,7 +219,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20120712 16:46:57 [木薯转化方法 Robust transformation procedure —Plant Methods](pages/2012/07/12/20120712-164657.html)
 
-* 2012-07-10 22:58:19: [Big mosquito](pages/2012/07/10/big-mosquito.html)
+* 20120710 22:58:19 [Big mosquito](pages/2012/07/10/20120710-225819.html)
 
 * 20120701 15:07:49 [转录组测序概述及实验分析流程Transcriptome sequencing and main workflow](pages/2012/07/01/20120701-150749.html)
 
@@ -834,6 +834,8 @@ tagline: Fight Against Bioinformatics with Perl
 * 20100830 10:22:44 [“青蛙皮肤”抗生素有望杀灭超级细菌](pages/2010/08/30/20100830-102244.html)
 
 * 20100830 05:52:33 [印尼深海发现奇异新物种 四足琵琶鱼海底悠闲漫步](pages/2010/08/30/20100830-055233.html)
+
+* 20100830 05:48:57 [蚂蚁基因组序列被破译 有助探究人类衰老根源](pages/2010/08/30/20100830-054857.html)
 
 * 20100830 05:39:43 [【PNAS】发现偏头疼相关基因NBCe1](pages/2010/08/30/20100830-053943.html)
 
