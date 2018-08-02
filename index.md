@@ -891,42 +891,68 @@ tagline: Fight Against Bioinformatics with Perl
 
 * 20100817 12:38:11 [An AFLP-based genome-wide mapping strategy](pages/2010/08/17/20100817-123811.html)
 
+* 20100817 12:37:24 [Gene identification and cloning by molecular marker mapping](pages/2010/08/17/20100817-123724.html)
+
+* 20100817 12:36:43 [拟南芥图位克隆三篇重要文献](pages/2010/08/17/20100817-123643.html)
+
+* 20100817 12:35:54 [DNeasy 96 Plant Handbook(翻译稿)](pages/2010/08/17/20100817-123554.html)
+
+* 20100817 12:32:30 [用ReadyMixTM PCR Reaction Mix进行拟南芥SSLP](pages/2010/08/17/20100817-123230.html)
+
+* 20100817 12:31:40 [从植物细胞和组织及丝状真菌中提取纯化总RNA](pages/2010/08/17/20100817-123140.html)
+
+* 20100817 08:59:48 [如何重悬引物](pages/2010/08/17/20100817-085948.html)
+
+* 20100817 08:56:38 [基因差异表达技术](pages/2010/08/17/%e5%9f%ba%e5%9b%a0%e5%b7%ae%e5%bc%82%e8%a1%a8%e8%be%be%e6%8a%80%e6%9c%af.html)
+
+* 20100817 08:54:38 [Preparation of Antibiotic Stock Solutions and Agar Plates](pages/2010/08/17/20100817-085438.html)
+
+* 20100817 08:53:28 [Quantifying Oligonucleotides](pages/2010/08/17/quantifying-oligonucleotides.html)
+
+* 20100817 08:47:01 [多基因转化载体系统](pages/2010/08/17/20100817-084701.html)
+
+* 20100817 08:45:53 [可转化人工染色体（TAC）](pages/2010/08/17/20100817-084553.html)
+
+* 20100817 08:44:43 [SAGE和SADE](pages/2010/08/17/20100817-084443.html)
+
+* 20100817 08:43:44 [联合作图和单倍体型](pages/2010/08/17/20100817-084344.html)
+
+* 20100817 08:23:25 [染色体免疫共沉淀ChIP方法程序](pages/2010/08/17/20100817-082325.html)
+
+* 20100817 00:46:09 [拟南芥中与抗寒相关的SPT基因](pages/2010/08/17/20100817-004609.html)
+
+* 20100817 00:33:01 [超级营养蔬菜最新排名：菠菜居榜首](pages/2010/08/17/20100817-003301.html)
+
+* 20100816 10:49:45 [MiRNA影响mRNA的机制](pages/2010/08/16/20100816-104945.html)
+
+* 20100813 03:22:11 [艾滋病病毒发现者：艾滋病患可望消除病根](pages/2010/08/13/20100813-032211.html)
+
+* 20100812 04:43:55 [专家：生物大灭绝正在进行 人类活动所引发](pages/2010/08/12/20100812-044355.html)
+
+* 20100812 04:42:04 [美国科学家成功使哺乳动物腿骨再生](pages/2010/08/12/20100812-044204.html)
+
+* 20100812 04:40:06 [英仙座流星雨如约光临地球](pages/2010/08/12/20100812-044006.html)
+
+* 20100812 04:38:23 [【柳叶刀】“超级病菌”能抵御几乎所有抗生素](pages/2010/08/12/20100812-043823.html)
+
+* 20100812 04:36:16 [【Nature】哺乳动物直接复制RNA首获证实](pages/2010/08/12/20100812-043616.html)
+
+* 20100811 06:04:39 [千艘UFO光临太阳 专家质疑NASA对全人类说谎](pages/2010/08/11/20100811-060439.html)
+
+* 20100809 15:24:49 [古老的八字婚配很准](pages/2010/08/09/20100809-152449.html)
+
+* 20100809 14:13:49 [德国研发能够辨别恶性基因突变软件](pages/2010/08/09/20100809-141349.html)
+
+* 20100809 12:04:21 [太阳风暴光临地球 世界多个国家出现绝美极光](pages/2010/08/09/20100809-120421.html)
+
+* 20100809 04:32:57 [【Nature】远古鳄鱼安逸的陆地生活](pages/2010/08/09/nature%ef%bc%9a%e8%bf%9c%e5%8f%a4%e9%b3%84%e9%b1%bc%e5%ae%89%e9%80%b8%e7%9a%84%e9%99%86%e5%9c%b0%e7%94%9f%e6%b4%bb.html)
+
+* 20100807 07:17:50 [【Nature】海绵基因组草图绘制完成](pages/2010/08/07/20100807-071750.html)
 
 
 ## 整理到此 20180730
 =======================================================
 
-
-* 20100817 12:37:24 [Gene identification and cloning by molecular marker mapping](pages/2010/08/17/gene-identification-and-cloning-by-molecular-marker-mapping.html)
-* 20100817 12:36:43 [拟南芥图位克隆三篇重要文献](pages/2010/08/17/%e6%8b%9f%e5%8d%97%e8%8a%a5%e5%9b%be%e4%bd%8d%e5%85%8b%e9%9a%86%e4%b8%89%e7%af%87%e9%87%8d%e8%a6%81%e6%96%87%e7%8c%ae.html)
-* 20100817 12:35:54 [DNeasy 96 Plant Handbook(翻译稿)](pages/2010/08/17/dneasy-96-plant-handbook%e7%bf%bb%e8%af%91%e7%a8%bf.html)
-* 20100817 12:32:30 [用ReadyMixTM PCR Reaction Mix进行拟南芥SSLP](pages/2010/08/17/%e7%94%a8readymixtm-pcr-reaction-mix%e8%bf%9b%e8%a1%8c%e6%8b%9f%e5%8d%97%e8%8a%a5sslp.html)
-* 20100817 12:31:40 [从植物细胞和组织及丝状真菌中提取纯化总RNA](pages/2010/08/17/%e4%bb%8e%e6%a4%8d%e7%89%a9%e7%bb%86%e8%83%9e%e5%92%8c%e7%bb%84%e7%bb%87%e5%8f%8a%e4%b8%9d%e7%8a%b6%e7%9c%9f%e8%8f%8c%e4%b8%ad%e6%8f%90%e5%8f%96%e7%ba%af%e5%8c%96%e6%80%bbrna.html)
-* 20100817 08:59:48 [如何重悬引物](pages/2010/08/17/%e5%a6%82%e4%bd%95%e9%87%8d%e6%82%ac%e5%bc%95%e7%89%a9.html)
-* 20100817 08:56:38 [基因差异表达技术](pages/2010/08/17/%e5%9f%ba%e5%9b%a0%e5%b7%ae%e5%bc%82%e8%a1%a8%e8%be%be%e6%8a%80%e6%9c%af.html)
-* 20100817 08:54:38 [Preparation of Antibiotic Stock Solutions and Agar Plates](pages/2010/08/17/preparation-of-antibiotic-stock-solutions-and-agar-plates.html)
-* 20100817 08:53:28 [Quantifying Oligonucleotides](pages/2010/08/17/quantifying-oligonucleotides.html)
-* 20100817 08:47:01 [多基因转化载体系统](pages/2010/08/17/%e5%a4%9a%e5%9f%ba%e5%9b%a0%e8%bd%ac%e5%8c%96%e8%bd%bd%e4%bd%93%e7%b3%bb%e7%bb%9f.html)
-* 20100817 08:45:53 [可转化人工染色体（TAC）](pages/2010/08/17/%e5%8f%af%e8%bd%ac%e5%8c%96%e4%ba%ba%e5%b7%a5%e6%9f%93%e8%89%b2%e4%bd%93%ef%bc%88tac%ef%bc%89.html)
-* 20100817 08:44:43 [SAGE和SADE](pages/2010/08/17/sage%e5%92%8csade.html)
-* 20100817 08:43:44 [联合作图和单倍体型](pages/2010/08/17/%e8%81%94%e5%90%88%e4%bd%9c%e5%9b%be%e5%92%8c%e5%8d%95%e5%80%8d%e4%bd%93%e5%9e%8b.html)
-* 20100817 08:23:25 [染色体免疫共沉淀ChIP方法程序](pages/2010/08/17/%e6%9f%93%e8%89%b2%e4%bd%93%e5%85%8d%e7%96%ab%e5%85%b1%e6%b2%89%e6%b7%80chip%e6%96%b9%e6%b3%95%e7%a8%8b%e5%ba%8f.html)
-* 20100817 00:46:09 [拟南芥中与抗寒相关的SPT基因](pages/2010/08/17/%e6%8b%9f%e5%8d%97%e8%8a%a5%e4%b8%ad%e4%b8%8e%e6%8a%97%e5%af%92%e7%9b%b8%e5%85%b3%e7%9a%84spt%e5%9f%ba%e5%9b%a0.html)
-* 20100817 00:33:01 [超级营养蔬菜最新排名：菠菜居榜首](pages/2010/08/17/%e8%b6%85%e7%ba%a7%e8%90%a5%e5%85%bb%e8%94%ac%e8%8f%9c%e6%9c%80%e6%96%b0%e6%8e%92%e5%90%8d%ef%bc%9a%e8%8f%a0%e8%8f%9c%e5%b1%85%e6%a6%9c%e9%a6%96.html)
-* 20100816 10:49:45 [MiRNA影响mRNA的机制](pages/2010/08/16/mirna%e5%bd%b1%e5%93%8dmrna%e7%9a%84%e6%9c%ba%e5%88%b6.html)
-* 20100813 03:22:11 [艾滋病病毒发现者：艾滋病患可望消除病根](pages/2010/08/13/%e8%89%be%e6%bb%8b%e7%97%85%e7%97%85%e6%af%92%e5%8f%91%e7%8e%b0%e8%80%85%ef%bc%9a%e8%89%be%e6%bb%8b%e7%97%85%e6%82%a3%e5%8f%af%e6%9c%9b%e6%b6%88%e9%99%a4%e7%97%85%e6%a0%b9.html)
-* 20100812 04:43:55 [专家：生物大灭绝正在进行 人类活动所引发](pages/2010/08/12/%e4%b8%93%e5%ae%b6%ef%bc%9a%e7%94%9f%e7%89%a9%e5%a4%a7%e7%81%ad%e7%bb%9d%e6%ad%a3%e5%9c%a8%e8%bf%9b%e8%a1%8c-%e4%ba%ba%e7%b1%bb%e6%b4%bb%e5%8a%a8%e6%89%80%e5%bc%95%e5%8f%91.html)
-* 20100812 04:42:04 [美国科学家成功使哺乳动物腿骨再生](pages/2010/08/12/%e7%be%8e%e5%9b%bd%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%88%90%e5%8a%9f%e4%bd%bf%e5%93%ba%e4%b9%b3%e5%8a%a8%e7%89%a9%e8%85%bf%e9%aa%a8%e5%86%8d%e7%94%9f.html)
-* 20100812 04:40:06 [英仙座流星雨如约光临地球](pages/2010/08/12/%e8%8b%b1%e4%bb%99%e5%ba%a7%e6%b5%81%e6%98%9f%e9%9b%a8%e5%a6%82%e7%ba%a6%e5%85%89%e4%b8%b4%e5%9c%b0%e7%90%83.html)
-* 20100812 04:38:23 [【柳叶刀】“超级病菌”能抵御几乎所有抗生素](pages/2010/08/12/%e3%80%8a%e6%9f%b3%e5%8f%b6%e5%88%80%e3%80%8b%ef%bc%9a%e2%80%9c%e8%b6%85%e7%ba%a7%e7%97%85%e8%8f%8c%e2%80%9d%e8%83%bd%e6%8a%b5%e5%be%a1%e5%87%a0%e4%b9%8e%e6%89%80%e6%9c%89%e6%8a%97%e7%94%9f%e7%b4%a0.html)
-* 20100812 04:36:16 [Nature：哺乳动物直接复制RNA首获证实](pages/2010/08/12/nature%ef%bc%9a%e5%93%ba%e4%b9%b3%e5%8a%a8%e7%89%a9%e7%9b%b4%e6%8e%a5%e5%a4%8d%e5%88%b6rna%e9%a6%96%e8%8e%b7%e8%af%81%e5%ae%9e.html)
-* 20100811 06:04:39 [千艘UFO光临太阳 专家质疑NASA对全人类说谎](pages/2010/08/11/%e5%8d%83%e8%89%98ufo%e5%85%89%e4%b8%b4%e5%a4%aa%e9%98%b3-%e4%b8%93%e5%ae%b6%e8%b4%a8%e7%96%91nasa%e5%af%b9%e5%85%a8%e4%ba%ba%e7%b1%bb%e8%af%b4%e8%b0%8e.html)
-* 20100811 06:01:41 [15 个一定要会的 Windows7 快捷键](pages/2010/08/11/15-%e4%b8%aa%e4%b8%80%e5%ae%9a%e8%a6%81%e4%bc%9a%e7%9a%84-windows7-%e5%bf%ab%e6%8d%b7%e9%94%ae.html)
-* 20100809 15:24:49 [古老的八字婚配很准](pages/2010/08/09/%e5%8f%a4%e8%80%81%e7%9a%84%e5%85%ab%e5%ad%97%e5%a9%9a%e9%85%8d%e5%be%88%e5%87%86.html)
-* 20100809 14:13:49 [德国研发能够辨别恶性基因突变软件](pages/2010/08/09/%e5%be%b7%e5%9b%bd%e7%a0%94%e5%8f%91%e8%83%bd%e5%a4%9f%e8%be%a8%e5%88%ab%e6%81%b6%e6%80%a7%e5%9f%ba%e5%9b%a0%e7%aa%81%e5%8f%98%e8%bd%af%e4%bb%b6.html)
-* 20100809 12:04:21 [太阳风暴光临地球 世界多个国家出现绝美极光](pages/2010/08/09/%e5%a4%aa%e9%98%b3%e9%a3%8e%e6%9a%b4%e5%85%89%e4%b8%b4%e5%9c%b0%e7%90%83-%e4%b8%96%e7%95%8c%e5%a4%9a%e4%b8%aa%e5%9b%bd%e5%ae%b6%e5%87%ba%e7%8e%b0%e7%bb%9d%e7%be%8e%e6%9e%81%e5%85%89.html)
-* 20100809 04:32:57 [【Nature】远古鳄鱼安逸的陆地生活](pages/2010/08/09/nature%ef%bc%9a%e8%bf%9c%e5%8f%a4%e9%b3%84%e9%b1%bc%e5%ae%89%e9%80%b8%e7%9a%84%e9%99%86%e5%9c%b0%e7%94%9f%e6%b4%bb.html)
-* 20100807 07:17:50 [【自然】海绵基因组草图绘制完成](pages/2010/08/07/%e3%80%8a%e8%87%aa%e7%84%b6%e3%80%8b%ef%bc%9a%e6%b5%b7%e7%bb%b5%e5%9f%ba%e5%9b%a0%e7%bb%84%e8%8d%89%e5%9b%be%e7%bb%98%e5%88%b6%e5%ae%8c%e6%88%90.html)
 
 ## 2010.7
 
