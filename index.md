@@ -67,7 +67,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 # 2016
 
-* 2016-11-04 19:26:00: [待到你我花甲...](pages/2016/11/04/20161104-192600.html)
+* 20161104 19:26:00 [待到你我花甲...](pages/2016/11/04/20161104-192600.html)
 
 ***
 
@@ -75,7 +75,7 @@ tagline: Fight Against Bioinformatics with Perl
 
 # 2015
 
-* 2015-11-13 02:27:22: [Full_lengther_NEXT v0.0.8 database setup and run](pages/2015/11/13/20151113-022722.html)
+* 20151113 02:27:22 [Full_lengther_NEXT v0.0.8 database setup and run](pages/2015/11/13/20151113-022722.html)
 
 ***
 
