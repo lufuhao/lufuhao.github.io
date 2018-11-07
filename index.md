@@ -7,15 +7,13 @@ title: 天涯海角
 
 description: My Web Home
 
-tagline: Fight Against Bioinformatics with Perl
+tagline: Fight Against Bioinformatics With Perl
 
 ---
 
 > 这是我的个人博客，通常发一些生物科学以及一些别处看来的好文章
 > 
-> 博客正在从<http://lufuhao.wordpress.com>搬家到这里
-> 
-> 博君一笑，莫咬文嚼字。多谢关注
+> 只为博君一笑，或普及科学；切莫咬文嚼字，过度解读。多谢关注！
 
 ***
 
