@@ -14,6 +14,8 @@ tagline: Fight Against Bioinformatics With Perl
 > 这是我的个人博客，通常发一些生物科学以及一些别处看来的好文章
 >
 > 只为博君一笑，或普及科学；切莫咬文嚼字，过度解读。多谢关注！
+>
+> 河南大学  卢褔浩
 
 ---
 
