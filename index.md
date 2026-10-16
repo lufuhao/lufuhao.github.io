@@ -21,6 +21,8 @@ tagline: Fight Against Bioinformatics With Perl
 
 # 2026
 
+* 20261016 15:54:02 [New Phytologist | 重磅解密：河南大学揭示小麦BB基因组的起源之谜](pages/2026/10/20261016-155402.md)
+
 * 20260410 17:00:43 [悼念Philippa Borrill‬教授](pages/2026/04/20260410-170043.md)
 
 # 2018
